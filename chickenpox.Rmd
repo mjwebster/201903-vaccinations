@@ -9,7 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ```{r}
+
+#create tables with varicella (chicken pox) vaccination data only
+#separate tables for data year (12-13 and 17-18) and grade (kindergarten and 7th)
 var_kind_1718 <-  kind_new %>% select(schoolID, disname, schname, enroll_new, 
                                  complete_var, inprogress_var, co_var, me_var,
                                  complete_pert_var, inprogress_pert_var, co_pert_var, me_pert_var, disease_hist_var, diseasehist_pert_var,
@@ -39,15 +43,15 @@ var_7_1213 <-  seventh_old  %>% select(schoolID, disname, schname, enroll_new,
                                        county, type2, yr, schoolyr, k12enr, grade, schooltype)
 
 
-
+#merge the files together
 var <-  bind_rows(var_kind_1213, var_kind_1718, var_7_1718, var_7_1213)
 
+#populate null values with zero
 var$co_var[is.na(var$co_var)] <- 0
 var$complete_var[is.na(var$complete_var)] <- 0
 var$inprogress_var[is.na(var$inprogress_var)] <- 0
 var$me_var[is.na(var$me_var)] <- 0
 var$disease_hist_var[is.na(var$disease_hist_var)] <- 0
-
 var$co_pert_var[is.na(var$co_pert_var)] <- 0
 var$complete_pert_var[is.na(var$complete_pert_var)] <- 0
 var$inprogress_pert_var[is.na(var$inprogress_pert_var)] <- 0
@@ -56,7 +60,8 @@ var$diseasehist_pert_var[is.na(var$diseasehist_pert_var)] <- 0
 
 
 
-
+#calculate percent immunity
+#this combines the number kids vaccinated, plus those who had the disease previously
 var <-  var %>%     mutate( 
   total_immunity = complete_var+disease_hist_var,
   total_kids = total_immunity+inprogress_var+co_var+me_var,
@@ -84,6 +89,9 @@ var <-  var %>% mutate(pocket_reason = case_when(var_pocket=='no'~'na',
 
 ```
 
+#Pct of schools in 2018 lacking immunity
+pocket=yes means school has less than 90% immune to chicken pox<br>
+This combines seventh and kindergarten
 ```{r}
   var%>% filter(yr==2018, var_pocket!='not reported') %>% tabyl(grade, var_pocket)%>%
   adorn_percentages("row") %>%
@@ -92,7 +100,9 @@ var <-  var %>% mutate(pocket_reason = case_when(var_pocket=='no'~'na',
   knitr::kable("html") %>% 
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
 ```
-
+#Pct of schools in 2018 lacking immunity-Kindergarten
+By type of school<br>
+pocket=yes means school has less than 90% immune to chicken pox<br>
 ```{r}
   var%>% filter(yr==2018, var_pocket!='not reported',  grade=='Kindergarten') %>%  tabyl(type2, var_pocket)%>%
 
@@ -103,6 +113,8 @@ var <-  var %>% mutate(pocket_reason = case_when(var_pocket=='no'~'na',
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
 ```
 
+#Pocket schools by primary reason
+Both kindergarten and 7th grade, 2018 only
 ```{r}
 var %>% filter(yr==2018, var_pocket=='yes') %>% 
   group_by(pocket_reason) %>% 
@@ -110,7 +122,7 @@ var %>% filter(yr==2018, var_pocket=='yes') %>%
   mutate(pct=count/sum(count))
 ```
 
-
+#2018, kindergarten summary by type of school
 ```{r}
 var %>% filter(yr==2018, var_pocket!='not reported', grade=='Kindergarten') %>% 
   group_by(type2) %>% 
@@ -124,6 +136,7 @@ var %>% filter(yr==2018, var_pocket!='not reported', grade=='Kindergarten') %>%
     knitr::kable("html") %>% 
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
 ```
+#2013, kindergarten summary by grade
 ```{r}
 var %>% filter(yr==2013, var_pocket!='not reported') %>% 
   group_by(grade) %>% 
@@ -136,8 +149,5 @@ var %>% filter(yr==2013, var_pocket!='not reported') %>%
          pctwaiver = nonmed/totkids) %>% 
     knitr::kable("html") %>% 
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
-```
-```{r}
-
 ```
 
