@@ -1,0 +1,143 @@
+---
+title: "chickenpox"
+author: "MaryJoWebster"
+date: "March 18, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+var_kind_1718 <-  kind_new %>% select(schoolID, disname, schname, enroll_new, 
+                                 complete_var, inprogress_var, co_var, me_var,
+                                 complete_pert_var, inprogress_pert_var, co_pert_var, me_pert_var, disease_hist_var, diseasehist_pert_var,
+                                 pctpoverty, pctminority, income_bucket, 
+                                 diversity_bucket,  
+                                 county, type2, yr, schoolyr, k12enr, grade, schooltype)
+
+var_kind_1213 <-  kind_old  %>% select(schoolID, disname, schname, enroll_new, 
+                                  complete_var, inprogress_var, co_var, me_var,
+                                  complete_pert_var, inprogress_pert_var, co_pert_var, me_pert_var,  
+                                  pctpoverty, pctminority, income_bucket, 
+                                  diversity_bucket,  
+                                  county, type2, yr, schoolyr, k12enr, grade, schooltype)
+
+var_7_1718 <-  seventh_new %>% select(schoolID, disname, schname, enroll_new, 
+                                      complete_var, inprogress_var, co_var, me_var,
+                                      complete_pert_var, inprogress_pert_var, co_pert_var, me_pert_var, disease_hist_var, diseasehist_pert_var,
+                                      pctpoverty, pctminority, income_bucket, 
+                                      diversity_bucket,  
+                                      county, type2, yr, schoolyr, k12enr, grade, schooltype)
+
+var_7_1213 <-  seventh_old  %>% select(schoolID, disname, schname, enroll_new, 
+                                       complete_var, inprogress_var, co_var, me_var,
+                                       complete_pert_var, inprogress_pert_var, co_pert_var, me_pert_var,  
+                                       pctpoverty, pctminority, income_bucket, 
+                                       diversity_bucket,  
+                                       county, type2, yr, schoolyr, k12enr, grade, schooltype)
+
+
+
+var <-  bind_rows(var_kind_1213, var_kind_1718, var_7_1718, var_7_1213)
+
+var$co_var[is.na(var$co_var)] <- 0
+var$complete_var[is.na(var$complete_var)] <- 0
+var$inprogress_var[is.na(var$inprogress_var)] <- 0
+var$me_var[is.na(var$me_var)] <- 0
+var$disease_hist_var[is.na(var$disease_hist_var)] <- 0
+
+var$co_pert_var[is.na(var$co_pert_var)] <- 0
+var$complete_pert_var[is.na(var$complete_pert_var)] <- 0
+var$inprogress_pert_var[is.na(var$inprogress_pert_var)] <- 0
+var$me_pert_var[is.na(var$me_pert_var)] <- 0
+var$diseasehist_pert_var[is.na(var$diseasehist_pert_var)] <- 0
+
+
+
+
+var <-  var %>%     mutate( 
+  total_immunity = complete_var+disease_hist_var,
+  total_kids = total_immunity+inprogress_var+co_var+me_var,
+  pct_immunity=total_immunity/total_kids,
+    var_pocket=case_when(
+  enroll_new==0~'not reported',
+  pct_immunity>=.895~'no',
+                                                            pct_immunity>=0 & pct_immunity<.895~'yes',
+                                                            is.na(pct_immunity)~'not reported'))
+
+
+
+#assign the primary "reason" schools have a low var rate
+#looks at whether school has higher rate of incomplete or higher rate of waivers
+var <-  var %>% mutate(pocket_reason = case_when(var_pocket=='no'~'na',
+                                                 var_pocket=='yes' & co_pert_var>inprogress_pert_var~'non-medical waiver',
+                                                 var_pocket=='yes' & inprogress_pert_var>co_pert_var~'in progress',
+                                                 var_pocket=='yes' & co_pert_var==inprogress_pert_var~'equal',
+                                                 var_pocket=='not reported'~'not reported',
+                                                 TRUE~'not clear'))
+
+
+
+
+
+```
+
+```{r}
+  var%>% filter(yr==2018, var_pocket!='not reported') %>% tabyl(grade, var_pocket)%>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+```{r}
+  var%>% filter(yr==2018, var_pocket!='not reported',  grade=='Kindergarten') %>%  tabyl(type2, var_pocket)%>%
+
+  adorn_percentages("row") %>%
+   adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+```{r}
+var %>% filter(yr==2018, var_pocket=='yes') %>% 
+  group_by(pocket_reason) %>% 
+  summarize(count=n()) %>% 
+  mutate(pct=count/sum(count))
+```
+
+
+```{r}
+var %>% filter(yr==2018, var_pocket!='not reported', grade=='Kindergarten') %>% 
+  group_by(type2) %>% 
+  summarise(complete = sum(total_immunity), 
+            partial = sum(inprogress_var),
+            nonmed = sum(co_var),
+            med = sum(me_var),
+            totkids = sum(total_kids)) %>% 
+  mutate(pctcomplete=complete/totkids,
+         pctwaiver = nonmed/totkids) %>% 
+    knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+```{r}
+var %>% filter(yr==2013, var_pocket!='not reported') %>% 
+  group_by(grade) %>% 
+  summarise(complete = sum(total_immunity), 
+            partial = sum(inprogress_var),
+            nonmed = sum(co_var),
+            med = sum(me_var),
+            totkids = sum(total_kids)) %>% 
+  mutate(pctcomplete=complete/totkids,
+         pctwaiver = nonmed/totkids) %>% 
+    knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+```{r}
+
+```
+

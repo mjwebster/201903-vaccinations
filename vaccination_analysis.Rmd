@@ -1,0 +1,236 @@
+---
+title: "vaccination_analysis"
+author: "MaryJoWebster"
+date: "March 11, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, code=readLines("process_vaccination_data.R"), echo=FALSE, warning=FALSE, message=FALSE}
+
+```
+#MMR analysis<br>
+
+Analysis includes both kindergarten and 7th grade unless noted
+
+<br>
+
+
+#Percentage of schools with <90% vaccinated in 2017-18
+Only schools that reported data
+```{r}
+  mmr%>% filter(yr==2018, mmr_pocket!='not reported') %>% tabyl(grade, mmr_pocket)%>%
+   adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_ns() %>% 
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#Percent of schools with <90% vaccinated, 2012-13
+```{r}
+  mmr%>% filter(yr==2013, mmr_pocket!='not reported') %>% tabyl(grade, mmr_pocket)%>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_ns() %>% 
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#By type of school- Kindergarten
+2017-18 school year
+```{r}
+  mmr%>% filter(yr==2018, mmr_pocket!='not reported',  grade=='Kindergarten') %>%  tabyl(type2, mmr_pocket)%>%
+
+  adorn_percentages("row") %>%
+   adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_ns() %>% 
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#By type of school- Seventh
+2017-18 school year
+```{r}
+  mmr%>% filter(yr==2018, mmr_pocket!='not reported',  grade=='Seventh') %>%  tabyl(type2, mmr_pocket)%>%
+
+  adorn_percentages("row") %>%
+   adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#Kindergarten, 2017-18, by reason
+Main factor in why vax rate is low<br>
+in progress means lots of kids partially vaccinated or incomplete paperwork<br>
+non-medical waiver means lots of kids with non-medical waiver<br>
+equal means both things are pushing down the vax rate, equally<br>
+
+```{r}
+mmr %>% filter(yr==2018, mmr_pocket=='yes', grade=='Kindergarten') %>% 
+  group_by(pocket_reason) %>% 
+  summarize(count=n()) %>% 
+  mutate(pct=count/sum(count))
+```
+
+
+
+#Schools with <90% vaccinated, by reason and type
+Seventh grade, 2017-18
+```{r}
+  mmr%>% filter(yr==2018, mmr_pocket=='yes', grade=='Seventh') %>%  tabyl( type2, pocket_reason)%>%
+   adorn_totals("row") %>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_ns() %>% 
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#Schools with <90% vaccinated, by reason and type
+Kindergarten grade, 2017-18
+```{r}
+  mmr%>% filter(yr==2018, mmr_pocket=='yes', grade==
+                  'Kindergarten') %>%  tabyl( type2, pocket_reason)%>%
+   adorn_totals("row") %>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_ns() %>% 
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+
+
+#Revised vaccination rates by school type
+Both grades combined
+```{r}
+mmr %>% filter(yr==2018, mmr_pocket!='not reported') %>% 
+  group_by(type2) %>% 
+  summarise(complete = sum(complete_mmr), 
+            partial = sum(inprogress_mmr),
+            nonmed = sum(co_mmr),
+            med = sum(me_mmr)) %>% 
+  mutate(total = complete+partial+nonmed+med,
+         pctcomplete=complete/total,
+         pctwaiver = nonmed/total) %>% 
+    knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+
+```
+
+#Vaccination and waiver rates by grade
+2017-18
+
+```{r}
+mmr %>% filter(yr==2018, mmr_pocket!='not reported') %>% 
+  group_by(grade) %>% 
+  summarise(complete = sum(complete_mmr), 
+            partial = sum(inprogress_mmr),
+            nonmed = sum(co_mmr),
+            med = sum(me_mmr)) %>% 
+  mutate(total = complete+partial+nonmed+med,
+         pctcomplete=(complete/total)*100,
+         pctwaiver = (nonmed/total)*100) %>% 
+  select(grade, pctcomplete, pctwaiver) %>% 
+    knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+
+#Vaccination and waiver rates by school type
+Kindergarten 2017-18
+
+```{r}
+mmr %>% filter(yr==2018, mmr_pocket!='not reported', grade=='Kindergarten') %>% 
+  group_by(type2) %>% 
+  summarise(complete = sum(complete_mmr), 
+            partial = sum(inprogress_mmr),
+            nonmed = sum(co_mmr),
+            med = sum(me_mmr)) %>% 
+  mutate(total = complete+partial+nonmed+med,
+         pct=complete/total,
+         pctwaiver=nonmed/total) %>% 
+    knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#Vaccination and waiver rates by type
+Seventh grade, 2017-18
+```{r}
+mmr %>% filter(yr==2018, mmr_pocket!='not reported', grade=='Seventh') %>% 
+  group_by(type2) %>% 
+  summarise(complete = sum(complete_mmr), 
+            partial = sum(inprogress_mmr),
+            nonmed = sum(co_mmr),
+            med = sum(me_mmr)) %>% 
+  mutate(total = complete+partial+nonmed+med,
+         pct=complete/total,
+         pctwaiver=nonmed/total) %>% 
+    knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+
+
+
+#Percent of schools by poverty/income - 2018
+1=low poverty (below 25%)<br>
+4=high poverty (above 75%)<br>
+mmr_pocket means school has less than 90% vaccinated<br>
+Includes both kindergarten and 7th grade<br>
+Only public schools
+```{r}
+  mmr%>% filter(yr==2018, income_bucket!='NA') %>%  tabyl(mmr_pocket, income_bucket)%>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#Diversity 
+Only includes public schools<br>
+Kindergarten and 7th grade
+```{r}
+  mmr%>% filter(yr==2018, diversity_bucket!='NA') %>%  tabyl(mmr_pocket, diversity_bucket)%>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(rounding = "half up", digits = 0) %>%
+  adorn_title("top")%>%
+  knitr::kable("html") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position="left")
+```
+
+#export data for graphics
+```{r}
+
+graphicsdata <-  mmr %>% filter(mmr_pocket!='not reported') %>%  group_by(grade, yr, type2, mmr_pocket) %>%     summarise(count=n(), complete = sum(complete_mmr), 
+            partial = sum(inprogress_mmr),
+            nonmed = sum(co_mmr),
+            med = sum(me_mmr))
+
+write.csv(graphicsdata, 'graphicsdata.csv', row.names=FALSE)
+```
+
+
+
+```{r}
+childcare_vax_foronline %>% filter(MMR_pct_vac<.95, enrollment_2yrsup>0) %>% summarise(count=n())
+```
+
+```{r}
+mmr %>% filter(yr==2018, grade=='Kindergarten') %>% 
+group_by(mmr_pocket) %>% 
+  summarise(enr= sum(enroll_new), count=n()) %>% 
+  mutate(pct=enr/sum(enr), pct2=count/sum(count))
+```
+

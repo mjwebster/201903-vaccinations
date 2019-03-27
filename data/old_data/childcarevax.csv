@@ -1,0 +1,1592 @@
+"license_num","center_name","enrollment_2yrsup","MMR_pct_vac","MMR_pct_nodoses","MMR_pct_nonmedical","MMR_pct_medical","address_line1","address_line2","city","state","zip","county","capacity"
+"1081031","Life Time Fitness Crosstown",5,1,0,0,0,"6233 Baker Rd",NA,"Eden Prairie","MN","55346","Hennepin",100
+"1086219","Prestige Preschool Academy Eagan",5,1,0,0,0,"4150 Knob Dr",NA,"Eagan","MN","55122","Dakota",174
+"1081518","Zuhur Childcare Center Inc",5,1,0,0,0,"3424 Wooddale Ave S",NA,"St Louis Park","MN","55416","Hennepin",84
+"830372","Agape Child Development Center",6,1,0,0,0,"1037 University Ave",NA,"Saint Paul","MN","55104","Ramsey",64
+"1079345","Angies Infant & Toddler Daycare",6,1,0,0,0,"617 E Main St",NA,"Belle Plaine","MN","56011","Scott",34
+"807677","Christ the King Church",6,0.667,0,0.333,0,"804 - 8th Ave NE",NA,"Pipestone","MN","56164","Pipestone",12
+"1081025","Life Time Fitness Woodbury",6,1,0,0,0,"675 Commons Dr",NA,"Woodbury","MN","55125","Washington",50
+"1078602","Mes Amis French School",6,0.667,0.167,0,0.167,"13207 Lake St Extension",NA,"Minnetonka","MN","55305","Hennepin",17
+"802190","Sandcastle Child Care Center II",6,1,0,0,0,"749 Juno Ave",NA,"Saint Paul","MN","55102","Ramsey",58
+"1088084","Yellow Brick Road Early Childhood Development Center",6,1,0,0,0,"9745 Revere Lane N",NA,"Maple Grove","MN","55369","Hennepin",88
+"1065673","Berea Lutheran Preschool",7,1,0,0,0,"9308 Rich Valley Blvd",NA,"Inver Grove Heights","MN","55077","Dakota",12
+"801305","Koenen's Country Preschool",7,1,0,0,0,"17168 County Road 65 NE",NA,"Miltona","MN","56354","Douglas",10
+"1087459","Compass Child Care",8,0.875,0,0,0.125,"2853 Northdale Blvd",NA,"Coon Rapids","MN","55433-0000","Anoka",118
+"1055338","His Kids Child Care Center Two",8,1,0,0,0,"1805 Bush St",NA,"Red Wing","MN","55066","Goodhue",38
+"830825","Immanuel Lutheran Nursery School",8,1,0,0,0,"22591 County Rd 25",NA,"Lewiston","MN","55952","Winona",10
+"801181","JOY Academy",8,0.875,0,0.125,0,"655 Forest St",NA,"Saint Paul","MN","55106","Ramsey",15
+"1047153","Lasting Impressions Child Care Learning Center",8,1,0,0,0,"2515 Wabash Ave Ste 200",NA,"Saint Paul","MN","55114","Ramsey",99
+"1042530","Little Blessings Preschool Inc.",8,1,0,0,0,"106 8th Street",NA,"Madison","MN","56256","Lac Qui Parle",10
+"809291","Tri-Valley Owatonna Head Start Center",8,1,0,0,0,"1909 St Paul Rd",NA,"Owatonna","MN","55060","Steele",16
+"1084538","Ayeeyo Childcare Center Inc",9,0.778,0,0.222,0,"1837 E Lake St",NA,"Minneapolis","MN","55407","Hennepin",27
+"1037619","Bright Horizons Woodbury",9,0.778,0,0,0.222,"8147 Globe Dr",NA,"Woodbury","MN","55125","Washington",75
+"1064579","Bright Start Child Care Center Inc",9,1,0,0,0,"1197 University Ave W",NA,"Saint Paul","MN","55104","Ramsey",153
+"807661","Kids ABC Learning Center Inc",9,1,0,0,0,"211 W Lake St",NA,"Chisholm","MN","55719","St. Louis",24
+"1081035","Life Time Fitness Eagan",9,0.889,0.111,0,0,"1565 Thomas Center Dr",NA,"Eagan","MN","55122","Dakota",100
+"800938","Little Angels Preschool",9,1,0,0,0,"217 W 2nd St",NA,"Chaska","MN","55318","Carver",40
+"1081623","Small World Learning Center",9,1,0,0,0,"4565 Scott Trail",NA,"Eagan","MN","55122","Dakota",77
+"1009585","Babbitt Head Start 2142 Combination",10,1,0,0,0,"30 S Drive Room E 112, 113",NA,"Babbitt","MN","55706","St. Louis",20
+"1060749","Brooklyn Center Baby Steps",10,1,0,0,0,"5910 Shingle Creek Pkwy 1A",NA,"Brooklyn Center","MN","55430-0000","Hennepin",46
+"1082012","Camden Kids Inc",10,0.9,0,0.1,0,"4656 Colfax Ave N",NA,"Minneapolis","MN","55412","Hennepin",84
+"1063762","Cosmos Head Start",10,1,0,0,0,"101 Vesta St S",NA,"Cosmos","MN","56228","Meeker",20
+"1086638","Gardner School of Eagan",10,1,0,0,0,"1195 Town Center Dr",NA,"Eagan","MN","55123","Dakota",206
+"800921","Grant Community Preschool",10,1,0,0,0,"901 Humboldt Ave N",NA,"Minneapolis","MN","55411","Hennepin",20
+"1066755","Holy Cross Preschool",10,0.9,0,0.1,0,"10672 County Rd 8",NA,"Kimball","MN","55353","Stearns",15
+"1081051","Life Time Fitness St Louis Park",10,0.8,0,0.2,0,"5525 Cedar Lake Rd",NA,"St Louis Park","MN","55416","Hennepin",100
+"1017051","Prince of Peace Lutheran Preschool-Holy Cross Campus",10,0.9,0,0.1,0,"2555 Clearwater Rd",NA,"Saint Cloud","MN","56301","Stearns",16
+"800310","St Agnes Preschool",10,1,0,0,0,"307 4th Ave W",NA,"Osakis","MN","56360","Douglas",20
+"1063672","St Johns Lutheran Preschool",10,1,0,0,0,"130 3rd St",NA,"Wood Lake","MN","56297","Yellow Medicine",20
+"1086639","The Gardner School of Edina",10,1,0,0,0,"4455 W 77th St",NA,"Edina","MN","55435","Hennepin",214
+"1062995","Tri-Valley Winnebago Head Start Center",10,1,0,0,0,"100 1st Ave NE",NA,"Winnebago","MN","56098","Faribault",33
+"802568","Two Harbors Head Start Minnehaha Elementary School",10,1,0,0,0,"421 7th St",NA,"Two Harbors","MN","55616","St. Louis",20
+"1077802","Un Mundo Nuevo Spanish Immersion Childrens Academy Inc",10,1,0,0,0,"7275 147th ST W",NA,"Apple Valley","MN","55124","Dakota",67
+"830563","Aveda Child Care",11,1,0,0,0,"4000 Pheasant Ridge Dr.",NA,"Blaine","MN","55449","Anoka",49
+"1060637","Jennifer's Wee Care",11,0.909,0.091,0,0,"1459 Jefferson Ave",NA,"Saint Paul","MN","55105","Ramsey",31
+"1063351","Kidz Zone Daycare Center",11,1,0,0,0,"27110 State Hwy 18",NA,"Garrison","MN","56450","Crow Wing",44
+"1059364","Little Lambs Preschool",11,1,0,0,0,"2101 Lor Ray Dr",NA,"North Mankato","MN","56003","Nicollet",20
+"1076251","Little Rabbits Hole",11,0.909,0.091,0,0,"14119 Galaxie Ave",NA,"Apple Valley","MN","55124","Dakota",29
+"801787","Oak Grove Children's Center",11,1,0,0,0,"7045 Lyndale Ave S",NA,"Richfield","MN","55423","Hennepin",22
+"1046194","People Serving People Children's Center",11,1,0,0,0,"614 S 3rd Street",NA,"Minneapolis","MN","55415-1104","Hennepin",52
+"1081858","St Timothy School Preschool",11,0.909,0,0.091,0,"215 Division St E",NA,"Maple Lake","MN","55358","Wright",37
+"1051067","Trinity Lutheran Preschool",11,0.818,0,0.182,0,"610 - 2nd Ave SE",NA,"Long Prairie","MN","56347","Todd",17
+"810167","We Love Kids",11,1,0,0,0,"5408 Chicago Ave S",NA,"Minneapolis","MN","55417","Hennepin",56
+"1007151","Children First Christian Preschool",12,1,0,0,0,"2100 Riverview Dr",NA,"Little Falls","MN","56345","Morrison",32
+"1086726","Discovery Kids",12,0.917,0.083,0,0,"1400 Montana Ave",NA,"Benson","MN","56215","Swift",44
+"830831","East Creek Child Care",12,1,0,0,0,"303 6th St E",NA,"Chaska","MN","55318","Carver",40
+"801400","Little Lambs Day Care Center",12,0.917,0,0.083,0,"10 1st Ave SW",NA,"Wells","MN","56097","Faribault",41
+"1065653","Mounds Park Academy",12,1,0,0,0,"2051 E Larpenteur Ave",NA,"Maplewood","MN","55109","Ramsey",20
+"802025","Ramalynn Montessori",12,0.833,0,0.167,0,"15004 Glazier Ave S",NA,"Apple Valley","MN","55124","Dakota",24
+"804356","Semcac Head Start-Preston",12,1,0,0,0,"702 Chatfield St",NA,"Preston","MN","55965","Fillmore",20
+"801598","Silver View Education Center",12,0.917,0.083,0,0,"2574 Mounds View Blvd",NA,"Mounds View","MN","55112","Ramsey",27
+"800303","Canby Head Start",13,1,0,0,0,"Canby Elementary School","601 4th St W","Canby","MN","56220","Yellow Medicine",20
+"830567","Elbow Lake Head Start-West Central Area North School",13,0.846,0,0.154,0,"411 1st St SE",NA,"Elbow Lake","MN","56531-0956","Grant",20
+"809953","Gayle Johnson Cohen Early Childhood Talmud Torah",13,1,0,0,0,"768 Hamline Ave S",NA,"Saint Paul","MN","55116","Ramsey",20
+"1065900","Heartland Christian Academy Preschool",13,0.923,0,0.077,0,"9914 Heartland Circle NW",NA,"Bemidji","MN","56601","Beltrami",16
+"1065900","Heartland Christian Academy Preschool",13,0.923,0,0.077,0,"9914 Heartland Circle NW",NA,"Bemidji","MN","56601","Beltrami",16
+"1086688","Hypointe Childcare LLC",13,1,0,0,0,"8755 Upper 208th St W",NA,"Lakeville","MN","55044","Dakota",108
+"1082965","Lakes and Pines Head Start Cloquet",13,1,0,0,0,"1418 Doddridge Ave",NA,"Cloquet","MN","55720","Carlton",15
+"1080452","Life Time Fitness Chanhassen",13,1,0,0,0,"2901 Corporate Place",NA,"Chanhassen","MN","55317","Carver",100
+"1075907","Montessori American Indian Childcare Center",13,1,0,0,0,"1909 Ivy Ave E",NA,"Saint Paul","MN","55119","Ramsey",30
+"1078594","Mt Olive Lutheran Preschool",13,1,0,0,0,"435 Bridge Ave E",NA,"Delano","MN","55328","Wright",20
+"1073662","North Ridge Child Day Care LLC",13,1,0,0,0,"5430 Boone Ave N",NA,"New Hope","MN","55428","Hennepin",30
+"810849","Reach-Up, Inc. Technical College Head Start",13,1,0,0,0,"1701 9th Ave N",NA,"Saint Cloud","MN","56303","Benton",26
+"800025","Abiding Savior Lutheran Preschool",14,1,0,0,0,"8211 Red Oak Dr NE",NA,"Mounds View","MN","55112","Ramsey",20
+"800320","Carol's Corner Child Care Center",14,1,0,0,0,"3120 Labore Rd",NA,"Saint Paul","MN","55109","Ramsey",21
+"1082479","Discover Little Miracles Child Care",14,1,0,0,0,"13065 43rd St NE",NA,"Saint Michael","MN","55376","Wright",58
+"1051430","Discovery Montessori Academy",14,0.786,0,0.214,0,"804 7th Ave S",NA,"Princeton","MN","55371","Mille Lacs",20
+"1082959","Lakes and Pines Head Start Chisago",14,0.929,0,0.071,0,"28005 Old Towne Rd",NA,"Chisago City","MN","55013","Chisago",20
+"1081052","Life Time Fitness White Bear Lake",14,0.929,0,0.071,0,"4800 White Bear Pkwy",NA,"White Bear Lake","MN","55110","Ramsey",100
+"830786","Little Angel Pre-School",14,0.929,0,0,0.071,"31075 Genesis Ave",NA,"Stacy","MN","55079","Chisago",20
+"1065870","Lucky Child Care Center LLC",14,0.857,0.143,0,0,"525 Lowry Ave NE",NA,"Minneapolis","MN","55418-0000","Hennepin",99
+"830844","Melrose Head Start",14,0.929,0,0.071,0,"9 W 2nd St S",NA,"Melrose","MN","56352","Stearns",20
+"801803","Olivia Head Start",14,1,0,0,0,"701 S 9 St",NA,"Olivia","MN","56277","Renville",20
+"830468","Prairie Meadows Head Start",14,1,0,0,0,"650 Agnes St","Prairie Meadows Elementary","Spicer","MN","56288","Kandiyohi",20
+"1066515","St Theodore Pre Kindergarten School",14,0.929,0,0.071,0,"323 E Clark St",NA,"Albert Lea","MN","56001","Freeborn",20
+"802387","St. Paul's Lutheran Preschool",14,1,0,0,0,"500 6th Ave SW",NA,"Perham","MN","56573","Otter Tail",20
+"1055809","UMD Preschool at the Park",14,1,0,0,0,"128 Chester Park","31 W College St","Duluth","MN","55812","St. Louis",15
+"830703","Union Gospel Mission Child Development Center",14,1,0,0,0,"109 E 9th St",NA,"Saint Paul","MN","55101","Ramsey",42
+"1086477","White Pine Childcare Center",14,1,0,0,0,"4534 Constance Blvd NE",NA,"Ham Lake","MN","55304","Anoka",80
+"1028145","Zion Lutheran Preschool",14,0.929,0,0,0.071,"315 S Columbia Ave",NA,"Morris","MN","56267","Stevens",10
+"1055397","Augsburg Park Montessori School Ltd",15,1,0,0,0,"7121 Bloomington Ave S",NA,"Richfield","MN","55423","Hennepin",26
+"1080698","BEGIN Program at St Marys",15,1,0,0,0,"311 Colorado Ave",NA,"Morris","MN","56267","Stevens",10
+"1076083","Brooklyn Bridge Preschool",15,0.933,0,0.067,0,"5840 69th Ave N",NA,"Brooklyn Park","MN","55429","Hennepin",14
+"831034","Central Care for Children",15,0.933,0.067,0,0,"2025 Nicollet Ave Suite 100",NA,"Minneapolis","MN","55404","Hennepin",52
+"1081780","Cori's Kidz Childcare Inc",15,1,0,0,0,"2280 Stillwater Ave E",NA,"Maplewood","MN","55119","Ramsey",70
+"1078613","First Steps",15,1,0,0,0,"3091 25th St NW",NA,"Rochester","MN","55901","Olmsted",86
+"1057573","Grin N Giggles",15,0.667,0.333,0,0,"220 Church Ave",NA,"Albany","MN","56307","Stearns",52
+"1000921","His Kids Child Care",15,0.933,0,0.067,0,"1811 Bush St",NA,"Red Wing","MN","55066","Goodhue",42
+"1081046","Life Time Fitness Plymouth",15,0.867,0.133,0,0,"3600 Plymouth Blvd",NA,"Plymouth","MN","55446","Hennepin",120
+"800138","Mesabi Head Start",15,0.933,0,0.067,0,"601 N 1st St W Classroom H202","M East Schools","Aurora","MN","55705","St. Louis",20
+"809495","Mount Olivet Day Services",15,0.933,0.067,0,0,"5601 Lyndale Ave S",NA,"Minneapolis","MN","55419","Hennepin",43
+"801839","Our Savior's Lutheran Preschool",15,1,0,0,0,"217 S Broadway",NA,"Crookston","MN","56716","Polk",20
+"1051888","Reach Up Inc Big Lake Head Start",15,1,0,0,0,"701 Minnesota Ave",NA,"Big Lake","MN","55309","Sherburne",15
+"802254","Small World School for Young Children",15,0.867,0,0.133,0,"13215 Minnetonka Dr",NA,"Minnetonka","MN","55305","Hennepin",20
+"802461","Taconite Head Start",15,0.933,0,0.067,0,"Taconite Community Center","PO Box 4","Taconite","MN","55786","Itasca",20
+"809512","Tri-Valley Glencoe Head Start Center",15,1,0,0,0,"1828 Knight Ave",NA,"Glencoe","MN","55336","McLeod",72
+"805043","Zumbrota Head Start Center",15,0.933,0.067,0,0,"1414 North Star Dr",NA,"Zumbrota","MN","55992","Goodhue",20
+"830877","Brandon Head Start",16,0.938,0,0.063,0,"3rd And Stowe",NA,"Brandon","MN","56315","Douglas",20
+"1081002","Cedar Child Care Center Inc",16,1,0,0,0,"3011 Cedar Ave S",NA,"Minneapolis","MN","55407","Hennepin",76
+"1060410","Celebrate Preschool Celebration Lutheran Church",16,1,0,0,0,"1500 Pine Cone Road North",NA,"Sartell","MN","56377","Stearns",18
+"830823","Chaska Head Start",16,1,0,0,0,"303 E 6th St",NA,"Chaska","MN","55318","Carver",15
+"800569","Country Corner Preschool",16,0.938,0,0.063,0,"105 2nd St NE",NA,"Hayfield","MN","55940","Dodge",13
+"1088247","Frazee Center 2",16,1,0,0,0,"119 E Main Ave",NA,"Frazee","MN","56544","Becker",16
+"1086386","Hazel Park Learning Center",16,0.938,0.063,0,0,"1831 E Minnehaha Ave",NA,"Saint Paul","MN","55119","Ramsey",32
+"801123","Immanuel Lutheran Preschool",16,1,0,0,0,"620 Bush St Box 750",NA,"Lakefield","MN","56150","Jackson",20
+"809234","KinderCare Learning Center",16,1,0,0,0,"202 E Hayden Lk Rd",NA,"Champlin","MN","55316","Hennepin",85
+"1081112","Little Lambs at Most Holy Redeemer Catholic School",16,1,0,0,0,"205 Vine Ave W",NA,"Montgomery","MN","56069","Le Sueur",20
+"805938","Little Learners' Enrichment Center",16,1,0,0,0,"714 W College St",NA,"Duluth","MN","55811","St. Louis",16
+"801467","Mahnomen Head Start",16,1,0,0,0,"310 W Madison Ave",NA,"Mahnomen","MN","56557","Mahnomen",20
+"801575","Montessori School of Wayzata Bay",16,1,0,0,0,"1500 County Rd 24",NA,"Medina","MN","55356","Hennepin",24
+"1056289","Noah's Ark Preschool",16,1,0,0,0,"415 Hiawatha Ave S",NA,"Pipestone","MN","56164","Pipestone",20
+"806938","Osakis Head Start",16,0.938,0,0.063,0,"500 1st Ave E","PO Box X","Osakis","MN","56360","Douglas",19
+"809012","Redeemer Lutheran Preschool",16,1,0,0,0,"4201 Regent Ave N",NA,"Robbinsdale","MN","55422","Hennepin",29
+"802359","St. Martin's Pre-Kindergarten",16,0.938,0.063,0,0,"253 Liberty St",NA,"Winona","MN","55987","Winona",15
+"1065509","Star Childcare Center LLC",16,1,0,0,0,"3205 Cedar Ave S",NA,"Minneapolis","MN","55407","Hennepin",43
+"1074075","Way to Grow Preschool",16,0.625,0,0.375,0,"2924 4th Ave S",NA,"Minneapolis","MN","55408","Hennepin",23
+"1048642","Wellcome Kids",16,1,0,0,0,"114 West Pleasant St",NA,"Garden City","MN","56034","Blue Earth",54
+"1055400","Ashby Head Start",17,1,0,0,0,"300 Birch Ave",NA,"Ashby","MN","56309","Grant",20
+"1083467","Avon Montessori School LLC",17,1,0,0,0,"200 1st St SW",NA,"Avon","MN","56310","Stearns",32
+"800396","Childrens Corner Early Learning Center",17,1,0,0,0,"3821 Abbott Dr Rm 201 & 201A",NA,"Willmar","MN","56201","Kandiyohi",20
+"800419","Children's Kingdom Preschool",17,1,0,0,0,"911 S Prairie Ave",NA,"Fairmont","MN","56031","Martin",20
+"800734","Ely Head Start",17,1,0,0,0,"600 E Harvey","Memorial High School","Ely","MN","55792","St. Louis",20
+"802003","Eveleth Gilbert Head Start",17,1,0,0,0,"602 Summit  Street",NA,"Gilbert","MN","55741","St. Louis",19
+"1083792","Jackson Head Start Classroom",17,1,0,0,0,"115 S Highway",NA,"Jackson","MN","56143","Jackson",20
+"801299","Kings Kids",17,0.941,0,0.059,0,"206 E 39th St",NA,"Hibbing","MN","55746","St. Louis",40
+"801342","Lakes Head Start",17,1,0,0,0,"1790 11th St SE",NA,"Forest Lake","MN","55025","Washington",20
+"1081037","Life Time Fitness Eden Prairie",17,0.941,0,0.059,0,"755 Prairie Center Dr",NA,"Eden Prairie","MN","55344","Hennepin",100
+"1075935","Little School Inc (The)",17,0.941,0,0.059,0,"1795 Ford Pkwy",NA,"Saint Paul","MN","55116","Ramsey",40
+"1087583","Lonsdale Christian Preschool",17,1,0,0,0,"7525 Garfield Ave",NA,"Lonsdale","MN","55046","Rice",13
+"1083794","Mountain Lake Head Start",17,1,0,0,0,"1005 4th Ave",NA,"Mountain Lake","MN","56159","Cottonwood",19
+"1003955","Northside Christian Preschool and Childcare Center",17,0.941,0.059,0,0,"804 131st Ave NE",NA,"Blaine","MN","55434","Anoka",36
+"1028318","Rayito de Sol LLC",17,0.941,0,0.059,0,"6949 Nicollet Ave",NA,"Richfield","MN","55423","Hennepin",34
+"802199","Seed Early Learning Academy",17,1,0,0,0,"1300 Olson Memorial Hwy",NA,"Minneapolis","MN","55411","Hennepin",72
+"802406","Semcac Head Start-St. Charles",17,1,0,0,0,"824 Church Ave",NA,"Saint Charles","MN","55972","Winona",20
+"1065633","Tiny Adventures",17,1,0,0,0,"908 Maple St",NA,"Brainerd","MN","56401","Crow Wing",31
+"1083796","Tracy Head Start",17,1,0,0,0,"310 Pine St",NA,"Tracy","MN","56175","Lyon",20
+"830404","WCCA Head Start Montrose",17,0.941,0,0.059,0,"115 2nd St S","Montrose Early Childhood Center","Montrose","MN","55363","Wright",20
+"801103","WCCA Head Start-Howard Lake",17,0.941,0,0.059,0,"St. John's Lutheran Church","625 Twelvth Ave. South","Howard Lake","MN","55349","Wright",20
+"1063117","Willow & Sprout LLC",17,0.882,0,0.118,0,"3029 Wilson St NE",NA,"Saint Anthony Village","MN","55418","Hennepin",14
+"1083797","Windom Head Start",17,1,0,0,0,"1012 5th Ave",NA,"Windom","MN","56101","Cottonwood",20
+"800004","A Child's View",18,1,0,0,0,"433 Cleveland",NA,"Saint Paul","MN","55105","Ramsey",34
+"1066510","Arta Child Care Center",18,0.889,0.111,0,0,"3401 Chicago Ave S",NA,"Minneapolis","MN","55407","Hennepin",41
+"800136","Audubon/Lake Park Headstart",18,0.944,0,0.056,0,"Audubon School",NA,"Audubon","MN","56511","Becker",20
+"1036264","Bethesda All Stars c/o Bethesda Lutheran Church",18,1,0,0,0,"401 40th Ave S",NA,"Moorhead","MN","56560","Clay",46
+"810489","Creation Station",18,0.944,0,0.056,0,"2101 Trinity Rd",NA,"Duluth","MN","55811","St. Louis",24
+"804968","Crown Christian Preschool",18,0.778,0.056,0.167,0,"7515 269th Ave NW",NA,"Saint Francis","MN","55070-9345","Isanti",20
+"1061680","Endion Square Children's Center LLC",18,1,0,0,0,"1823 East Superior Street",NA,"Duluth","MN","55812","St. Louis",33
+"804926","Epiphany Preschool",18,1,0,0,0,"605 Parkway Ave","PO Box 188","Eagle Lake","MN","56024","Blue Earth",20
+"804201","Frazee Head Start Center",18,0.944,0,0.056,0,"Frazee Elementary School",NA,"Frazee","MN","56544","Becker",18
+"1077606","Future Leaders Early Learning Center Inc",18,1,0,0,0,"3641 Chicago Ave S",NA,"Minneapolis","MN","55407-0000","Hennepin",90
+"1030931","Growing in Grace Preschool",18,1,0,0,0,"410 Main St S",NA,"Pine City","MN","55063","Pine",18
+"1081017","Hey Diddle Diddle Daycare LLC",18,1,0,0,0,"830 Sunrise Dr",NA,"Saint Peter","MN","56082","Nicollet",44
+"801095","House of Prayer Preschool",18,1,0,0,0,"7625 Chicago Ave S",NA,"Richfield","MN","55423-1716","Hennepin",40
+"830889","Immanuel Lutheran School",18,1,0,0,0,"4656 State 200 NW","PO Box 307","Walker","MN","56484","Cass",18
+"801137","International School of Minnesota",18,1,0,0,0,"6385 Beach Rd",NA,"Eden Prairie","MN","55344","Hennepin",60
+"804449","Kids at Heart Child Care Center",18,1,0,0,0,"7330 Lake Drive",NA,"Lino Lakes","MN","55014","Anoka",42
+"801352","Lakeview Christian Academy Preschool",18,1,0,0,0,"155 W Central Entrance",NA,"Duluth","MN","55811","St. Louis",20
+"1051261","Morris Head Start",18,1,0,0,0,"1001 1/2 Scotts Ave",NA,"Morris","MN","56267","Stevens",20
+"808173","Mt Iron Buhl Head Start",18,1,0,0,0,"5529 Emerald Ave","Merritt Elementary School","Mountain Iron","MN","55768","St. Louis",20
+"801762","Northome Head Start",18,0.944,0,0.056,0,"Northome School","PO Box 465","Northome","MN","56661","Koochiching",20
+"1013355","Oakdale Head Start",18,1,0,0,0,"6355 10th St N",NA,"Oakdale","MN","55128","Washington",20
+"1051701","Praise and Play Preschool",18,1,0,0,0,"310 Medayto Drive",NA,"Spicer","MN","56288","Kandiyohi",20
+"1083795","Redwood Falls Head Start",18,1,0,0,0,"201 McPhail Dr","Reed Gray Elementary School","Redwood Falls","MN","56258","Redwood",20
+"804632","Scandia Preschool",18,1,0,0,0,"20870 Olinda Trl","PO Box 67","Scandia","MN","55073","Washington",20
+"830413","Semcac Head Start-Kasson",18,1,0,0,0,"402 W Main",NA,"Kasson","MN","55944","Dodge",40
+"1065691","Shining Light Preschool",18,1,0,0,0,"9200 Elm Creek Blvd",NA,"Maple Grove","MN","55369","Hennepin",20
+"1062962","St Marys Elementary School Little Echoes Preschool",18,1,0,0,0,"225 Sixth St",NA,"Tracy","MN","56175","Lyon",20
+"1011526","St Marys School",18,1,0,0,0,"308 E S St",NA,"Caledonia","MN","55921","Houston",20
+"1019438","Stillwater Head Start",18,0.944,0,0.056,0,"214 N 3rd Street",NA,"Stillwater","MN","55082","Washington",20
+"804543","Sunshine Tree",18,1,0,0,0,"1650 7th Ave NE",NA,"Owatonna","MN","55060","Steele",63
+"1047587","Tri-Valley Danube Head Start Center",18,1,0,0,0,"100 Main St",NA,"Danube","MN","56230","Renville",108
+"830328","Tri-Valley Hendrum Head Start Center",18,1,0,0,0,"320 Main St",NA,"Hendrum","MN","56550","Norman",20
+"810123","WCCA Head Start Annandale",18,1,0,0,0,"250 Oak Ave North",NA,"Annandale","MN","55302","Wright",20
+"804196","WCCA Head Start-Delano",18,1,0,0,0,"Light of Christ Lutheran Church","3976 County Line Road","Delano","MN","55328","Wright",18
+"830651","Wee Care Daycare/Learning Center",18,1,0,0,0,"935 4th St S",NA,"Cannon Falls","MN","55009","Goodhue",78
+"810959","Bagley Head Start",19,1,0,0,0,"Bagley Elementary School",NA,"Bagley","MN","56621","Clearwater",21
+"1004505","Community Church Child Care Center",19,1,0,0,0,"17042 - 160th AVE NE",NA,"Thief River Falls","MN","56701-8528","Pennington",53
+"1081442","Early Steps Learning Foundation",19,1,0,0,0,"6122 42nd Ave N",NA,"Crystal","MN","55422","Hennepin",41
+"1004396","French Academy of Minnesota Inc (The)",19,1,0,0,0,"9400 Cedar Lake Road",NA,"St Louis Park","MN","55426","Hennepin",54
+"830982","Glencoe Headstart Center",19,1,0,0,0,"2020 E 9th St",NA,"Glencoe","MN","55336","McLeod",20
+"1078556","Heartwood Montessori School Northeast Minneapolis",19,1,0,0,0,"1500 6th St NE",NA,"Minneapolis","MN","55413","Hennepin",20
+"1066816","Kids Grow Inc",19,1,0,0,0,"7189 69th Ave N",NA,"Greenfield","MN","55373","Hennepin",67
+"1000931","Little Lambs Preschool",19,0.895,0,0.105,0,"405 2nd St NW",NA,"Hinckley","MN","55037","Pine",15
+"1063639","Mandala Montessori Inc",19,0.947,0,0.053,0,"3701 E 50th St",NA,"Minneapolis","MN","55417","Hennepin",22
+"801563","Minnetonka Montessori",19,1,0,0,0,"471 3rd St","PO Box 295","Excelsior","MN","55331","Hennepin",20
+"1018416","Our Lady of the Prairie",19,0.895,0,0.105,0,"201 E Church St",NA,"Belle Plaine","MN","56011","Scott",20
+"830364","Prairie Playhouse Child Care",19,1,0,0,0,"50 E Rooney Ave",NA,"Appleton","MN","56208","Swift",70
+"1085685","Prestige Preschool Academy Maple Grove",19,1,0,0,0,"12100 80th Ave N",NA,"Maple Grove","MN","55369","Hennepin",170
+"804306","Salvation Army CDC (The)",19,0.737,0.263,0,0,"401 W 7th St",NA,"Saint Paul","MN","55102","Ramsey",94
+"1044163","Today's Life Eden Prairie",19,1,0,0,0,"12901 Robert Dr",NA,"Eden Prairie","MN","55346","Hennepin",79
+"1000642","Turnquist Child Enrichment Center",19,1,0,0,0,"1800 2nd St NE",NA,"Minneapolis","MN","55418","Hennepin",64
+"804165","WCCA Head Start Rogers",19,1,0,0,0,"10925 Trail Haven Rd","Jesus People Church","Rogers","MN","55374","Hennepin",20
+"1024444","YWCA Early Childhood Center-Spirit Valley Site",19,0.895,0.105,0,0,"411 N 57th Ave W",NA,"Duluth","MN","55807","St. Louis",54
+"1080082","2nd Home Childcare LLC",20,1,0,0,0,"2600 26th Ave S #300",NA,"Minneapolis","MN","55406","Hennepin",104
+"800163","Beary Patch Preschool",20,1,0,0,0,"198 W Main",NA,"Spring Grove","MN","55974","Houston",10
+"800186","Bertha Head Start/Bertha Family Center",20,1,0,0,0,"310 Central Ave South","Po B 8","Bertha","MN","56437","Todd",50
+"800192","Cedar Head Start Center",20,1,0,0,0,"ISD 15 Lifelong Learning Center","18900 Cedar Dr Room 103","Oak Grove","MN","55011","Anoka",20
+"1057341","Childrens Corner",20,1,0,0,0,"322 6th Ave SW",NA,"Perham","MN","56573","Otter Tail",42
+"802378","Christ Community Lutheran Preschool",20,0.9,0,0.1,0,"512 County Rd 10",NA,"Watertown","MN","55388","Carver",20
+"1065076","Christ Lutheran Church",20,0.95,0,0.05,0,"500 Village Dr",NA,"Marshall","MN","56258","Lyon",22
+"800594","Crosby Head Start",20,1,0,0,0,"509 6th Ave NE",NA,"Crosby","MN","56441","Crow Wing",20
+"1081340","Excellent Child Care Center Inc",20,1,0,0,0,"2740 Minnehaha Ave Ste 156",NA,"Minneapolis","MN","55406","Hennepin",74
+"1082309","Faithful Beginnings Highland Catholic Preschool",20,1,0,0,0,"2055 Bohland Ave",NA,"Saint Paul","MN","55116","Ramsey",30
+"1080853","Five Star Early Learning Center LLC",20,1,0,0,0,"200 E Lyndale Ave N",NA,"Minneapolis","MN","55405","Hennepin",57
+"1055399","Harbon Montessori Schools Inc",20,1,0,0,0,"1500 29th Ave NW","NB Christian Church Bldg","New Brighton","MN","55112","Ramsey",79
+"806262","Holy Nativity Christian Child Care Center",20,0.95,0,0.05,0,"3900 Winnetka Ave N",NA,"New Hope","MN","55427","Hennepin",50
+"1026454","Kumi's House of Children",20,1,0,0,0,"3450 Irving Ave S",NA,"Minneapolis","MN","55408","Hennepin",40
+"1082966","Lakes and Pines Head Start Mora",20,1,0,0,0,"1700 Maple Ave E",NA,"Mora","MN","55051-1227","Kanabec",20
+"830471","Le Center Head Start",20,1,0,0,0,"160 N Mill St",NA,"Le Center","MN","56057","Le Sueur",20
+"801394","Little Eskomo Lutheran Preschool",20,1,0,0,0,"St Matthews Church","4 Elizabeth Ave","Esko","MN","55733","Carlton",20
+"1075950","Magic Forest Childcare Center & Preschool LLC",20,1,0,0,0,"1411 8th St NE",NA,"Staples","MN","56479","Wadena",30
+"1079075","Mendota Child Daycare Center LLC",20,1,0,0,0,"1044 Dakota Dr",NA,"Mendota Heights","MN","55120","Dakota",87
+"801709","New Ulm Headstart",20,0.95,0,0.05,0,"910 14th N St",NA,"New Ulm","MN","56073","Brown",20
+"808184","Peli Preschool & Family Center",20,1,0,0,0,"21 N Hill St",NA,"La Crescent","MN","55947","Houston",52
+"1086481","Pierz Head Start",20,1,0,0,0,"66 Kamnic St",NA,"Pierz","MN","56364","Morrison",20
+"801912","Pillsbury House Early Education Center",20,1,0,0,0,"3501 Chicago Ave S",NA,"Minneapolis","MN","55407","Hennepin",32
+"1066037","Pioneers Preschool Center",20,0.9,0.05,0.05,0,"1604 Brookdale Dr N",NA,"Brooklyn Park","MN","55444-1970","Hennepin",20
+"804400","Pipestone Head Start Center Peace United Methodist Church",20,1,0,0,0,"Hwy 30 & 23",NA,"Pipestone","MN","56164","Pipestone",20
+"1078836","Playhouse Child Care Center",20,0.9,0.05,0.05,0,"2163 Mayhew Lake RD NE",NA,"Sauk Rapids","MN","56379","Benton",61
+"830818","Rosemount Headstart",20,1,0,0,0,"2496 145th St W",NA,"Rosemount","MN","55068","Dakota",20
+"1039729","Seeds of Wisdom Early Develpoment",20,1,0,0,0,"400 13th Ave SE",NA,"Rochester","MN","55904","Olmsted",46
+"802053","Small World Early Learning Center",20,1,0,0,0,"309 Main Ave N",NA,"Red Lake Falls","MN","56750","Red Lake",41
+"830816","South St Paul Kid Connection",20,1,0,0,0,"1225 1st Ave S",NA,"SOUTH SAINT PAUL","MN","55075","Dakota",20
+"1033568","UMD Children's Place",20,0.95,0.05,0,0,"260 Kirby Plaza","1208 Kirby Dr","Duluth","MN","55812","St. Louis",46
+"801597","WCCA Head Start-Mound",20,1,0,0,0,"St. John's Lutheran Church","2451 Fairview Lane","Mound","MN","55364","Hennepin",20
+"1059664","All God's Children Christian Learning Center",21,1,0,0,0,"16120 Cedar Ave S",NA,"Rosemount","MN","55068","Dakota",64
+"1065334","All Pro Childcare LLC",21,1,0,0,0,"503 Hawthorne St Suite 103",NA,"Alexandria","MN","56308","Douglas",64
+"1075984","Bright Star Daycare",21,0.952,0,0.048,0,"4923 W Frontage Rd",NA,"Rochester","MN","55901","Olmsted",102
+"1078627","Canoga Park Childcare",21,1,0,0,0,"1301 Canoga Park Dr",NA,"Marshall","MN","56258","Lyon",38
+"806113","Edu-care St. Joseph School",21,0.952,0,0.048,0,"108 6th Ave N",NA,"Waite Park","MN","56387-1199","Stearns",73
+"800696","Holy Cross Preschool",21,0.857,0,0.143,0,"6100 37th St W",NA,"Webster","MN","55088","Rice",30
+"1057300","It Starts with Luv Child Care",21,1,0,0,0,"2604 42nd Ave N",NA,"Minneapolis","MN","55412","Hennepin",26
+"1086125","Kids Clubhouse Child Care Limited",21,0.81,0.19,0,0,"14980 Garrett Ave",NA,"Apple Valley","MN","55124","Dakota",100
+"1059712","Laker Prep Preschool LLC",21,1,0,0,0,"807 13th Ave SE",NA,"Detroit Lakes","MN","56501-0000","Becker",25
+"1078046","Magical Minds Childcare & Learning Center",21,0.905,0.095,0,0,"6740 Stillwater Blvd",NA,"Stillwater","MN","55082","Washington",68
+"810927","Mahube Otwa Community Action Partnership Inc M/State Learning Center",21,0.952,0,0.048,0,"900 E Hwy 34",NA,"Detroit Lakes","MN","56502","Becker",40
+"801718","Noah's Ark Preschool",21,1,0,0,0,"700 Division St",NA,"Brownton","MN","55312","McLeod",15
+"1049975","Raising Stars Childcare",21,1,0,0,0,"2600 County Rd D E",NA,"White Bear Lake","MN","55110","Ramsey",64
+"1046394","Shepherd's Lambs Child Care Center (The)",21,1,0,0,0,"4240 Gettysburg Ave N",NA,"New Hope","MN","55428","Hennepin",51
+"1066335","St Maximilian Kolbe Catholic Preschool",21,0.952,0,0.048,0,"235 S 2nd St",NA,"Delano","MN","55328","Wright",40
+"1051224","Tri-Valley Monticello Head Start Center",21,1,0,0,0,"9375 Fenning Ave",NA,"Monticello","MN","55362","Wright",42
+"802724","Wonder World Preschool Inc",21,1,0,0,0,"2809 Maple Ave",NA,"Slayton","MN","56172","Murray",76
+"830891","Atonement Preschool",22,1,0,0,0,"1144 29th Ave N",NA,"Saint Cloud","MN","56303","Stearns",28
+"1028873","Bet Shalom Yeladim Preschool",22,1,0,0,0,"13613 Orchard Rd",NA,"Minnetonka","MN","55305","Hennepin",52
+"1083723","Canoga Park Childcare West",22,1,0,0,0,"702 E Southview Dr",NA,"Marshall","MN","56258","Lyon",49
+"1084787","Center of Excellence",22,0.818,0,0.182,0,"2400 Park Ave S",NA,"Minneapolis","MN","55404","Hennepin",71
+"1080041","Delta Learning & Child Care Center LLC",22,1,0,0,0,"6570 Edenvale Blvd",NA,"Eden Prairie","MN","55346","Hennepin",47
+"802569","Early Childhood Development Center",22,0.955,0,0.045,0,"2900 University Ave",NA,"Crookston","MN","56716","Polk",43
+"830221","Faithful Beginnings at Maternity of Mary St Andrews School",22,1,0,0,0,"592 W Arlington Ave",NA,"Saint Paul","MN","55117","Ramsey",61
+"1004682","First Evangelical Lutheran Church",22,1,0,0,0,"414  Main St",NA,"La Crescent","MN","55947","Houston",65
+"1006245","Garden of Hope Montessori",22,0.955,0,0.045,0,"2446 E County Rd F",NA,"White Bear Lake","MN","55110","Ramsey",30
+"1064993","Glenwood Childcare Center LLC",22,0.864,0,0.091,0.045,"1525 Glenwood Ave",NA,"Minneapolis","MN","55405","Hennepin",66
+"810734","Little Flowers Montessori West",22,0.955,0,0.045,0,"4155 Zachary Ln",NA,"Plymouth","MN","55441","Hennepin",74
+"1062917","Little Trenders",22,0.955,0,0.045,0,"20855 Kensington Blvd",NA,"Lakeville","MN","55044","Dakota",42
+"1000428","Northern Voices",22,1,0,0,0,"1660 W County Rd B",NA,"Roseville","MN","55113","Ramsey",59
+"1065182","Pine View Child Care & Learning Center",22,0.955,0,0.045,0,"34257 County Road 3",NA,"Crosslake","MN","56442","Crow Wing",57
+"1025808","Promise Preschool",22,1,0,0,0,"First Lutheran Church","1100 E Superior St","Duluth","MN","55802","St. Louis",25
+"807877","Queen of Peace Preschool",22,1,0,0,0,"102 4th St",NA,"Cloquet","MN","55720","Carlton",19
+"830682","Siembra Early Childhood/Child Care Program",22,1,0,0,0,"1915 Chicago Ave S",NA,"Minneapolis","MN","55404","Hennepin",35
+"802271","Southside Family Nurturing Center",22,1,0,0,0,"2448 18th Ave S",NA,"Minneapolis","MN","55404","Hennepin",29
+"1030248","St. John's Roots to Wings Learning Center",22,0.909,0.045,0.045,0,"516 W Chestnut St",NA,"Lake City","MN","55041","Wabasha",48
+"1000081","Wabasha Head Start",22,1,0,0,0,"611 Broadway AVE",NA,"Wabasha","MN","55981","Wabasha",20
+"1079089","A to Z Childrens Academy",23,0.913,0,0.087,0,"5821 Tower St S Ste C",NA,"Rockford","MN","55373","Hennepin",60
+"800655","Discovery Days Preschool",23,1,0,0,0,"201 Maple St",NA,"Lowry","MN","56349","Pope",20
+"801291","Kinderhaus Montessori School",23,0.739,0.087,0.174,0,"3115 Victoria St N",NA,"Roseville","MN","55113-1935","Ramsey",20
+"1037325","Kinderstube German Immersion Preschool Germanic American Institute",23,1,0,0,0,"301 Summit Ave",NA,"Saint Paul","MN","55102","Ramsey",20
+"1080971","Lake Area Discovery Center @ St Helenas Catholic School",23,1,0,0,0,"3200 E 44th St",NA,"Minneapolis","MN","55406","Hennepin",40
+"801755","Northfield Day Care Center",23,0.957,0.043,0,0,"300 Union Street",NA,"Northfield","MN","55057","Rice",21
+"1041376","Peaceful Heights Montessori School & Day Care",23,0.913,0,0.087,0,"375 E Marie Ave",NA,"West St Paul","MN","55118","Dakota",68
+"1019767","Precious Lambs Preschool",23,0.957,0,0.043,0,"4520 19th Ave NW",NA,"Rochester","MN","55901","Olmsted",20
+"1085690","Prestige Preschool Academy Minnetonka",23,0.957,0.043,0,0,"14730 Excelsior Blvd",NA,"Minnetonka","MN","55345","Hennepin",170
+"1042513","Red Bridge Preschool",23,1,0,0,0,"150 5th St",NA,"Marine on St Croix","MN","55047","Washington",26
+"802297","St. Anthony Park Co-op Preschool",23,1,0,0,0,"2129 Commonwealth Ave",NA,"Saint Paul","MN","55108","Ramsey",23
+"1081446","Sugar Plum Childcare Center Inc North",23,1,0,0,0,"436 19 1/2 Ave N",NA,"Saint Cloud","MN","56303","Stearns",48
+"1054576","University Nursery School Harbor View",23,1,0,0,0,"1115 North Lake Ave",NA,"Duluth","MN","55806-0000","St. Louis",42
+"1081970","WSU Childrens Center Creekside Site",23,1,0,0,0,"1290 E Burns Valley Rd",NA,"Winona","MN","55987","Winona",45
+"802059","Building Blocks Christian Preschool",24,0.875,0.042,0.083,0,"61 Mississippi Way NW",NA,"Fridley","MN","55432","Anoka",20
+"800319","Carol Matheys Center for Children & Families",24,1,0,0,0,"6060 43rd St N",NA,"Oakdale","MN","55128","Washington",62
+"1083642","Children of Tomorrow NYA",24,1,0,0,0,"316 W Hwy 212",NA,"Norwood Young America","MN","55368","Carver",73
+"1056907","First Step Early Childhood Education Center",24,1,0,0,0,"3036 University Ave SE",NA,"Minneapolis","MN","55414","Hennepin",38
+"1080232","Five Star Child Care Center Inc",24,0.75,0,0.25,0,"2700 Summer St NE",NA,"Minneapolis","MN","55413","Hennepin",77
+"800968","Hand in Hand Child Care Center",24,1,0,0,0,"1250 Concordia Ave",NA,"Saint Paul","MN","55104","Ramsey",46
+"801043","Hillcrest Child Care Center",24,1,0,0,0,"9100 Russell Ave S",NA,"Bloomington","MN","55431","Hennepin",38
+"1063383","Joyce Preschool",24,0.958,0,0.042,0,"5821 Wentworth Ave S",NA,"Minneapolis","MN","55419","Hennepin",20
+"830317","KinderCare Learning Center",24,1,0,0,0,"1865 Plaza Dr",NA,"Eagan","MN","55122-5534","Dakota",166
+"1074044","Lake Area Discovery Center at Annunciation School",24,1,0,0,0,"525 W 54th St",NA,"Minneapolis","MN","55419","Hennepin",20
+"801390","Little Beginnings",24,1,0,0,0,"309 3rd St SE",NA,"Cook","MN","55723","St. Louis",25
+"801396","Little Flowers Montessori",24,0.958,0,0.042,0,"5224 Minnetonka Blvd",NA,"St Louis Park","MN","55416","Hennepin",52
+"801402","Little Lambs Christian Center",24,1,0,0,0,"400 Franklin St SW",NA,"Hutchinson","MN","55350","McLeod",67
+"1074453","Little Sprouts Preschool and Daycare",24,0.958,0,0.042,0,"708 Parkway Ave",NA,"Eagle Lake","MN","56024","Blue Earth",50
+"1048344","Montessori School of Sauk Rapids",24,1,0,0,0,"1911 4th Ave N",NA,"Sauk Rapids","MN","56379","Benton",38
+"1054529","Mt Calvary Lutheran Preschool",24,1,0,0,0,"6541 16th Ave S",NA,"Richfield","MN","55423","Hennepin",20
+"1065874","Nuna Childcare Center Inc",24,0.958,0.042,0,0,"312 W Lake St Ste 2933",NA,"Minneapolis","MN","55408","Hennepin",71
+"1080546","Precious Little Blessings",24,1,0,0,0,"1304 Fir Ave N",NA,"Glencoe","MN","55336","McLeod",50
+"830776","Rainbow Child Development Center",24,0.958,0.042,0,0,"605 Como Ave",NA,"Saint Paul","MN","55103","Ramsey",63
+"1058812","Red Cottage Montessori School",24,0.875,0,0.125,0,"5225 US 61 Cottage 3",NA,"Red Wing","MN","55066","Goodhue",55
+"1078834","South Metro Montessori School",24,1,0,0,0,"10970 185th St W",NA,"Lakeville","MN","55044","Dakota",37
+"802316","St Croix Kids Early Childhood Center",24,0.958,0,0.042,0,"111 E Orleans St",NA,"Stillwater","MN","55082","Washington",44
+"1074767","St Johns Lutheran Preschool",24,1,0,0,0,"27 1st St NW",NA,"Norwood Young America","MN","55397","Carver",20
+"801711","Teen Parent Services Longfellow",24,1,0,0,0,"3017 E 31st St",NA,"Minneapolis","MN","55406","Hennepin",84
+"1057030","True Light Christian School",24,0.833,0,0.167,0,"601 E College Dr",NA,"Marshall","MN","56258","Lyon",40
+"1016676","Bright Beginnings Learning Center",25,0.96,0,0,0.04,"9675 63rd Ave N",NA,"Maple Grove","MN","55369","Hennepin",47
+"800252","Brookdale Christian Center Daycare",25,1,0,0,0,"6030 Xerxes Ave N",NA,"Brooklyn Center","MN","55430","Hennepin",70
+"1079458","Building Blocks Learning Center",25,0.96,0.04,0,0,"4715 Hermantown Rd",NA,"Hermantown","MN","55811","St. Louis",62
+"802475","Christ Memorial Tender Learning Center",25,1,0,0,0,"13501 Sunset Trl",NA,"Plymouth","MN","55441","Hennepin",100
+"1035465","Community of Hope Preschool",25,1,0,0,0,"14401 Biscayne Ave",NA,"Rosemount","MN","55068","Dakota",21
+"1051310","Cornerstone Montessori School",25,0.84,0.04,0.12,0,"1611 Ames Ave",NA,"Saint Paul","MN","55106","Ramsey",72
+"1077401","Edgcumbe Montessori & Day Care",25,1,0,0,0,"2149 Edgcumbe Rd",NA,"Saint Paul","MN","55116","Ramsey",50
+"1077401","Edgcumbe Montessori & Day Care",25,1,0,0,0,"2149 Edgcumbe Rd",NA,"Saint Paul","MN","55116","Ramsey",50
+"1029703","Faithful Beginnings at Immaculate Conception Catholic School",25,1,0,0,0,"4030 Jackson St NE",NA,"Columbia Heights","MN","55421","Anoka",38
+"1031848","Grace Garden Childcare",25,1,0,0,0,"300 E Elm Ave",NA,"Waseca","MN","56093","Waseca",76
+"800914","Grace Preschool and Early Childhood Program",25,1,0,0,0,"18360 Minnetonka Blvd",NA,"Deephaven","MN","55391","Hennepin",51
+"1074494","Hmoob Toj Siab Childrens House",25,0.92,0.04,0.04,0,"1909 Ivy Ave E",NA,"Saint Paul","MN","55119","Ramsey",30
+"1082283","Kiddiegarten School of Maple Grove",25,0.96,0.04,0,0,"9495 Garland Lane N",NA,"Maple Grove","MN","55311","Hennepin",188
+"800444","KinderCare Learning Center",25,0.88,0.08,0.04,0,"3050 Fernbrook Lane N",NA,"Plymouth","MN","55441","Hennepin",120
+"1035820","Kingdom Kids Child Care Center",25,1,0,0,0,"260 State Hwy 55 N",NA,"Glenwood","MN","56334","Pope",108
+"801347","Koala Bear Child Care",25,1,0,0,0,"4559 Shoreline Drive",NA,"Spring Park","MN","55384","Hennepin",61
+"1074262","Lil Tykes Childcare LLC",25,1,0,0,0,"15 121st Ave NW",NA,"Coon Rapids","MN","55433","Anoka",82
+"1074262","Lil Tykes Childcare LLC",25,1,0,0,0,"15 121st Ave NW",NA,"Coon Rapids","MN","55433","Anoka",82
+"1080534","Little Sprouts Learning Center",25,0.96,0,0.04,0,"908 N 2nd St",NA,"Warren","MN","56762","Marshall",47
+"1034782","Mrs. Lali's Little Friends Montessori LLC",25,1,0,0,0,"8101 Nicollet Ave S",NA,"Bloomington","MN","55420","Hennepin",57
+"1011385","Noah's Ark Child Care",25,0.96,0.04,0,0,"223 1st St NE",NA,"Madelia","MN","56062-0000","Watonwan",52
+"1078908","Original Child Care Center Inc (The)",25,1,0,0,0,"2733 Park Ave S",NA,"Minneapolis","MN","55407","Hennepin",60
+"1065946","Perfect Balance Child Care LLC",25,0.92,0.08,0,0,"3616 12th Ave S",NA,"Minneapolis","MN","55407","Hennepin",109
+"810490","Precious is the Child",25,0.96,0,0.04,0,"2117 11th Ave SE",NA,"Rochester","MN","55904","Olmsted",20
+"809025","Project Secure Early Childhood Family Development Center",25,0.96,0,0.04,0,"4225 3rd Ave S",NA,"Minneapolis","MN","55409","Hennepin",59
+"1019855","Southwest Minnesota State University Child Day Care Center",25,1,0,0,0,"1502 Birch St",NA,"Marshall","MN","56258","Lyon",41
+"1081125","St Raphael Catholic Preschool & Pre K",25,1,0,0,0,"7301 Bass Lake Rd",NA,"Crystal","MN","55428","Hennepin",40
+"1009586","St. Andrew's Preschool",25,1,0,0,0,"501 NW 16th St",NA,"Grand Rapids","MN","55744","Itasca",16
+"1087174","Teeny Bubbles Childcare & Learning Center LLP",25,1,0,0,0,"17140 Hwy 371",NA,"Brainerd","MN","56401","Crow Wing",94
+"1041746","Tree House Preschool",25,1,0,0,0,"1400 S State Street",NA,"New Ulm","MN","56073","Brown",20
+"1015727","Way of the Shepherd Montessori (The)",25,0.52,0,0.48,0,"13200 Central Ave NE",NA,"Blaine","MN","55434","Anoka",45
+"800064","All Saints Child Care Center",26,1,0,0,0,"15915 Excelsior Blvd",NA,"Minnetonka","MN","55345","Hennepin",57
+"801996","Bright Prospects Cooperative Preschool",26,1,0,0,0,"2730 E 31st St",NA,"Minneapolis","MN","55406","Hennepin",15
+"1051599","Buffalo United Methodist Preschool",26,0.962,0,0.038,0,"609 8th Street NW",NA,"Buffalo","MN","55313","Wright",18
+"804938","Colvill Head Start Center",26,1,0,0,0,"269 E 5th St",NA,"Red Wing","MN","55066","Goodhue",20
+"1039764","Duluth Preschool of Fine Arts",26,0.962,0,0.038,0,"1108 E 8th St",NA,"Duluth","MN","55805","St. Louis",20
+"1075558","Early Childhood Family Development Training Center",26,0.962,0,0.038,0,"4255 3rd Ave S",NA,"Minneapolis","MN","55409","Hennepin",16
+"800721","Edina Morningside Preschool",26,0.962,0,0.038,0,"4201 Morningside Rd",NA,"Edina","MN","55416","Hennepin",35
+"800973","Happy Days Preschool Inc",26,0.923,0,0.077,0,"600 E Harvey Rm 110 Ind  Apts",NA,"Ely","MN","55731","St. Louis",20
+"1078060","Hopkins Montessori",26,0.923,0,0.077,0,"14410 Brunsvold Rd",NA,"Minnetonka","MN","55345","Hennepin",44
+"1048644","Immanuel Lutheran Preschool",26,1,0,0,0,"30 S Wabasha",NA,"Plainview","MN","55964","Wabasha",10
+"1048639","Jeremiah Program Child Development Center St Paul Campus",26,0.846,0.154,0,0,"932 Concordia Ave",NA,"Saint Paul","MN","55104","Ramsey",68
+"1062183","Kiddie Farm Daycare Center LLC",26,0.846,0.115,0.038,0,"4102 County Rd 42",NA,"Savage","MN","55378","Scott",58
+"1061326","Learning Tree Child Develpment Center LLC",26,1,0,0,0,"1168 Main Street S",NA,"Sauk Centre","MN","56378","Stearns",NA
+"801722","Marquette Early Learning Center",26,0.923,0,0.077,0,"311 3rd St S",NA,"Virginia","MN","55792","St. Louis",20
+"806299","Mary of Lourdes Preschool",26,1,0,0,0,"307 SE 4th St",NA,"Little Falls","MN","56345","Morrison",10
+"1080973","Merry Moose Childcare & Preschool",26,1,0,0,0,"157 E Broadway",NA,"Rockville","MN","56369","Stearns",43
+"809520","Minnehaha Academy Preschool",26,1,0,0,0,"4200 W River Pkwy","Room 107","Minneapolis","MN","55406","Hennepin",40
+"801607","Mt. Carmel Child Care Center",26,0.962,0,0.038,0,"1701 St Anthony Pkwy NE",NA,"Minneapolis","MN","55418","Hennepin",22
+"800223","New Discoveries Child Care Center",26,0.923,0,0.077,0,"602 Oak St",NA,"Brainerd","MN","56401","Crow Wing",50
+"801716","Noahs Ark Preschool",26,0.962,0,0.038,0,"302 NE 2nd St",NA,"Buffalo","MN","55313","Wright",20
+"1058248","Sacred Heart School Pre-K & Early Childhood Center",26,0.923,0,0.077,0,"303 2nd St NE","PO Box 39","Freeport","MN","56331","Stearns",50
+"1077077","Small Sprouts Preschool",26,0.846,0,0.154,0,"1125 S State St",NA,"Fairmont","MN","56031","Martin",20
+"1085935","St Elizabeth Ann Seton Rainbow Preschool",26,0.962,0,0.038,0,"1615 11th Ave S",NA,"Saint Cloud","MN","56301","Stearns",30
+"806298","St John the Baptist Faithful Beginnings Preschool",26,0.962,0,0.038,0,"215 Broadway St N",NA,"Jordan","MN","55352","Scott",40
+"1067631","St Paul Learning Center Inc",26,0.808,0,0.192,0,"1922 University Ave W",NA,"Saint Paul","MN","55104","Ramsey",91
+"1059377","St Stephen Preschool",26,1,0,0,0,"1301 S 4th St",NA,"Marshall","MN","56258","Lyon",20
+"802352","St. Luke's Christian Preschool",26,1,0,0,0,"1701 W Old Shakopee Rd",NA,"Bloomington","MN","55431","Hennepin",20
+"1081825","Tendercare Learning Center LLC",26,0.538,0.462,0,0,"8040 Old Cedar Ave #3",NA,"Bloomington","MN","55425","Hennepin",90
+"804948","Town and Country Day Care",26,1,0,0,0,"450 12th St,",NA,"Mountain Lake","MN","56159","Cottonwood",40
+"1082421","Tri Valley St Cloud Head Start Center",26,1,0,0,0,"930 31st Ave N",NA,"Saint Cloud","MN","56303","Stearns",44
+"1086435","Yanyo Childcare Center Inc",26,0.885,0.115,0,0,"1721 Old Hudson Rd",NA,"Saint Paul","MN","55106","Ramsey",54
+"1080450","Bright Minds Child Care Inc",27,1,0,0,0,"950 E Hennepin Ave",NA,"Minneapolis","MN","55414","Hennepin",96
+"1081275","Building Blocks Learning Center & Child Care Inc",27,1,0,0,0,"610 Summit Dr Ste 1",NA,"Fairmont","MN","56031","Martin",75
+"830355","Children of Hope Preschool",27,0.926,0.074,0,0,"5730 179th Ln",NA,"Ramsey","MN","55303","Anoka",20
+"1029469","Crayon Box Child Care (The)",27,1,0,0,0,"7751 E River Road",NA,"Fridley","MN","55432","Anoka",81
+"1060828","Fahiye Child Care Center",27,0.889,0.111,0,0,"519 Jackson St Ste A",NA,"Saint Paul","MN","55101","Ramsey",43
+"800873","Gaetz Kiddie Kare",27,1,0,0,0,"1227 4th Ave S",NA,"Saint Cloud","MN","56301","Stearns",52
+"1005024","Kids First Preschool",27,0.963,0,0.037,0,"912 Lake Ave",NA,"Detroit Lakes","MN","56501","Becker",14
+"1014488","Kids of Christ Learning Center",27,0.889,0,0.111,0,"223 E 5th St",NA,"Zumbrota","MN","55992","Goodhue",30
+"1000961","MetroKids",27,1,0,0,0,"810 7th St S",NA,"Minneapolis","MN","55415","Hennepin",88
+"801568","Mississippi Valley Montessori School",27,0.963,0,0.037,0,"1575 Charlton St",NA,"West St Paul","MN","55118","Dakota",30
+"1027078","Mount Olivet Day Services",27,1,0,0,0,"5517 Lyndale Ave S",NA,"Minneapolis","MN","55419","Hennepin",38
+"1066394","Musical Montessori (The)",27,1,0,0,0,"5050 Hodgson Rd",NA,"North Oaks","MN","55127","Ramsey",24
+"830575","Pat-a-cake Child Care",27,1,0,0,0,"7761 Lk Dr Ste E",NA,"Lino Lakes","MN","55014","Anoka",66
+"1074750","Plymouth Academy",27,1,0,0,0,"911 Plymouth Ave",NA,"Minneapolis","MN","55411","Hennepin",138
+"1077489","Sam & Abes Child Care Learning & Development Center",27,1,0,0,0,"622 Sunrise Dr",NA,"Saint Peter","MN","56082","Nicollet",57
+"1003299","St John Lutheran Day Care",27,1,0,0,0,"137 Houk St",NA,"Good Thunder","MN","56037","Blue Earth",65
+"830708","Wholechild, Inc",27,1,0,0,0,"1901 Ford Pkwy",NA,"Saint Paul","MN","55116","Ramsey",85
+"1035184","YWCA Minneapolis Childrens Center",27,0.852,0.148,0,0,"800 E 28th St",NA,"Minneapolis","MN","55407","Hennepin",102
+"1065542","YWCA Minneapolis Childrens Center",27,0.926,0.074,0,0,"1030 University Ave",NA,"Saint Paul","MN","55104","Ramsey",54
+"1055403","Bridge to Knowledge Montessori",28,0.893,0.036,0.071,0,"11337 Flintwood St",NA,"Coon Rapids","MN","55448","Anoka",49
+"1058249","Bright Horizons Children's Centers LLC dba: Mayo Employees Back-Up CCC",28,0.929,0,0.071,0,"3535 40th Ave Suite 100",NA,"Rochester","MN","55901","Olmsted",181
+"1082604","Clubhouse Childcare & Preschool (The)",28,1,0,0,0,"1041 Helmo Ave N",NA,"Oakdale","MN","55128","Washington",70
+"1053172","IKRAM Child Care LLC",28,0.929,0,0.071,0,"3055 Old Highway 8 Ste 110",NA,"Minneapolis","MN","55418","Hennepin",42
+"1012865","Kids Club",28,1,0,0,0,"405 S W Colfax",NA,"Wadena","MN","56482","Wadena",40
+"801282","Kinder Korner",28,1,0,0,0,"932 NW 2nd St",NA,"Forest Lake","MN","55025","Washington",59
+"831021","LeSueur Nursery School, Inc.",28,0.857,0,0.143,0,"812 S 6th St",NA,"Le Sueur","MN","56058","Le Sueur",20
+"1073631","Lighthouse Learning Academy",28,1,0,0,0,"26070 4th St W",NA,"Zimmerman","MN","55398","Sherburne",87
+"803932","Montessori Children's House",28,1,0,0,0,"9508 Garfield Ave S",NA,"Bloomington","MN","55420","Hennepin",45
+"1044132","Montessori Children's House",28,0.929,0,0.071,0,"2400 Division St South",NA,"Northfield","MN","55057","Rice",46
+"809653","Morris Area Child Care Center",28,0.964,0.036,0,0,"1001 1/2 Scotts Ave",NA,"Morris","MN","56267","Stevens",62
+"1014489","Precious Pebbles Preschool",28,0.964,0,0.036,0,"3040 Stonehedge Dr NE",NA,"Rochester","MN","55906","Olmsted",18
+"1055396","Sacred Heart Area Preschool",28,1,0,0,0,"324 4th St NE",NA,"Staples","MN","56479","Todd",40
+"1082529","Skyline Towers Head Start",28,0.893,0,0.071,0.036,"1247 St Anthony",NA,"Saint Paul","MN","55104","Ramsey",20
+"802546","Trinity Lutheran Preschool",28,1,0,0,0,"424 E Gilman","Box J","New York Mills","MN","56567","Otter Tail",20
+"1059543","Twin Cities Daycare and Child Development Center Inc",28,1,0,0,0,"2817 Oakland Ave S",NA,"Minneapolis","MN","55407","Hennepin",68
+"804169","Gaetz Kiddie Kove",29,1,0,0,0,"1325 Northway Dr",NA,"Saint Cloud","MN","56303","Stearns",59
+"1036649","Harvest Preschool",29,0.897,0,0.103,0,"219 4th St N",NA,"Sauk Rapids","MN","56379","Benton",30
+"1035979","Heritage Montessori School",29,0.966,0,0.034,0,"310 Lk St S",NA,"Big Lake","MN","55309","Sherburne",70
+"1045126","Jam Hops Leap-N-Learn",29,1,0,0,0,"1460 133rd Lane NE",NA,"Ham Lake","MN","55304","Anoka",19
+"830381","Jefferson Head Start Room 110",29,1,0,0,0,"1234 Kandiyohi Ave",NA,"Willmar","MN","56201","Kandiyohi",20
+"800467","KinderCare Learning Center",29,0.966,0,0.034,0,"101 N Blake Rd",NA,"Hopkins","MN","55343","Hennepin",111
+"801301","King's Kids",29,0.966,0,0.034,0,"1980 Silver Lk Rd",NA,"New Brighton","MN","55112","Ramsey",20
+"801330","Lake Harriet Christian Child Care Center",29,0.862,0.138,0,0,"5009 Beard Ave S",NA,"Minneapolis","MN","55410","Hennepin",69
+"830654","Litchfield Head Start Center",29,0.931,0,0.069,0,"307 E 6th St",NA,"Litchfield","MN","55355","Meeker",40
+"830968","Little Red Caboose Child Care",29,1,0,0,0,"500 3rd Ave S",NA,"Saint James","MN","56081","Watonwan",77
+"1077241","Montessori School of Duluth",29,0.931,0,0.069,0,"313 Mygatt Ave",NA,"Duluth","MN","55803","St. Louis",55
+"801048","Newport Head Start",29,1,0,0,0,"1596 11th Ave",NA,"Newport","MN","55055","Washington",40
+"801736","North Oaks Preschool",29,0.966,0,0.034,0,"5 Mink Ln",NA,"North Oaks","MN","55127","Ramsey",20
+"1062777","Pine Childrens Early Learning Center LLC",29,0.966,0,0.034,0,"900 4th St SE",NA,"Pine City","MN","55063","Pine",34
+"1051433","Pony Preschool & Child Development Center LLC",29,0.931,0.069,0,0,"490  N 4th Street",NA,"Bayport","MN","55003","Washington",60
+"802328","St. Francis Preschool",29,0.966,0,0.034,0,"817 Juniper",NA,"Brainerd","MN","56401","Crow Wing",20
+"831005","Sunrise Center For Children and Families",29,0.966,0,0.034,0,"702 Summit Ave",NA,"Crookston","MN","56716","Polk",55
+"809354","Tiny Sprouts Day Care Center",29,1,0,0,0,"28877 State Hwy 371",NA,"Pequot Lakes","MN","56472","Crow Wing",65
+"1049246","TLC Childcare & Discovery Learning Center",29,0.931,0.069,0,0,"1051 Forest St",NA,"Saint Paul","MN","55106","Ramsey",36
+"1036443","TLC Preschool & Growing Tree Learning Center",29,0.931,0.069,0,0,"123 29th St NE",NA,"Bemidji","MN","56601","Beltrami",49
+"831127","Creation Kids Preschool",30,1,0,0,0,"301 8th Ave NW",NA,"Kasson","MN","55944","Dodge",40
+"1037529","Cyprus Classical Montessori",30,1,0,0,0,"13560 Cty Rd 5",NA,"Burnsville","MN","55337","Dakota",59
+"1082747","Degan Child Care Center LLC",30,1,0,0,0,"1545 E Lake St",NA,"Minneapolis","MN","55407","Hennepin",78
+"1083442","Discover Magical Moments West",30,1,0,0,0,"2790 Commerce Dr NW",NA,"Rochester","MN","55901","Olmsted",184
+"1063603","Good Shepherd Church & School",30,0.933,0,0.067,0,"151 E County Rd 42",NA,"Burnsville","MN","55306","Dakota",40
+"1044962","Great Expectations Child Care",30,1,0,0,0,"329 5th Ave SE",NA,"East Grand Forks","MN","56721","Polk",83
+"1076797","Holy Trinity Catholic School",30,0.867,0,0.133,0,"80 Edward St S",NA,"Pierz","MN","56364","Morrison",50
+"801213","Kids Korner",30,0.967,0,0.033,0,"384 E Roselawn Ave",NA,"Maplewood","MN","55117","Ramsey",65
+"800463","KinderCare Learning Center",30,0.967,0.033,0,0,"181 W County Rd B2",NA,"Roseville","MN","55113","Ramsey",101
+"801267","KinderCare Learning Center",30,1,0,0,0,"7964 Xerxes Ave N",NA,"Brooklyn Park","MN","55444","Hennepin",92
+"804129","KinderCare Learning Center",30,0.933,0.033,0.033,0,"1755 121st Ave NW",NA,"Coon Rapids","MN","55448","Anoka",127
+"1006324","Little Folks Daycare, Inc.",30,0.967,0,0.033,0,"6226 Bass Lake Rd",NA,"Crystal","MN","55429","Hennepin",93
+"801401","Little Lambs Preschool",30,1,0,0,0,"427 W Mulberry St",NA,"Saint Peter","MN","56082-2012","Nicollet",10
+"1063775","Mi Familia Childcare",30,1,0,0,0,"2855 47th St E",NA,"Inver Grove Heights","MN","55076","Dakota",54
+"807028","Mother Duck Learning Center",30,0.967,0.033,0,0,"6301 Penn Ave S",NA,"Richfield","MN","55423","Hennepin",89
+"801813","Open Door Preschool",30,0.867,0,0.133,0,"500 W 3rd St",NA,"Northfield","MN","55057","Rice",20
+"802061","Redeemer Christian Academy",30,0.833,0,0.167,0,"115 W Wayzata Blvd",NA,"Wayzata","MN","55391","Hennepin",20
+"830578","Treehouse Latch Key and Childcare Learning Center",30,0.967,0,0,0.033,"10902 River Road NE",NA,"Hanover","MN","55341","Wright",60
+"802795","Trinity Children's Center",30,0.933,0.067,0,0,"1420 S 6th St",NA,"Brainerd","MN","56401","Crow Wing",63
+"1062585","Belle Plaine LLC Memories & Milestones Academy",31,1,0,0,0,"900 E South St",NA,"Belle Plaine","MN","56011","Scott",62
+"1042772","Celebration Academy",31,0.903,0.065,0.032,0,"16655 Kenyon Ave",NA,"Lakeville","MN","55044","Dakota",80
+"804270","Chisholm Head Start",31,0.968,0,0.032,0,"Vaughan Steffensrud School","1000 1st Ave NE","Chisholm","MN","55719","St. Louis",20
+"809564","Christ Lutheran Preschool",31,1,0,0,0,"1930 Diffley Rd",NA,"Eagan","MN","55122","Dakota",20
+"1081103","EPIC Endeavors Preschool Academy",31,0.968,0,0.032,0,"20th 9th St SE",NA,"Rochester","MN","55902-0000","Olmsted",40
+"808819","Forestview Montessori",31,1,0,0,0,"105 N Forestview Ln",NA,"Plymouth","MN","55441","Hennepin",54
+"1059649","Four Directions Family Center",31,1,0,0,0,"2438 18th Ave S",NA,"Minneapolis","MN","55404","Hennepin",64
+"801025","Hermantown Area Head Start",31,1,0,0,0,"5028 Miller Trunk Hwy",NA,"Hermantown","MN","55811","St. Louis",40
+"1048769","Hilltop Head Start",31,0.935,0,0.065,0,"3203 68th St E Rm 107 IGH Early Learning Cent",NA,"Inver Grove Heights","MN","55076","Dakota",20
+"1037698","Invest Early Project-Nashwauk",31,0.968,0.032,0,0,"115 2nd St",NA,"Nashwauk","MN","55769","Itasca",18
+"808051","Joyful Heart Preschool",31,0.806,0,0.194,0,"730 Elm Ave E",NA,"Delano","MN","55328","Wright",20
+"1019751","Marshall Area Child Care Center",31,1,0,0,0,"305 S 2nd St Ste 2",NA,"Marshall","MN","56258","Lyon",59
+"1029704","Montessori School of Melrose",31,1,0,0,0,"207 E 5th St N",NA,"Melrose","MN","56352","Stearns",30
+"1016803","Mt. Olivet Lutheran Church",31,0.968,0,0.032,0,"12235 Old Rockford Rd.",NA,"Plymouth","MN","55441","Hennepin",92
+"801681","New Horizon Academy",31,1,0,0,0,"8400 Normandale Lake Blvd",NA,"Bloomington","MN","55437","Hennepin",62
+"1004075","Northfield Head Start",31,1,0,0,0,"1651 Jefferson Pkwy","Attn Jane Payton","Northfield","MN","55057","Rice",62
+"802019","Rainbow School and Child Care",31,1,0,0,0,"680 Mississippi St NE",NA,"Fridley","MN","55432","Anoka",95
+"802211","Seward Child Care Center",31,0.903,0.097,0,0,"2323 32nd Ave S",NA,"Minneapolis","MN","55406","Hennepin",30
+"1051311","Tracy Kid's World",31,1,0,0,0,"310 Pine Street",NA,"Tracy","MN","56175","Lyon",100
+"1052448","Way to Grow Preschool",31,0.935,0,0.065,0,"3333 4th St N",NA,"Minneapolis","MN","55412","Hennepin",20
+"830766","Wee Friends Creative Preschool",31,1,0,0,0,"1400 Elliott Ave N",NA,"Glencoe","MN","55336","McLeod",20
+"1065286","Alphabet Junction Childcare Center 5 Inc",32,0.875,0.125,0,0,"169 El Dorado Dr",NA,"Jordan","MN","55352","Scott",83
+"1054231","Amazing Beginnings Montessori & Child Care",32,0.938,0,0.063,0,"3105 65th St E",NA,"Inver Grove Heights","MN","55076-4499","Dakota",95
+"831153","Blossomtime Montessori and Day Care",32,1,0,0,0,"7132 Portland Ave S",NA,"Richfield","MN","55423","Hennepin",84
+"1015880","Ebenezer Intergenerational Day Program",32,1,0,0,0,"13820 Community Drive",NA,"Burnsville","MN","55337","Dakota",71
+"800765","Fairmont Head Start",32,1,0,0,0,"625 Johnson St",NA,"Fairmont","MN","56031","Martin",17
+"801258","KinderCare Learning Center",32,0.875,0.125,0,0,"17455 Kenrick Ave.",NA,"Lakeville","MN","55044","Dakota",126
+"1025915","Kootasca Head Start I.C.C.",32,1,0,0,0,"1851 Highway 169E",NA,"Grand Rapids","MN","55744","Itasca",42
+"1002181","Learning Funhouse, Inc. (The)",32,0.969,0.031,0,0,"199 South Main",NA,"Bird Island","MN","55310","Renville",73
+"1065535","Little Blessings of Anoka Early Childhood Learning Center",32,0.75,0.25,0,0,"440 Pierce St Ste 201",NA,"Anoka","MN","55303","Anoka",88
+"1011527","MAG Preschool and Childcare Center",32,0.906,0.031,0.063,0,"24799 Forest Blvd",NA,"Forest Lake","MN","55025","Chisago",48
+"1077990","Montessori Learning LLC",32,0.969,0,0.031,0,"1500 Edgewood Blvd",NA,"North Mankato","MN","56003","Nicollet",48
+"801675","New Horizon Academy",32,1,0,0,0,"4425 Valley View Rd",NA,"Edina","MN","55424","Hennepin",70
+"1003329","Northview Elementary",32,0.875,0,0.125,0,"965 Diffley Rd",NA,"Eagan","MN","55123","Dakota",17
+"1049126","Pemberton Academic Learning Services Inc (PALS)",32,1,0,0,0,"143 4th St",NA,"Pemberton","MN","56078","Blue Earth",55
+"1017049","Prince of Peace Luther Preschool Campus",32,0.875,0,0.125,0,"4770 County Road 120",NA,"Saint Cloud","MN","56303","Stearns",16
+"1084190","Rainbow Child Care Center",32,1,0,0,0,"19881 Idealic Ave",NA,"Lakeville","MN","55044","Dakota",142
+"802217","Shakopee Head Start",32,0.844,0,0.156,0,"505  Holmes St S",NA,"Shakopee","MN","55379","Scott",20
+"1076380","Small World Learning Center",32,1,0,0,0,"8400 City Center Dr",NA,"Woodbury","MN","55125","Washington",111
+"1064021","Solar Academy Inc",32,1,0,0,0,"1274 Marion Rd SE",NA,"Rochester","MN","55904","Olmsted",101
+"1066308","St Josephs School",32,1,0,0,0,"1005 2nd Ave S",NA,"Moorhead","MN","56560","Clay",35
+"1080556","St Paul Madina Academy",32,0.844,0,0,0.156,"115 Wabasha St S",NA,"Saint Paul","MN","55107","Ramsey",63
+"1018306","St Pius X Preschool",32,1,0,0,0,"1205 12th Ave NW",NA,"Rochester","MN","55901","Olmsted",32
+"830390","St. James Head Start",32,1,0,0,0,"705 2nd Ave S",NA,"Saint James","MN","56081","Watonwan",20
+"802411","Staples Head Start Staples Family Center",32,0.969,0,0.031,0,"1025 4th St NE",NA,"Staples","MN","56479","Todd",25
+"1079018","United Child Care Center Inc",32,0.844,0.063,0.094,0,"8353 Excelsior Blvd",NA,"Hopkins","MN","55343","Hennepin",51
+"802628","Waseca Head Start",32,0.906,0.094,0,0,"108 10th Ave SE",NA,"Waseca","MN","56093","Waseca",17
+"1036683","Westview Head Start",32,0.875,0,0.125,0,"225 Gardenview Dr",NA,"Apple Valley","MN","55124","Dakota",17
+"1077259","Wooddale Academy",32,0.875,0.125,0,0,"5532 Wooddale Ave S",NA,"Edina","MN","55424","Hennepin",78
+"1012751","Zion Early Childhood Center",32,1,0,0,0,"241 5th Ave N",NA,"Hopkins","MN","55343","Hennepin",62
+"1081942","Abundant Life Preschool & Learning Center",33,1,0,0,0,"1105 117th Ave NE",NA,"Blaine","MN","55434","Anoka",57
+"1056538","Alphabet Junction Learning Center 3 Inc",33,0.97,0,0.03,0,"7840 Victoria Dr",NA,"Victoria","MN","55386","Carver",99
+"802398","Blessed Trinity Preschool",33,0.97,0,0.03,0,"7540 Penn Ave S",NA,"Richfield","MN","55423","Hennepin",60
+"1012286","Cornerstone Christian Preschool",33,0.909,0,0,0.091,"13045 Fremont Ave",NA,"Zimmerman","MN","55398","Sherburne",30
+"802361","Frassati Catholic Academy",33,1,0,0,0,"4690 Bald Eagle Ave",NA,"White Bear Lake","MN","55110","Ramsey",40
+"1061071","Hooyo Child Care Center",33,0.364,0.636,0,0,"3600 Nicollet Ave S",NA,"Minneapolis","MN","55409","Hennepin",66
+"1081420","Kids Center St Paul Ltd",33,0.818,0.061,0.121,0,"1026 Front Ave",NA,"Saint Paul","MN","55103","Ramsey",48
+"800458","KinderCare Learning Center",33,0.939,0.061,0,0,"2036 East County Rd D",NA,"Maplewood","MN","55109","Ramsey",108
+"801254","KinderCare Learning Center",33,0.909,0.091,0,0,"3620 Krestwood Ln",NA,"Eagan","MN","55123","Dakota",114
+"800299","Lindgren Child Care Center ECC122 St Cloud State University",33,0.97,0.03,0,0,"720 4th Ave S",NA,"Saint Cloud","MN","56301-4498","Stearns",57
+"1035840","Little Bees Childcare Center",33,1,0,0,0,"1630 NE County Hwy 10",NA,"Spring Lake Park","MN","55432","Anoka",83
+"1074780","Little Lambs Learning Center",33,1,0,0,0,"100 Main St",NA,"Danube","MN","56230","Renville",42
+"1041563","Little Puzzlers Child Care Center, Inc.",33,1,0,0,0,"1805 Quarry Rd",NA,"Saint Cloud","MN","56301","Stearns",74
+"830820","Long Prairie Head Start Early Childhood Family Center",33,1,0,0,0,"205 S 2nd St",NA,"Long Prairie","MN","56347","Todd",25
+"801743","N.E. Child Development Center",33,1,0,0,0,"1700 Second St NE",NA,"Minneapolis","MN","55413","Hennepin",68
+"801673","New Horizon Academy",33,1,0,0,0,"310 Lake Dr E",NA,"Chanhassen","MN","55317","Carver",109
+"1056213","Open Arms Early Education & Child Care Center",33,0.97,0.03,0,0,"3355 Hiawatha Ave S",NA,"Minneapolis","MN","55406","Hennepin",177
+"807876","St. John the Baptist School",33,0.97,0,0,0.03,"111 Main St W",NA,"Vermillion","MN","55085","Dakota",22
+"802338","St. John's ABC Preschool",33,0.939,0,0.061,0,"803w 1st St","Rt 2 Hwy 34","Park Rapids","MN","56470","Hubbard",22
+"807920","Tomorrow's Kids of Eagan, Inc.",33,1,0,0,0,"3810 Lexington Ave",NA,"Eagan","MN","55123","Dakota",30
+"1007149","Tri-Valley Rochester Head Start Center",33,1,0,0,0,"1026 E Center St",NA,"Rochester","MN","55904","Olmsted",80
+"802580","University Nursery School",33,1,0,0,0,"916 E 3rd St","Suite 1","Duluth","MN","55803","St. Louis",176
+"1006619","WSU Childrens Center",33,1,0,0,0,"455 Hilbert St",NA,"Winona","MN","55987","Winona",85
+"806286","Zion Lutheran Preschool",33,0.909,0,0.091,0,"401 S Hwy 65",NA,"Mora","MN","55051","Kanabec",20
+"800381","Abiding Branches Cooperative Preschool",34,0.971,0,0,0.029,"171 Elm St",NA,"Lino Lakes","MN","55014","Anoka",30
+"831093","Alphabet Junction Child Care Center",34,1,0,0,0,"1661 Park Ridge Dr.",NA,"Chaska","MN","55318","Carver",52
+"830758","Blue Earth Head Start",34,1,0,0,0,"301 North Main St.",NA,"Blue Earth","MN","56013","Faribault",35
+"1061168","City of Lakes Waldorf School",34,0.853,0,0.147,0,"2344 NICOLLET AVE",NA,"Minneapolis","MN","55404-3372","Hennepin",28
+"1016319","Clay-Wilkin Head Start",34,1,0,0,0,"112 1st Ave SE",NA,"Dilworth","MN","56529","Clay",22
+"1066864","Dreams 2 Reality Childcare LLC",34,1,0,0,0,"21984 State Hwy 15",NA,"Saint Augusta","MN","56301","Stearns",67
+"801014","Heavenly Sunshine Preschool",34,1,0,0,0,"109 2nd Ave N",NA,"Isanti","MN","55040","Isanti",30
+"800440","KinderCare Learning Center",34,1,0,0,0,"3420 Lexington Ave N",NA,"Shoreview","MN","55126","Ramsey",96
+"800461","KinderCare Learning Center",34,0.971,0.029,0,0,"402 NW 14th St",NA,"Rochester","MN","55901","Olmsted",98
+"1087487","Lakes and Praries Head Start Belsly",34,0.912,0.029,0.059,0,"861 Belsley Blvd",NA,"Moorhead","MN","56560","Clay",34
+"801349","Lakeside Presbyterian Nursery School",34,0.941,0,0.059,0,"4430 McCulloch St",NA,"Duluth","MN","55804","St. Louis",40
+"1028052","Leaps and Bounds Family Child Care Center",34,0.971,0.029,0,0,"3438  151st St W",NA,"Rosemount","MN","55068","Dakota",69
+"1029957","Learn and Grow Child Care Center South, Inc.",34,0.941,0.059,0,0,"1201 89th Ave NE, Suite 120",NA,"Blaine","MN","55434","Anoka",61
+"1065166","Little Saints Preschool",34,0.971,0,0.029,0,"428 Irving Ave",NA,"Elk River","MN","55330","Sherburne",20
+"1005122","Living Christ Early Learning Center",34,0.971,0,0.029,0,"820 Lake Dr",NA,"Chanhassen","MN","55317","Carver",96
+"1056589","Mis Amigos Spanish Immersion Preschool",34,1,0,0,0,"1194 Randolph Ave",NA,"Saint Paul","MN","55105","Ramsey",85
+"1051616","Miss Marie's Learning Center",34,1,0,0,0,"14510 Pennock Ave",NA,"Apple Valley","MN","55124","Dakota",60
+"810434","Observation Hill Children's Center",34,1,0,0,0,"826 W 3rd St",NA,"Duluth","MN","55806","St. Louis",70
+"802060","Redeemer Lutheran Preschool",34,0.971,0,0.029,0,"1664 Kraemer Dr",NA,"Winona","MN","55987","Winona",20
+"1008381","Room for Growing Childcare Learning Center",34,0.971,0.029,0,0,"38862 14th Ave",NA,"North Branch","MN","55056","Chisago",80
+"804965","South Shore Trinity Lutheran Church Preschool",34,0.882,0.029,0.088,0,"2480 S Shore Blvd",NA,"White Bear Lake","MN","55110","Ramsey",20
+"802346","St Josephs Preschool",34,0.912,0,0.059,0.029,"315 SW 21st St",NA,"Grand Rapids","MN","55744","Itasca",20
+"802372","St. Michael's Lutheran Preschool",34,1,0,0,0,"9201 Normandale Blvd",NA,"Bloomington","MN","55437","Hennepin",20
+"1005127","St. Thomas Becket Preschool",34,0.971,0,0.029,0,"4455 S. Robert Trail",NA,"Eagan","MN","55123","Dakota",37
+"1001384","Sunrise International Montessori Learning Center and Child Care",34,0.912,0,0.088,0,"2521 Horizon Dr",NA,"Burnsville","MN","55337","Dakota",49
+"808006","University of Northwestern Child Development Center",34,0.971,0,0.029,0,"2945 Lincoln Dr",NA,"Roseville","MN","55113","Ramsey",42
+"800314","Caring for Children",35,1,0,0,0,"5835 Lyndale Ave S",NA,"Minneapolis","MN","55419","Hennepin",80
+"800384","Children of Peace Lutheran Preschool Day Care",35,0.971,0,0.029,0,"4512 France Ave N",NA,"Robbinsdale","MN","55422","Hennepin",64
+"1053442","Creative Kids Academy Inc",35,1,0,0,0,"9100 Lake Dr",NA,"Lexington","MN","55014","Anoka",99
+"1056456","Creative Kids Academy Inc",35,1,0,0,0,"15200 Wayzata Blvd",NA,"Minnetonka","MN","55391","Hennepin",96
+"1063231","Crossroad Preschool",35,0.857,0,0.143,0,"704 11th Ave S",NA,"Minneapolis","MN","55415","Hennepin",30
+"810531","Day By Day Child Development Center Inc",35,0.914,0,0.086,0,"1565 Cliff Rd Ste 9",NA,"Eagan","MN","55122","Dakota",61
+"1024748","Faithful Beginnings at Saint John Preschool",35,1,0,0,0,"2621 McMenemy St",NA,"Little Canada","MN","55117-0000","Ramsey",26
+"1066116","Faithful Beginnings at St Alphonsus Catholic School",35,1,0,0,0,"7031 Halifax Ave",NA,"Brooklyn Center","MN","55429","Hennepin",54
+"1079486","Hand in Hand Christian Montessori Bethany Childrens House",35,0.914,0,0.086,0,"6820 Auto Club Rd","c/o Bethany Global University","Bloomington","MN","55438","Hennepin",56
+"801136","International Falls Head Start",35,1,0,0,0,"2232 2nd Ave E",NA,"So Int'l Falls","MN","56679","Koochiching",40
+"801289","KinderCare Learning Center",35,0.971,0,0,0.029,"17701 Excelsior Blvd",NA,"Minnetonka","MN","55345","Hennepin",100
+"1076780","Lil Bees Learning Center",35,0.971,0.029,0,0,"1821 Bassett Dr Ste 103",NA,"Mankato","MN","56001","Blue Earth",72
+"1042210","Little Huskies Day Center & Preschool & Paws' School Age Program, Inc.",35,0.971,0,0.029,0,"111 Torgerson Lane",NA,"Jackson","MN","56143","Jackson",95
+"1059536","Multicultural Therapeutic Children's Programs",35,0.971,0.029,0,0,"1501 Xerxes Ave N",NA,"Minneapolis","MN","55411","Hennepin",99
+"1083298","New Horizon Academy",35,0.971,0.029,0,0,"2431 Hennepin Ave S",NA,"Minneapolis","MN","55408","Hennepin",156
+"1065533","Peter Pan Preschool & Childcare",35,0.943,0.057,0,0,"2195 Rolling Green",NA,"North Mankato","MN","56003","Nicollet",60
+"1037139","Quad City Kids Daycare, Inc.",35,1,0,0,0,"816 16th Ave S",NA,"Virginia","MN","55792","St. Louis",99
+"1036645","Robin's Nest-Daycare",35,1,0,0,0,"655 Pleasant Dr",NA,"Hastings","MN","55033","Dakota",71
+"1066817","Sam & Abes Childcare Learning & Development Center",35,1,0,0,0,"160 St Andrews Ct Ste 200",NA,"Mankato","MN","56001","Blue Earth",65
+"801858","Semcac Head Start Owatonna",35,1,0,0,0,"1820 Hartle Ave",NA,"Owatonna","MN","55060","Steele",26
+"1065534","Small World Learning Center",35,1,0,0,0,"1621 McGlynn Dr",NA,"Chanhassen","MN","55317","Carver",126
+"1064648","Sunflower Montessori & Daycare",35,1,0,0,0,"7561 142nd St",NA,"Apple Valley","MN","55124","Dakota",105
+"1005120","Sunshine Tree Child Development",35,0.971,0.029,0,0,"621 E 38th St",NA,"Minneapolis","MN","55407","Hennepin",36
+"1057458","Trinity Lutheran Church & School",35,0.857,0.114,0.029,0,"3812 229th Ave NW",NA,"Saint Francis","MN","55070","Anoka",72
+"1042765","Yellow Brick Road Early Childhood Development Center",35,0.886,0.114,0,0,"3200 Harbor Lane N",NA,"Plymouth","MN","55447","Hennepin",148
+"1081604","Yellow Brick Road Early Childhood Development Center",35,0.886,0.114,0,0,"10401 Bren Rd E",NA,"Minnetonka","MN","55343","Hennepin",135
+"831149","Augustana Preschool",36,1,0,0,0,"1400 S Robert St",NA,"West St Paul","MN","55118","Dakota",42
+"800547","Congregational Preschool",36,1,0,0,0,"1910 3rd Ave NW",NA,"Austin","MN","55912","Mower",40
+"1080645","Diamond Daycare Inc",36,0.833,0.167,0,0,"460 Lexington Pkwy N",NA,"Saint Paul","MN","55104","Ramsey",97
+"800911","Good Shepherd Childcare Center",36,1,0,0,0,"800 Home St","PO Box 747","Rushford","MN","55971","Fillmore",72
+"800955","Hallie Q Brown Early Learning Center",36,1,0,0,0,"270 N Kent St",NA,"Saint Paul","MN","55102","Ramsey",72
+"800453","KinderCare Learning Center",36,0.944,0.056,0,0,"6020 Earle Brown Dr",NA,"Brooklyn Center","MN","55430","Hennepin",111
+"800456","KinderCare Learning Center",36,1,0,0,0,"1101 Town Centre Dr",NA,"Eagan","MN","55123","Dakota",100
+"800457","KinderCare Learning Center",36,0.944,0.056,0,0,"5310 Monroe St NE",NA,"Fridley","MN","55421","Anoka",100
+"800462","KinderCare Learning Center",36,1,0,0,0,"2186 Fairview Ave N",NA,"Roseville","MN","55113","Ramsey",82
+"1077140","Listos Preschool & Childcare",36,0.944,0,0.056,0,"1503 Second Ave NE",NA,"Rochester","MN","55906","Olmsted",57
+"1059365","Little Eagles Preschool Crucifixion School",36,0.917,0,0.083,0,"420 South Second St",NA,"La Crescent","MN","55947","Houston",54
+"1085588","Mothers Love Childcare Inc",36,0.917,0.083,0,0,"1520 24th Ave N",NA,"Saint Cloud","MN","56303","Stearns",113
+"1036760","Mount Olive Lutheran Church",36,0.917,0,0.083,0,"12700 Marystown Rd",NA,"Shakopee","MN","55379","Scott",20
+"801665","New Horizon Academy",36,0.889,0.111,0,0,"11441 Hanson Blvd",NA,"Coon Rapids","MN","55433","Anoka",174
+"1002184","New Horizon Academy",36,1,0,0,0,"4079 Central Ave",NA,"Columbia Heights","MN","55421","Anoka",164
+"1082346","New Horizon Academy",36,1,0,0,0,"105 W Lake St",NA,"Minneapolis","MN","55408","Hennepin",168
+"1040952","Nicollet Early Education Center",36,1,0,0,0,"1 Pine St",NA,"Nicollet","MN","56074","Nicollet",67
+"801833","Our Redeemer Lutheran Preschool",36,0.972,0,0.028,0,"515 Skyline Blvd",NA,"Cloquet","MN","55720","Carlton",20
+"1017050","Prince of Peace Lutheran Preschool-Trinity Campus",36,0.972,0,0.028,0,"2163 Mayhew Lake Rd. NE",NA,"Sauk Rapids","MN","56379","Benton",60
+"1011389","Providence Academy",36,0.972,0,0.028,0,"15100 Schmidt Lk Rd",NA,"Plymouth","MN","55446","Hennepin",49
+"802024","Ramalynn Montessori Academy",36,0.972,0,0.028,0,"8800 Queen Ave S",NA,"Bloomington","MN","55431","Hennepin",70
+"1033567","Salem Lutheran Church and Preschool",36,0.972,0.028,0,0,"7825 Bailey Rd",NA,"Woodbury","MN","55129","Washington",40
+"1086484","TCCAP Head Start",36,0.972,0,0.028,0,"13091 Merideth Dr",NA,"Baxter","MN","56425","Crow Wing",40
+"1060627","Tri-Valley Sleepy Eye Head Start Center",36,0.972,0.028,0,0,"500 4th Ave SW",NA,"Sleepy Eye","MN","56085","Brown",64
+"807340","All 'bout Children Daycare",37,0.865,0.135,0,0,"300 1st Ave NW",NA,"Plainview","MN","55964","Wabasha",63
+"1046978","All Saints Academy Child Care",37,1,0,0,0,"605 4th St",NA,"Madison Lake","MN","56063","Blue Earth",91
+"1060875","Como Park Language & Arts Preschool & Childcare Center",37,1,0,0,0,"1503 Hamline Ave N",NA,"Saint Paul","MN","55108","Ramsey",40
+"1080915","Early Years Academy Inc",37,0.676,0.297,0.027,0,"807 Main St N Ste B",NA,"Cambridge","MN","55008","Isanti",73
+"1064674","Here We Grow Early Childhood Center LLC",37,1,0,0,0,"23382 3rd Ave",NA,"Mankato","MN","56001","Blue Earth",54
+"1054888","Li'l Thunder Learning Center ISD#94 Com Ed",37,1,0,0,0,"2101 14th St",NA,"Cloquet","MN","55720","Carlton",34
+"1066516","Mesabi Preschool Academy LLC",37,0.973,0.027,0,0,"2 6th Ave",NA,"Proctor","MN","55810","St. Louis",57
+"1001317","Minnesota Valley Free Lutheran Church",37,0.919,0,0.081,0,"Attn:  Debra Karban","16075 Hawthorn Path","Lakeville","MN","55044","Dakota",29
+"801576","Montevideo Head Start",37,1,0,0,0,"412 13th St S Rm 194 & 197",NA,"Montevideo","MN","56265","Chippewa",40
+"1031095","Neighborhood Children's House",37,0.946,0,0.054,0,"2510 Cleveland St NE",NA,"Minneapolis","MN","55418","Hennepin",20
+"1000491","Next Best Thing to Mom",37,0.892,0.054,0.054,0,"390 Opportunity Blvd N",NA,"Cambridge","MN","55008","Isanti",93
+"801713","Noah's Ark Child Development Center",37,1,0,0,0,"1021 Hennepin Ave",NA,"Minneapolis","MN","55403","Hennepin",82
+"1040167","Project Secure/Fraser Early Childhood Family Development Center",37,1,0,0,0,"700 Humboldt Ave N",NA,"Minneapolis","MN","55411","Hennepin",52
+"1074442","Southwestern Minnesota Opportunity Council",37,0.973,0.027,0,0,"713 10th St",NA,"Worthington","MN","56187","Nobles",29
+"802299","St Katharine Drexel School",37,0.946,0,0.054,0,"428 2nd St SE",NA,"Saint Cloud","MN","56304","Benton",40
+"830574","Trinity Lutheran Preschool",37,1,0,0,0,"1150 W Cavour",NA,"Fergus Falls","MN","56537-1051","Otter Tail",40
+"800081","Anew Dimension Child Enrichment Center",38,0.974,0.026,0,0,"1819 Minnehaha Ave S",NA,"Minneapolis","MN","55404","Hennepin",89
+"1008457","Atrebla Early Learning Center",38,1,0,0,0,"2101 E 35th St",NA,"Minneapolis","MN","55407-2444","Hennepin",57
+"1064449","Central Childcare Center LLC",38,0.921,0.079,0,0,"1717 Central Ave NE",NA,"Minneapolis","MN","55413","Hennepin",63
+"803870","Challenger Head Start",38,0.947,0,0.053,0,"1101 Highway 1 East",NA,"Thief River Falls","MN","56701","Pennington",45
+"802360","Family Child Development Center",38,0.974,0.026,0,0,"100 Nathan Lane N",NA,"Plymouth","MN","55441","Hennepin",91
+"1074733","Gods Little Treasures Childcare",38,0.947,0.053,0,0,"6865 Shingle Creek Pkwy",NA,"Brooklyn Center","MN","55430","Hennepin",66
+"1074733","Gods Little Treasures Childcare",38,0.947,0.053,0,0,"6865 Shingle Creek Pkwy",NA,"Brooklyn Center","MN","55430","Hennepin",66
+"830382","Hutchinson Head Start",38,1,0,0,0,"20288 Hwy 15 N Ste 300",NA,"Hutchinson","MN","55350","McLeod",40
+"1051590","Kickstart Preschool",38,0.921,0,0,0.079,"1073 Hwy 61",NA,"Two Harbors","MN","55616","Lake",62
+"801273","KinderCare Learning Center",38,1,0,0,0,"8453 E Point Douglas Rd",NA,"Cottage Grove","MN","55016","Washington",119
+"1034581","Kinderstube German Immersion Preschool c/o Mayflower Church",38,0.974,0,0.026,0,"106 E Diamond Lake Rd",NA,"Minneapolis","MN","55419-1988","Hennepin",38
+"801297","King of Grace Preschool",38,0.974,0,0.026,0,"6000 Duluth St",NA,"Golden Valley","MN","55422-3927","Hennepin",36
+"1060669","Leap of Faith Preschool LLC",38,0.921,0,0.079,0,"38460 Lincoln Trail",NA,"North Branch","MN","55056","Chisago",20
+"1055790","Mandala Montessori Inc",38,1,0,0,0,"3225 E Minnehaha Parkway",NA,"Minneapolis","MN","55417","Hennepin",38
+"1048345","Montessori School of St Cloud",38,1,0,0,0,"2410 1st St N",NA,"Saint Cloud","MN","56303","Stearns",74
+"803878","New Horizon Academy",38,0.974,0.026,0,0,"4115 Berkshire Ln N",NA,"Plymouth","MN","55446","Hennepin",116
+"801712","Noah's Ark Child Development Center",38,1,0,0,0,"1410 Main St",NA,"Hopkins","MN","55343","Hennepin",66
+"1065274","Peace in Christ Christian Preschool",38,1,0,0,0,"5007 Maple Grove Rd",NA,"Hermantown","MN","55811","St. Louis",20
+"1033718","Sacred Heart Parish/School",38,0.974,0,0.026,0,"4050 Hubbard Ave N",NA,"Robbinsdale","MN","55422","Hennepin",36
+"1026207","Small World Learning Center/Jain Enterprises Inc",38,0.947,0,0.053,0,"10210 Lancaster Lane",NA,"Maple Grove","MN","55369","Hennepin",104
+"1077621","St Pascal Baylon Preschool & Junior Kindergarten Program",38,1,0,0,0,"1757 Conway St",NA,"Saint Paul","MN","55106","Ramsey",76
+"803897","Trinity First Lutheran Child Life Center",38,0.947,0,0.053,0,"1115 E 19th St",NA,"Minneapolis","MN","55404","Hennepin",40
+"830784","University of St. Thomas Child Development Center",38,1,0,0,0,"35 S Finn St","Mail #CDC","Saint Paul","MN","55105","Ramsey",68
+"1052797","AB Bohlman Inc dba Little Red Wagon",39,0.692,0.308,0,0,"901 S Main St",NA,"Cambridge","MN","55008","Isanti",81
+"1009811","Convent of the Visitation School-Montessori",39,1,0,0,0,"2455 Visitation Dr",NA,"Mendota Heights","MN","55120","Dakota",40
+"1023991","Freshwater Learning Center",39,0.949,0.051,0,0,"4319 Steiner St",NA,"St Bonifacius","MN","55375","Hennepin",110
+"1081001","Harmony Kids Learning Center",39,0.872,0.128,0,0,"720 Main Ave N",NA,"Harmony","MN","55939","Fillmore",99
+"1066401","Heritage Lutheran Church",39,0.974,0,0.026,0,"13401 Johnny Cake Ridge Rd",NA,"Apple Valley","MN","55124","Dakota",40
+"1037693","Invest Early Project-Taconite",39,1,0,0,0,"26 Haynes St",NA,"Taconite","MN","55786","Itasca",62
+"1053426","Kidz Junction Inc",39,1,0,0,0,"267 4th Ave NW",NA,"Hutchinson","MN","55350","McLeod",61
+"801250","KinderCare Learning Center",39,0.974,0.026,0,0,"10801 Rhode Island Ave S",NA,"Bloomington","MN","55438","Hennepin",106
+"1040488","Life In Christ Lutheran Preschool",39,0.897,0,0.103,0,"5015 Main Ave NE",NA,"Albertville","MN","55301","Wright",20
+"1063129","Lighthouse Explorers Christian Child Center",39,0.564,0.436,0,0,"3285 144th St W",NA,"Rosemount","MN","55068","Dakota",70
+"800662","Lincoln Community Center Mankato ABE",39,0.923,0.077,0,0,"110 Fulton Street",NA,"Mankato","MN","56001","Blue Earth",54
+"801666","New Horizon Academy",39,0.923,0.077,0,0,"13000 Pennock Ave",NA,"Apple Valley","MN","55124","Dakota",98
+"1066084","Smart Start Childcare & Learning Center",39,1,0,0,0,"14480 60th St N",NA,"Stillwater","MN","55082","Washington",141
+"1058660","St John Early Childhood Learning Center",39,0.923,0,0.077,0,"34719 County Highway 24",NA,"Redwood Falls","MN","56283","Redwood",60
+"1059112","University Nursery School College St",39,1,0,0,0,"835 W College St",NA,"Duluth","MN","55811","St. Louis",65
+"1012862","University Nursery-Copper Top",39,1,0,0,0,"230 E Skyline Pkwy",NA,"Duluth","MN","55811-0000","St. Louis",91
+"808374","Visitation Child Care Center",39,1,0,0,0,"2455 Visitation Dr",NA,"Mendota Heights","MN","55120-1696","Dakota",90
+"1051704","World Around Us Child Development Center",39,0.897,0.103,0,0,"5065 Stewart Ave",NA,"White Bear Lake","MN","55110","Ramsey",96
+"1006326","YWCA Minneapolis Childrens Center",39,0.974,0.026,0,0,"2121 E Lake St",NA,"Minneapolis","MN","55407","Hennepin",108
+"830260","All God's Children Learning Center",40,0.975,0.025,0,0,"4735 Bassett Creek Dr",NA,"Golden Valley","MN","55422","Hennepin",72
+"1063267","Alphabet Junction Childcare Center 4 Inc",40,0.95,0.05,0,0,"1335 10th Ave",NA,"Shakopee","MN","55379","Scott",91
+"1074961","Building Blocks Learning Center",40,0.975,0.025,0,0,"4402 Haines Rd Ste 1",NA,"Duluth","MN","55811","St. Louis",65
+"1060544","Cathedral Hill Montessori",40,1,0,0,0,"329 Dayton Avenue",NA,"Saint Paul","MN","55102","Ramsey",59
+"800495","Claire Ann Shover Nursery School",40,0.975,0.025,0,0,"522 W Spruce St",NA,"Fergus Falls","MN","56537","Otter Tail",15
+"1034020","Community Alliance Preschool",40,1,0,0,0,"408 W Elm St",NA,"Detroit Lakes","MN","56501","Becker",36
+"800552","Coon Rapids Day Care Center",40,0.95,0.025,0.025,0,"10506 Hanson Blvd NW",NA,"Coon Rapids","MN","55433","Anoka",99
+"800781","Families Together",40,1,0,0,0,"709 University Ave W",NA,"Saint Paul","MN","55104","Ramsey",24
+"1048782","Family Unity Daycare",40,1,0,0,0,"1495 10th Ave NE",NA,"Sauk Rapids","MN","56379","Benton",98
+"1014210","Hope Christian Preschool",40,0.95,0,0.05,0,"16898 Michael Ave",NA,"Hastings","MN","55033","Dakota",33
+"1081950","Jardin Summit Hill",40,1,0,0,0,"130 Victoria St N",NA,"Saint Paul","MN","55104","Ramsey",136
+"1025544","Love to Grow On",40,0.975,0.025,0,0,"9012 Griggs Ave",NA,"Lexington","MN","55014","Anoka",94
+"1048334","Montessori School of Brainerd",40,1,0,0,0,"315 6th St N",NA,"Brainerd","MN","56401","Crow Wing",48
+"1082133","Nokomis Daycare Center Inc",40,1,0,0,0,"4010 Bloomington Ave",NA,"Minneapolis","MN","55407","Hennepin",71
+"1066391","Playhouse Child Care Center",40,1,0,0,0,"2901 Clearwater Rd",NA,"Saint Cloud","MN","56301","Stearns",96
+"802287","Preschools of St Andrew's Half Day (The)",40,0.925,0,0.075,0,"900 Stillwater Rd",NA,"Mahtomedi","MN","55115","Washington",40
+"802233","Shoreline Early Childhood Development Center",40,0.975,0,0.025,0,"3745 Shoreline Dr",NA,"Wayzata","MN","55391","Hennepin",81
+"802368","St Matthew Community Preschool",40,1,0,0,0,"555 E 12th St",NA,"Saint Charles","MN","55972","Winona",20
+"802388","St. Peter Head Start 1 and 2",40,1,0,0,0,"600 S 5th St",NA,"Saint Peter","MN","56082","Nicollet",20
+"1054346","Stay N Play Child Care Inc dba Stay N Play Child Care Minn West",40,0.925,0.075,0,0,"1707 TECHNOLOGY DR NE",NA,"Willmar","MN","56201-3387","Kandiyohi",92
+"805063","Warm World Child Development Center",40,0.975,0,0.025,0,"13575 58th St N",NA,"Oak Park Heights","MN","55082","Washington",74
+"830966","WCCA Head Start Buffalo",40,0.925,0,0.075,0,"1405 3rd Ave NE",NA,"Buffalo","MN","55313","Wright",40
+"830852","Bernie's Montessori School Inc",41,0.976,0.024,0,0,"1100 E 66th St",NA,"Richfield","MN","55423","Hennepin",76
+"1048336","Dei Spring Academy and Child Care",41,1,0,0,0,"418 5th Ave S",NA,"Cold Spring","MN","56320","Stearns",72
+"1030989","Epiphany School Readiness Preschool Program",41,0.878,0.049,0.073,0,"11001 Hanson Blvd",NA,"Coon Rapids","MN","55433","Anoka",40
+"804243","Highland Park Montessori School",41,0.854,0,0.146,0,"1550 Summit Ave",NA,"Saint Paul","MN","55105","Ramsey",54
+"830775","Kids Corner Child Care Center",41,0.976,0,0.024,0,"600 S 5th St Box 106A",NA,"Saint Peter","MN","56082","Nicollet",157
+"1053543","King of Kings Lutheran Church and School",41,0.927,0,0.073,0,"2330 North Dale Street",NA,"Roseville","MN","55113","Ramsey",39
+"1077239","Lake Area Discovery Center @ Calvin Christian School",41,0.951,0,0.024,0.024,"4015 Inglewood Ave S",NA,"Edina","MN","55416","Hennepin",40
+"1075699","Lake Area Discovery Center at Annunciation",41,0.976,0,0,0.024,"509 W 54th St",NA,"Minneapolis","MN","55419","Hennepin",40
+"802266","Little Giants",41,0.951,0,0.049,0,"425 S Grove",NA,"Blue Earth","MN","56013","Faribault",73
+"1077705","Little Hearts Preschool & Childcare",41,1,0,0,0,"410 N Arlington Ave",NA,"Duluth","MN","55811","St. Louis",67
+"831060","Love to Grow On",41,0.951,0.024,0.024,0,"10101 Lexington Ave N",NA,"Circle Pines","MN","55014","Anoka",103
+"801671","New Horizon Academy",41,1,0,0,0,"1885 E 134th St",NA,"Burnsville","MN","55337","Dakota",98
+"801677","New Horizon Academy",41,1,0,0,0,"2204 Lower Afton Rd",NA,"Saint Paul","MN","55119","Ramsey",110
+"1063111","New Horizon Academy",41,1,0,0,0,"5903 Neal Ave N",NA,"Stillwater","MN","55082","Washington",130
+"801756","Northfield Nursery School",41,0.951,0,0.049,0,"1401 S Maple St",NA,"Northfield","MN","55057","Rice",30
+"1066231","Parents Choice For Kids",41,1,0,0,0,"3150 West Park Dr",NA,"Burnsville","MN","55306","Dakota",99
+"800518","St Catherine University Early Childhood Center",41,0.976,0,0.024,0,"2004 Randolph Ave",NA,"Saint Paul","MN","55105","Ramsey",40
+"802332","St James Lutheran Early Education Center",41,1,0,0,0,"3650 Williams Dr",NA,"Burnsville","MN","55334","Dakota",56
+"1086068","St. Joseph Preschool-Faithful Beginnings",41,0.976,0,0.024,0,"13900 Biscayne Ave W",NA,"Rosemount","MN","55068","Dakota",40
+"1048343","St. Wenceslaus Little Spirits Preschool",41,0.951,0,0.049,0,"227 E Main Street",NA,"New Prague","MN","56071","Scott",40
+"1055311","Trinity Daycare and Preschool LLC",41,1,0,0,0,"1027 Sherman Ave",NA,"North Mankato","MN","56003","Nicollet",80
+"1081391","Tri-Valley Owatonna Head Start Center",41,1,0,0,0,"14020 Northdale Blvd",NA,"Rogers","MN","55374","Hennepin",72
+"802784","Zion Lutheran Preshool",41,0.902,0,0.098,0,"300 Lake St",NA,"Alexandria","MN","56308","Douglas",64
+"1086686","All Saints Academy- St. Joseph's Campus",42,0.929,0.071,0,0,"32 W Minnesota St",NA,"Saint Joseph","MN","56374","Stearns",30
+"1033610","Ark of Angels Montessori Preschool",42,0.929,0,0.071,0,"213 Willard St East",NA,"Stillwater","MN","55082","Washington",30
+"1009422","Ascension Lutheran Preschool",42,0.905,0.048,0.048,0,"15870 46th Ave N",NA,"Plymouth","MN","55446","Hennepin",40
+"1053996","Bubbling Brook Child Care",42,0.976,0.024,0,0,"6221 Rice Lake Road",NA,"Duluth","MN","55803","St. Louis",78
+"1062681","Creative Kids Academy Inc",42,0.952,0.048,0,0,"2180 North Shore Dr",NA,"Orono","MN","55391","Hennepin",101
+"1001318","Crocus Hill School",42,1,0,0,0,"60 N Kent St",NA,"Saint Paul","MN","55102","Ramsey",55
+"800918","Grand Rapids Head Start Itasca Resource Center",42,0.952,0.048,0,0,"1213 SE 2nd Ave",NA,"Grand Rapids","MN","55744","Itasca",48
+"801229","Kids Come 1st",42,0.952,0.048,0,0,"3615 15th Ave NW",NA,"Rochester","MN","55901","Olmsted",169
+"800468","KinderCare Learning Center",42,1,0,0,0,"1541 Humboldt Ave",NA,"West St Paul","MN","55118","Dakota",90
+"1076984","Laker Prep Early Childhood Center",42,0.952,0.048,0,0,"551 11TH AVE",NA,"Detroit Lakes","MN","56501-3720","Becker",83
+"1086834","Lit'l Sprouts Childcare Center of St Francis",42,0.952,0.048,0,0,"23256 St Francis Blvd NW",NA,"Saint Francis","MN","55070","Anoka",92
+"801680","New Horizon Academy",42,1,0,0,0,"15300 Minnetonka Blvd",NA,"Minnetonka","MN","55343","Hennepin",89
+"1006214","Open Arms Lutheran Child Development Center",42,1,0,0,0,"616 Ruth St",NA,"Saint Paul","MN","55119","Ramsey",130
+"802327","Saint Francis of Assisi Preschool",42,1,0,0,0,"318 11th Ave SE",NA,"Rochester","MN","55904","Olmsted",20
+"1025092","Wee Care Preschool of Marshall, Inc.",42,0.952,0,0.048,0,"501 S Whitney",NA,"Marshall","MN","56258","Lyon",36
+"1051591","Abiding Branches Cooperative Preschool",43,0.977,0,0.023,0,"865 Birch St",NA,"Lino Lakes","MN","55014","Anoka",20
+"1000938","Agape Christian Preschool",43,0.93,0,0.07,0,"311 Lake St S",NA,"Big Lake","MN","55309","Sherburne",20
+"1005558","Bloom Early Learning",43,1,0,0,0,"17805 County Rd #6",NA,"Plymouth","MN","55447","Hennepin",72
+"1038429","Child Development Center at Blue Cross and Blue Shield of MN",43,0.953,0.047,0,0,"3545 Blue Cross Rd",NA,"Eagan","MN","55122","Dakota",128
+"1029614","Country School House Daycare Center, Inc.",43,1,0,0,0,"21919 Typo Creek Dr NE",NA,"Linwood","MN","55092","Anoka",49
+"800650","Discoveries For Children",43,0.977,0,0.023,0,"3801 Wooddale Ave S",NA,"St Louis Park","MN","55416","Hennepin",61
+"831012","Intergenerational Learning Center",43,0.953,0.023,0.023,0,"3386 Pilot Knob Rd",NA,"Eagan","MN","55121","Dakota",94
+"830535","Little Acorns Childcare",43,0.977,0,0,0.023,"2060 W Wayzata Blvd",NA,"Orono","MN","55356","Hennepin",98
+"1019500","Little Lambs Preschool St John Lutheran Church",43,0.907,0,0.093,0,"803 N Cedar St",NA,"Luverne","MN","56156","Rock",20
+"1017249","Little Red Wagon Child Care Center",43,0.767,0.233,0,0,"10964 Baltimore St",NA,"Blaine","MN","55449","Anoka",82
+"801425","Little Voyageurs Montessori School Inc",43,0.953,0,0.047,0,"825 51st Ave NE",NA,"Columbia Heights","MN","55421","Anoka",50
+"1052276","Shiloh Temple International Ministries",43,0.977,0.023,0,0,"1201 W Broadway",NA,"Minneapolis","MN","55411","Hennepin",123
+"1062906","Sleepy Tigers Chinese Immersion Learning Center",43,0.953,0.023,0.023,0,"16023 Minnetonka Blvd",NA,"Minnetonka","MN","55345","Hennepin",56
+"802298","St Anthony Park Community Nursery School",43,1,0,0,0,"2200 Hillside Ave",NA,"Saint Paul","MN","55108","Ramsey",30
+"1064797","Stepping Stones Childcare Learning Center Inc",43,0.884,0,0.116,0,"7140 Fairview Rd",NA,"Baxter","MN","56425","Crow Wing",76
+"802548","Trinity Lutheran Preschool & Waconia Christian Child Care",43,0.953,0,0.047,0,"601 E 2nd",NA,"Waconia","MN","55387","Carver",72
+"1037462","Wooddale Community Nursery School",43,0.977,0.023,0,0,"4003 Wooddale Ave S",NA,"St Louis Park","MN","55416","Hennepin",36
+"1049848","Allstar Childcare Center",44,0.932,0.023,0.045,0,"980 10th St Ne",NA,"Milaca","MN","56353","Mille Lacs",129
+"1066782","Annies Childcare & Learning Center",44,0.977,0.023,0,0,"501 W College Dr",NA,"Brainerd","MN","56401","Crow Wing",67
+"1065075","Bright Stars Learning Center Inc",44,0.955,0,0.045,0,"7836 2nd Ave S",NA,"Bloomington","MN","55420","Hennepin",118
+"1057828","Club House Childcare and Preschool (The)",44,1,0,0,0,"16105 Cedar Ave S",NA,"Lakeville","MN","55044","Dakota",84
+"1055189","Creative Kids Academy Inc",44,0.955,0.045,0,0,"12455 62nd Place N",NA,"Maple Grove","MN","55369","Hennepin",109
+"800976","Happy Time Day Care Center",44,1,0,0,0,"203 N 25th Ave W",NA,"Duluth","MN","55806","St. Louis",85
+"1059814","I Care Child Center",44,1,0,0,0,"3659 Cedar Ave S",NA,"Minneapolis","MN","55407","Hennepin",66
+"800446","KinderCare Learning Center",44,1,0,0,0,"1815 Green View Place SW",NA,"Rochester","MN","55902","Olmsted",112
+"801257","KinderCare Learning Center",44,1,0,0,0,"1000 Meadowlands Dr",NA,"White Bear Lake","MN","55127","Ramsey",131
+"809238","KinderCare Learning Center",44,0.909,0.091,0,0,"10790 University Ave NW",NA,"Coon Rapids","MN","55448","Anoka",88
+"1025224","KinderCare Learning Center",44,0.977,0.023,0,0,"2800 Corporate Place",NA,"Chanhassen","MN","55317","Carver",152
+"801369","Learning Ladder Preschool",44,0.909,0,0.091,0,"426 W Cavour Ave",NA,"Fergus Falls","MN","56537","Otter Tail",30
+"1074790","Many Rivers Montessori c/o Jefferson Square",44,0.886,0.023,0.091,0,"110 W REDWING ST",NA,"Duluth","MN","55803-1706","St. Louis",134
+"1058149","Mini Hops Academic Preschool",44,0.886,0,0.114,0,"2600 Campus Dr",NA,"Plymouth","MN","55441","Hennepin",30
+"1022965","Riverside Christian School Preschool",44,0.886,0,0,0.114,"610 2nd Ave NE",NA,"East Grand Forks","MN","56721","Polk",20
+"802042","Roosevelt A and B",44,0.955,0,0.045,0,"345 30th Ave N",NA,"Saint Cloud","MN","56303","Stearns",40
+"1021758","Sonshine Learning Center",44,0.909,0.068,0.023,0,"680 Hwy 62",NA,"Mendota Heights","MN","55118","Dakota",129
+"1066090","St Thomas More Preschool",44,1,0,0,0,"1065 Summit Ave",NA,"Saint Paul","MN","55105","Ramsey",105
+"1017825","Al Amal Preschool",45,0.867,0,0.133,0,"1401 Gardenia Ave NE Rooms 103 & 105",NA,"Fridley","MN","55432","Anoka",60
+"1074885","Apple Academy Learning Center LLC Wyoming",45,1,0,0,0,"26427 Forest Blvd",NA,"Wyoming","MN","55092","Chisago",98
+"800229","Breck School Preschool and Extended Care",45,0.978,0,0.022,0,"123 Ottawa Ave. North",NA,"Minneapolis","MN","55422","Hennepin",60
+"800289","Calvary Child Care Center",45,1,0,0,0,"7520 Golden Valley Rd.",NA,"Golden Valley","MN","55427","Hennepin",76
+"1059534","Christinas Child Care Center Inc",45,1,0,0,0,"5510 W Broadway Ave",NA,"Crystal","MN","55428","Hennepin",91
+"1065948","Club House Childcare & Preschool (The)",45,1,0,0,0,"19645 Pilot Knob Rd Ste 105",NA,"Farmington","MN","55024","Dakota",73
+"1069402","Cornerstone Early Learning Center",45,0.978,0,0.022,0,"4790 Rosemary Way N",NA,"Hugo","MN","55038","Washington",74
+"1060643","Eagles Nest Child Care Enrichment Center",45,0.911,0,0.089,0,"1300 19th Ave SW",NA,"Willmar","MN","56288","Kandiyohi",77
+"1064896","Educare Kids Montessori & Child Care LLC",45,0.8,0.178,0.022,0,"2525 Williams Dr",NA,"Burnsville","MN","55337","Dakota",74
+"800763","Eyota Kids Korner, Inc.",45,0.978,0,0.022,0,"511 Jefferson Ave SW",NA,"Eyota","MN","55934","Olmsted",77
+"801039","Hibbing Parent's Nursery School",45,0.978,0,0.022,0,"2810 Diane Lane Suite #2",NA,"Hibbing","MN","55746","St. Louis",49
+"1081593","New Horizon Academy",45,0.933,0.067,0,0,"2460 Highway 100 S",NA,"St Louis Park","MN","55416","Hennepin",160
+"1086199","Notre Dame Academy Discovery Center",45,1,0,0,0,"13505 Excelsior Blvd",NA,"Minnetonka","MN","55345","Hennepin",74
+"807903","Sacred Heart Children's House",45,0.933,0,0.067,0,"308 West Elm Avenue",NA,"Waseca","MN","56093","Waseca",44
+"1079027","Sonnet Montessori",45,0.978,0.022,0,0,"19955 Idealic Ave",NA,"Lakeville","MN","55044","Dakota",80
+"1058562","St Dominic Preschool",45,0.933,0,0.067,0,"216 Spring St N",NA,"Northfield","MN","55057","Rice",40
+"1065444","Tierra Encantada Inc",45,0.933,0.067,0,0,"4130 Blackhawk Rd #140",NA,"Eagan","MN","55122-0000","Dakota",108
+"802514","Time for Me Early Learning Center",45,1,0,0,0,"3825 Lake Elmo Ave N",NA,"Lake Elmo","MN","55042","Washington",88
+"802523","TLC Early Learning Center",45,0.911,0.067,0.022,0,"11000 France Ave S",NA,"Bloomington","MN","55431","Hennepin",75
+"1077975","Whittier Wildflowers Preschool",45,0.933,0,0.067,0,"2608 Blaisdell Ave",NA,"Minneapolis","MN","55408","Hennepin",44
+"809985","Bethlehem Lutheran Early Childhood Center",46,0.978,0,0.022,0,"4310 Cty Rd 137",NA,"Saint Cloud","MN","56301","Stearns",80
+"1005240","Children's Way Preschool",46,0.891,0,0,0.109,"3382 North Lexington Ave",NA,"Shoreview","MN","55126","Ramsey",20
+"804115","Cobber Kids",46,1,0,0,0,"1306 3rd St South",NA,"Moorhead","MN","56560","Clay",64
+"800543","Como Early Learning Center",46,0.978,0,0.022,0,"1024 27th Ave SE",NA,"Minneapolis","MN","55414","Hennepin",50
+"810856","Congdon Creek Preschool",46,1,0,0,0,"2310 E 4th St",NA,"Duluth","MN","55812","St. Louis",35
+"809553","Faithful Beginnings at St Peter Catholic School",46,0.957,0,0.043,0,"2620 N Margaret St",NA,"North St Paul","MN","55109","Ramsey",46
+"1039204","Grow With Us Childcare Center",46,0.913,0.065,0.022,0,"2005 2nd St",NA,"Princeton","MN","55371","Mille Lacs",99
+"1049970","Holy Spirit Pre School/Rochester Catholic Schools",46,0.978,0,0.022,0,"5455 50th Ave NW",NA,"Rochester","MN","55901","Olmsted",48
+"1078911","Lake Area Discovery Center @ St Barts Catholic School",46,0.935,0,0.043,0.022,"630 E Wayzata Blvd",NA,"Wayzata","MN","55391","Hennepin",54
+"1078201","Lil Newtons Nest",46,0.957,0.022,0.022,0,"111 Dean Ave N",NA,"Champlin","MN","55316","Hennepin",114
+"810865","Little Lakers Montessori Preschool and Child Care, Inc.",46,0.978,0,0.022,0,"4730 Dakota St",NA,"Prior Lake","MN","55372","Scott",49
+"804185","Maple Tree Monastery Chldcare Center (The)",46,0.935,0,0.065,0,"2625 Benet Rd",NA,"Maplewood","MN","55109","Ramsey",74
+"830764","Maranatha Christian Academy Preschool",46,0.826,0,0.174,0,"9201 75th Ave N",NA,"Brooklyn Park","MN","55428","Hennepin",80
+"1063307","New Horizon Academy",46,1,0,0,0,"One Scimed Place",NA,"Maple Grove","MN","55311","Hennepin",124
+"1061241","Southside Child Development Center LLC",46,1,0,0,0,"3400 Dupont Ave S",NA,"Minneapolis","MN","55408","Hennepin",60
+"803815","We Care Day Care, Inc.",46,0.978,0,0.022,0,"1200 4th Ave",NA,"Worthington","MN","56187-2445","Nobles",55
+"1005010","YMCA Child Care Center",46,0.957,0.022,0.022,0,"2200-23rd St  NE Suite 0070",NA,"Willmar","MN","56201","Kandiyohi",64
+"1005117","Appleseed Montessori School & Child Care Center, Inc.",47,1,0,0,0,"6601 Bloomington Ave S",NA,"Richfield","MN","55423","Hennepin",103
+"1053444","Creative Kids Academy Inc",47,1,0,0,0,"1980 Center St",NA,"Centerville","MN","55038","Anoka",88
+"1077804","First Daycare Center LLC",47,1,0,0,0,"1433 E Franklin Ave",NA,"Minneapolis","MN","55404","Hennepin",120
+"1011053","Good News Children's Center, Inc.",47,0.979,0.021,0,0,"2645 North Broadway",NA,"Rochester","MN","55906","Olmsted",72
+"801173","Jonathan Montessori House of Children Inc",47,0.83,0,0.17,0,"112090 Hundertmark Rd",NA,"Chaska","MN","55318","Carver",88
+"1044124","Kidz Place",47,1,0,0,0,"5448 140th St N",NA,"Hugo","MN","55038","Washington",128
+"1003549","KinderCare Learning Center",47,0.936,0.021,0.043,0,"1888 E 134th St",NA,"Burnsville","MN","55337","Dakota",175
+"1057572","Millennium Learning Center II Inc dba Small World Learning Center",47,1,0,0,0,"1390 Paul Parkway",NA,"Blaine","MN","55434","Anoka",160
+"1076213","Minnesota Child Care Center",47,0.957,0,0.043,0,"312 W Lake St Ste 2935",NA,"Minneapolis","MN","55408","Hennepin",102
+"801678","New Horizon Academy",47,1,0,0,0,"2251 Van Dyke St",NA,"Maplewood","MN","55109","Ramsey",136
+"801679","New Horizon Academy",47,0.979,0,0.021,0,"111 Marquette Ave",NA,"Minneapolis","MN","55401","Hennepin",141
+"1025085","One Block at a Time",47,1,0,0,0,"702 Chatfield St",NA,"Preston","MN","55965","Fillmore",80
+"1078846","Prestige Preschool Academy",47,0.936,0.064,0,0,"15831 Emperor Ave",NA,"Apple Valley","MN","55124","Dakota",168
+"802381","St Paul Preschool",47,0.979,0,0,0.021,"621 W Main",NA,"Pipestone","MN","56164","Pipestone",17
+"1065544","YWCA Minneapolis Childrens Center",47,1,0,0,0,"80 W 7th St",NA,"Saint Paul","MN","55102","Ramsey",140
+"1041366","Anna's Bananas Daycare & Preschool Inc",48,0.917,0.083,0,0,"12018 Co Rd 11",NA,"Burnsville","MN","55337","Dakota",111
+"1077930","Anna's Bananas Daycare & Preschool Inc",48,1,0,0,0,"6700 160th St W",NA,"Lakeville","MN","55068","Dakota",127
+"1053443","Creative Kids Academy Inc",48,1,0,0,0,"5394 Edgewood Dr",NA,"Mounds View","MN","55112","Ramsey",126
+"1017318","Discover Magical Moments Daycare Center",48,1,0,0,0,"5450 Royal Place NW","PO Box 7568","Rochester","MN","55901","Olmsted",115
+"1084378","Eastside C, D, E",48,0.979,0,0.021,0,"358 Hwy 10 S",NA,"Saint Cloud","MN","56304","Stearns",60
+"1081004","Hope Day Care LLC",48,0.792,0.104,0.104,0,"2828 Univeristy Ave SE","Suite 125","Minneapolis","MN","55414","Hennepin",111
+"1001900","Jeremiah Program Child Development Center (The)",48,1,0,0,0,"1510 Laurel Ave",NA,"Minneapolis","MN","55403","Hennepin",66
+"1055130","Kids Corner of Caledonia LLC",48,1,0,0,0,"519 Old Highway Dr",NA,"Caledonia","MN","55921","Houston",99
+"809456","Kids-R-It, Inc.",48,1,0,0,0,"1118 Johnson Ave",NA,"Worthington","MN","56187","Nobles",103
+"1010579","Kinderberry Hill Child Development Center",48,1,0,0,0,"50 S 6th St Ste 260",NA,"Minneapolis","MN","55402","Hennepin",110
+"830318","KinderCare Learning Center",48,1,0,0,0,"6435 Lake Road Terrace",NA,"Woodbury","MN","55125","Washington",154
+"1066578","King of Glory Christian Preschool",48,0.979,0,0.021,0,"10041 University Ave NE",NA,"Blaine","MN","55434","Anoka",40
+"1029801","Lake Area Discovery Center @ Our Savior's Lutheran Church",48,0.979,0,0.021,0,"1616 W Olive St",NA,"Stillwater","MN","55082","Washington",76
+"1084443","Lil Bees Learning Center",48,0.958,0.042,0,0,"1751 Bassett Dr",NA,"Mankato","MN","56001","Blue Earth",100
+"1038973","New Horizon Academy",48,0.979,0,0.021,0,"586 Carlton Street",NA,"Maplewood","MN","55119","Ramsey",168
+"801837","Our Savior's Christian Preschool",48,1,0,0,0,"14980 Diamond Path",NA,"Rosemount","MN","55068","Dakota",93
+"1076817","Pond Early Childhood Family Development Center",48,0.854,0,0.146,0,"9600 3rd Ave S",NA,"Bloomington","MN","55420","Hennepin",28
+"1077916","Prestige Preschool Academy",48,0.979,0.021,0,0,"4379 95th Ave N",NA,"Brooklyn Park","MN","55443","Hennepin",178
+"1076277","Quality Kid Care Center Inc",48,0.979,0.021,0,0,"3212 22nd St NW",NA,"Rochester","MN","55901","Olmsted",74
+"1000967","Rainbow School",48,1,0,0,0,"624 3rd Ave SW",NA,"Rochester","MN","55902","Olmsted",40
+"802223","Shepherd's Care",48,1,0,0,0,"11875 W Eagle Lk Dr",NA,"Maple Grove","MN","55369","Hennepin",95
+"830258","Teddy Bear Care of Isanti, Inc.",48,0.979,0,0.021,0,"302 Credit Union Dr","PO Box 516","Isanti","MN","55040","Isanti",92
+"800003","A Child's Delight Too, Inc.",49,0.959,0.02,0.02,0,"200 Western Ave Suite 2A",NA,"Faribault","MN","55021","Rice",94
+"1065928","Cedar Riverside Child Care Center LLC",49,0.98,0.02,0,0,"404 Cedar Ave S",NA,"Minneapolis","MN","55454","Hennepin",56
+"1078835","City Child Care Center LLC",49,1,0,0,0,"2628 Nicollet Ave S",NA,"Minneapolis","MN","55408","Hennepin",95
+"1078360","Cradle Club (The)",49,1,0,0,0,"13986 Maple Knoll Way",NA,"Maple Grove","MN","55369","Hennepin",187
+"800906","Golden Rule Child Care Center",49,0.918,0,0.082,0,"13655 Round Lake Blvd",NA,"Andover","MN","55304","Anoka",108
+"1074391","Great Start Montessori School Inc",49,0.98,0,0.02,0,"2000 Merrimac Ln",NA,"Plymouth","MN","55447","Hennepin",70
+"1063518","Lake Area Discovery Center @ Faith Lutheran Church",49,0.959,0.041,0,0,"886 North Shore Dr",NA,"Forest Lake","MN","55025","Washington",80
+"1006246","Lambs Christian Day Care and Preschool",49,0.959,0,0.041,0,"5939 Oliver Ave SW",NA,"Cokato","MN","55321","Wright",35
+"831088","Learning Circle, Inc. (The)",49,1,0,0,0,"615 W 5th St",NA,"Red Wing","MN","55066","Goodhue",98
+"830674","Martin Luther College of Early Childhood Learning",49,0.898,0,0.102,0,"405 N Highland Ave",NA,"New Ulm","MN","56073","Brown",93
+"1038425","Mis Amigos Spanish Immersion Preschool",49,0.98,0,0.02,0,"412 5th Ave N",NA,"Hopkins","MN","55343","Hennepin",92
+"1078197","Next Best Thing to Grandma",49,0.959,0.041,0,0,"38155 Forest Blvd",NA,"North Branch","MN","55056","Chisago",99
+"1004687","Orono Montessori School",49,0.898,0.082,0.02,0,"850 W Wayzata Blvd",NA,"Wayzata","MN","55391","Hennepin",93
+"1014503","Portland Village Early Childhood Family Development Center",49,0.959,0,0.041,0,"1829 Portland Ave S",NA,"Minneapolis","MN","55404","Hennepin",42
+"1043225","Sonnet Montessori Inc",49,1,0,0,0,"4637 Park Nicollet Ave",NA,"Prior Lake","MN","55372","Scott",83
+"1049241","St Peter Community Childcare Center Inc",49,1,0,0,0,"600 South 5th St","Suite 125","Saint Peter","MN","56082","Nicollet",109
+"1054139","St Stephen's Catholic School Pre-School",49,1,0,0,0,"506 Jackson",NA,"Anoka","MN","55303","Anoka",40
+"1053047","Toddler Town Child Care Center Inc",49,1,0,0,0,"5377 266th St",NA,"Wyoming","MN","55092","Chisago",84
+"1057299","Bilingual Child Care & Education Center Inc",50,1,0,0,0,"1125 Co Rd B W",NA,"Roseville","MN","55113","Ramsey",80
+"1021919","Christ Victorious Preschool",50,0.96,0,0.04,0,"9860 Shady Oak Drive",NA,"Chaska","MN","55318","Carver",40
+"1083907","Imagine That Learning Center 1",50,1,0,0,0,"3142 Viking Blvd NW",NA,"Oak Grove","MN","55011","Anoka",90
+"801209","Kid Zone Child Care Center",50,0.96,0.04,0,0,"3700 Alabama Ave S",NA,"St Louis Park","MN","55416","Hennepin",95
+"801238","Kids of the Kingdom",50,1,0,0,0,"520 N Gilman Ave",NA,"Litchfield","MN","55355","Meeker",139
+"801262","KinderCare Learning Center",50,0.94,0.06,0,0,"1800 Coon Rapids Blvd",NA,"Coon Rapids","MN","55433","Anoka",96
+"1002001","KinderCare Learning Center",50,0.96,0.04,0,0,"14014 S Highway 13",NA,"Savage","MN","55378","Scott",145
+"801331","Lake Harriet United Methodist Preschool",50,1,0,0,0,"4901 Chowen Ave S",NA,"Minneapolis","MN","55410","Hennepin",50
+"830322","Little Angels Christian Preschool",50,0.94,0,0.06,0,"8260 4th Street No",NA,"Oakdale","MN","55128","Washington",60
+"1082829","Nativity of Our Lord",50,1,0,0,0,"1900 Stanford Ave",NA,"Saint Paul","MN","55105","Ramsey",40
+"1034161","New Horizon Academy",50,0.98,0.02,0,0,"4177 Innovation Way",NA,"Saint Paul","MN","55112","Ramsey",120
+"810916","Oak Hill Montessori School",50,1,0,0,0,"4665 Hodgson Rd",NA,"Shoreview","MN","55126","Ramsey",108
+"801836","Our Redeemer Christian Children's Center",50,1,0,0,0,"1000 14th St S",NA,"Moorhead","MN","56560","Clay",152
+"801844","Our Saviour's Preschool",50,0.96,0,0.04,0,"19001 Jackson St NE",NA,"East Bethel","MN","55011","Anoka",38
+"1063677","Salem Lutheran Church & School",50,0.86,0.02,0.12,0,"14940 62nd St N",NA,"Stillwater","MN","55082","Washington",60
+"800142","YMCA Preschool",50,0.96,0.02,0.02,0,"704 1st Dr NW",NA,"Austin","MN","55912","Mower",24
+"802768","YMCA/Wee Folksgarten",50,0.96,0.04,0,0,"400 River Rd",NA,"Grand Rapids","MN","55744","Itasca",70
+"1077914","ABC123 Child Enrichment Center LLC",51,0.902,0.098,0,0,"1710 Center Ave Ste 130",NA,"Dilworth","MN","56529","Clay",144
+"1088659","CCRR Head Start Empowerment Center",51,1,0,0,0,"930 40th St NW",NA,"Rochester","MN","55901-0000","Olmsted",81
+"800399","Children's Day Montessori",51,0.98,0,0.02,0,"3124 Southway Dr",NA,"Saint Cloud","MN","56301","Stearns",80
+"800523","Community Child Care Center",51,1,0,0,0,"1250 Fifield AVE",NA,"Saint Paul","MN","55108","Ramsey",48
+"1063676","Early Advantage Developmental Child Care Center LLC",51,1,0,0,0,"507 Frontage Rd NE",NA,"Byron","MN","55920","Olmsted",165
+"1023615","Kids X-Cel Center",51,0.98,0.02,0,0,"1506 7th St N",NA,"New Ulm","MN","56073-2186","Brown",94
+"1034546","Lit'l Sprouts Child Care Center Inc",51,1,0,0,0,"404 Whiskey Rd N Suite C",NA,"Isanti","MN","55040","Isanti",90
+"801601","Mount Hope Preschool and Childcare",51,0.961,0,0.039,0,"3601 W Old Shakopee Rd",NA,"Bloomington","MN","55431","Hennepin",77
+"801729","North Como Preschool",51,1,0,0,0,"965 W Larpenteur Ave",NA,"Roseville","MN","55113","Ramsey",40
+"1083305","Primrose School of St Louis Park West",51,1,0,0,0,"8955 W 36th St",NA,"St Louis Park","MN","55426","Hennepin",181
+"830405","Room For Growing Childcare Learning Center",51,0.961,0,0.039,0,"4700 Scandia Trl",NA,"Forest Lake","MN","55025","Washington",136
+"1065002","Safa Child Care & Learning Center",51,0.922,0,0.078,0,"3701 W Old Shakopee Rd Suite 400",NA,"Bloomington","MN","55431","Hennepin",82
+"810915","Va Neighborhood Child Care Center",51,1,0,0,0,"1 Veterans Dr",NA,"Minneapolis","MN","55417","Hennepin",108
+"802590","Valley Preschool",51,0.922,0,0.059,0.02,"413 S Greeley St",NA,"Stillwater","MN","55082","Washington",20
+"1082493","Virginia Head Start",51,0.941,0,0.059,0,"506 N 9th Ave",NA,"Virginia","MN","55792","St. Louis",60
+"830937","White Bear Montessori School",51,0.882,0.02,0.098,0,"1201 E County Rd E",NA,"White Bear Lake","MN","55110","Ramsey",92
+"1078037","Child Care Development Center",52,0.942,0.058,0,0,"405 33rd Ave N",NA,"Saint Cloud","MN","56303-0000","Stearns",88
+"802485","Children's Place (The)",52,0.962,0,0.038,0,"3703 Fairway Place NW",NA,"Rochester","MN","55901","Olmsted",74
+"801582","Early Education Center Moorhead State University",52,1,0,0,0,"1213 6th Ave S","Lommen Hall","Moorhead","MN","56563","Clay",74
+"1062354","Early Explorers Child Care & Preschool",52,1,0,0,0,"2935 13th St S",NA,"Moorhead","MN","56560","Clay",125
+"1045573","Fun Factory Child Care Center LLC",52,0.981,0,0.019,0,"2929 County Rd 136",NA,"Saint Cloud","MN","56301","Stearns",80
+"801160","Jean Lyle Children's Center",52,0.962,0,0.038,0,"130 N Howell St",NA,"Saint Paul","MN","55104-5900","Ramsey",55
+"800436","KinderCare Learning Center",52,1,0,0,0,"4545 N Hamline Ave",NA,"Arden Hills","MN","55112","Ramsey",127
+"800469","KinderCare Learning Center",52,0.962,0.038,0,0,"3708 W 44th St",NA,"Minneapolis","MN","55410","Hennepin",87
+"801253","KinderCare Learning Center",52,0.962,0.038,0,0,"8950 France Ave S",NA,"Bloomington","MN","55431","Hennepin",140
+"1063994","Laugh & Learn",52,0.981,0,0.019,0,"1506 Washington Ave",NA,"Cloquet","MN","55720","Carlton",76
+"803970","New Horizon Academy",52,0.981,0.019,0,0,"10305 6th Ave N",NA,"Plymouth","MN","55441","Hennepin",175
+"1005123","New Horizon Academy",52,1,0,0,0,"116 Highway 13 E",NA,"Burnsville","MN","55337","Dakota",154
+"801948","Playschool Child Care",52,1,0,0,0,"1709 N Mcknight Rd",NA,"Maplewood","MN","55109","Ramsey",62
+"1016695","Redeemer Lutheran Preschool",52,0.865,0.019,0.115,0,"1401 SW 6th St",NA,"Willmar","MN","56201","Kandiyohi",50
+"1065642","Teddy Bear Treehouse Learning Center",52,0.942,0,0.058,0,"701 1st Ave NE Ste #1",NA,"Buffalo","MN","55313","Wright",20
+"802552","Trinity Preschool",52,0.904,0,0.096,0,"2060 County Rd 6",NA,"Long Lake","MN","55356","Hennepin",64
+"1080548","Anna's Bananas Daycare & Preschool",53,0.925,0.075,0,0,"10487 165th St W",NA,"Lakeville","MN","55044","Dakota",129
+"1046878","Annies Childcare & Learning Center",53,0.943,0.057,0,0,"9630 Ostrowski Way",NA,"Brainerd","MN","56401","Crow Wing",73
+"1077407","Appletime Inc",53,0.981,0,0.019,0,"21051 John Milless Dr",NA,"Rogers","MN","55374","Hennepin",115
+"1044125","Babys Space",53,0.943,0.057,0,0,"2438 18th Ave S",NA,"Minneapolis","MN","55404","Hennepin",99
+"1079975","Broadway Child Care Center Inc",53,0.925,0.075,0,0,"121 Broadway St NE",NA,"Minneapolis","MN","55413","Hennepin",73
+"1025811","Children of Grace",53,0.925,0.057,0.019,0,"4010 9th Ave W",NA,"Hibbing","MN","55746-0000","St. Louis",82
+"802041","Eastside A & B Headstart Childcare Ctr Early Headstart Child Care Ctr",53,0.981,0,0.019,0,"1250 Johnson Rd",NA,"Saint Cloud","MN","56304-1255","Benton",59
+"1019442","Hand in Hand Christian Montessori",53,0.811,0,0.189,0,"2129 Fairview Ave",NA,"Roseville","MN","55113","Ramsey",93
+"1040884","Jesus' Lambs at Peace Preschool",53,0.943,0,0.057,0,"2090 Commerce Dr",NA,"North Mankato","MN","56003","Nicollet",30
+"1003984","Kids Under Construction Educational Preschool, Inc.",53,0.962,0,0.038,0,"4821 Bloom Ave",NA,"White Bear Lake","MN","55110","Ramsey",30
+"800443","KinderCare Learning Center",53,0.925,0.075,0,0,"4012 Adair Ave N",NA,"Robbinsdale","MN","55422","Hennepin",73
+"1063123","Little Lambs Learning Center",53,0.981,0,0.019,0,"802 Maple Grove Rd",NA,"Duluth","MN","55811","St. Louis",57
+"1046979","Medtronic North Child Care Center",53,1,0,0,0,"8200 Coral Sea St",NA,"Mounds View","MN","55112","Ramsey",116
+"801525","Messiah Preschool Early Education Program",53,0.962,0,0.038,0,"2848 County Rd H2",NA,"Mounds View","MN","55112","Ramsey",40
+"801674","New Horizon Academy",53,1,0,0,0,"4300 Lexington Ave S",NA,"Eagan","MN","55123","Dakota",98
+"1074720","Small World Learning Center",53,0.981,0,0.019,0,"90 Locust St",NA,"Farmington","MN","55024","Dakota",88
+"1008630","St. John's Little Lights Preschool",53,0.925,0.075,0,0,"835 2nd Ave NW",NA,"New Brighton","MN","55112","Ramsey",56
+"1059378","Tender Time Learning Center",53,0.774,0.208,0.019,0,"11199 96th Ave N",NA,"Maple Grove","MN","55369","Hennepin",131
+"802654","Wee Pals Child Care Center",53,1,0,0,0,"560 Dunnell Dr",NA,"Owatonna","MN","55060","Steele",106
+"1006686","Zakia, Inc.dba Pumpkin Patch Daycare and Learning Center, Inc.",53,1,0,0,0,"14001 Burnhaven Dr",NA,"Burnsville","MN","55337","Dakota",90
+"809321","Children's House",54,1,0,0,0,"150 Wiecking Center","MN State University, Mankato","Mankato","MN","56001-6061","Blue Earth",90
+"1060807","Circulo de Amigos",54,0.963,0.037,0,0,"2830 Cedar Ave S",NA,"Minneapolis","MN","55407","Hennepin",79
+"1048783","Club House Child Care & Preschool (The)",54,0.944,0.056,0,0,"2975 145th St W",NA,"Rosemount","MN","55068","Dakota",138
+"1042526","Early Ventures Learning Center",54,1,0,0,0,"201 S Orchard St",NA,"Northfield","MN","55057","Rice",88
+"801230","Kids Come 1st",54,1,0,0,0,"2450 Hwy 63 N",NA,"Rochester","MN","55906","Olmsted",112
+"804993","Kids Come 1st",54,1,0,0,0,"1818 Greenview Pl S W",NA,"Rochester","MN","55902","Olmsted",148
+"802642","Li'l Lumberjacks' Learning Center",54,1,0,0,0,"1000 18th St",NA,"Cloquet","MN","55720","Carlton",74
+"809195","New Horizon Academy",54,1,0,0,0,"9051 White Oak Trail N",NA,"Champlin","MN","55316","Hennepin",132
+"1042427","Rayito de Sol Spanish Immersion",54,1,0,0,0,"1601 Nicollet Ave",NA,"Minneapolis","MN","55403","Hennepin",113
+"800483","RCLS Early Childhood Development Center",54,1,0,0,0,"2619 NW 9th Ave",NA,"Rochester","MN","55901","Olmsted",73
+"802329","St Francis Xavier Child Development Center",54,0.944,0,0.056,0,"219 19th St NW",NA,"Buffalo","MN","55313","Wright",40
+"830787","Stepping Stones Christian Preschool",54,0.944,0,0.056,0,"29620 Olinda Trl",NA,"Lindstrom","MN","55045","Chisago",40
+"1053178","Apple Academy Learning Center LLC",55,0.964,0.018,0.018,0,"1845 Main Street",NA,"Centerville","MN","55038","Anoka",119
+"1059651","Bright Horizons Childrens Centers LLC dba Allianz Bright Beginnings",55,0.927,0.036,0.036,0,"5901 Golden Hills Dr",NA,"Golden Valley","MN","55416","Hennepin",100
+"810067","For Kids Only",55,0.909,0.073,0.018,0,"13654 Thrush St NW",NA,"Andover","MN","55304","Anoka",122
+"801244","Kids Inc North",55,1,0,0,0,"566 Bluff St NE",NA,"Hutchinson","MN","55350","McLeod",62
+"830685","KinderCare Learning Center",55,1,0,0,0,"15080 Shannon Pkwy",NA,"Rosemount","MN","55068","Dakota",158
+"1080770","Lake Country School - Montessori Learning Environments",55,0.891,0,0.109,0,"3755 Pleasant Ave S",NA,"Minneapolis","MN","55409","Hennepin",90
+"1063118","Little Sprouts Childcare & Preschool Inc",55,1,0,0,0,"1123 Weir Dr",NA,"Woodbury","MN","55125","Washington",156
+"1064787","Mother Duck Learning Center",55,0.982,0.018,0,0,"6341 Penn Ave S",NA,"Richfield","MN","55423","Hennepin",61
+"804148","Our Lady of the Lake Preschool Center",55,1,0,0,0,"2411 Comerce Blvd",NA,"Mound","MN","55364","Hennepin",55
+"1064366","Anna's Bananas Daycare and Preschool Inc",56,0.964,0.036,0,0,"516 5TH ST W",NA,"Northfield","MN","55057-1720","Rice",91
+"1083770","Creative Kids Academy",56,0.929,0.071,0,0,"19277 Vernon St NW",NA,"Elk River","MN","55330","Sherburne",99
+"801870","FWE/PRHS/EHS HS Center",56,0.929,0,0.071,0,"301 Huntsinger Ave",NA,"Park Rapids","MN","56470","Hubbard",70
+"801030","Hi-Ho Nursery School",56,0.982,0,0.018,0,"1770 Eleanor St.",NA,"Worthington","MN","56187","Nobles",20
+"1061636","Lighthouse Learning Academy LLC",56,0.964,0,0.036,0,"19027 Proctor Road NW",NA,"Elk River","MN","55330","Sherburne",118
+"1056536","Little Saints Academy LLC",56,1,0,0,0,"124 1st Ave SE",NA,"Saint Joseph","MN","56374","Stearns",163
+"803892","New Horizon Academy",56,1,0,0,0,"548 Prairie Center Dr",NA,"Eden Prairie","MN","55344","Hennepin",101
+"1000499","New Horizon Academy",56,1,0,0,0,"8547 Edinburgh Centre Drive",NA,"Brooklyn Park","MN","55443","Hennepin",172
+"1009917","New Horizon Academy",56,1,0,0,0,"14121 Huntington Ave S",NA,"Savage","MN","55378","Scott",172
+"810868","Servant Schoolhouse Christian Preschool",56,0.982,0,0.018,0,"740 E Hayden Lake Rd.",NA,"Champlin","MN","55316","Hennepin",20
+"1084558","Star Learning Center Inc",56,0.661,0.339,0,0,"1512 Southcross Dr",NA,"Burnsville","MN","55306","Dakota",102
+"802435","Sunny Hill Preschool",56,0.964,0.036,0,0,"813 W Myrtle St",NA,"Stillwater","MN","55082-4765","Washington",40
+"802542","Trinity Lutheran Church Preschool",56,0.946,0,0.054,0,"210 S 7th St",NA,"Moorhead","MN","56560","Clay",97
+"1018410","All Saints Catholic Preschool",57,0.947,0.053,0,0,"19795 Holyoke Ave",NA,"Lakeville","MN","55044","Dakota",18
+"806293","Christ Church Preschool",57,0.895,0,0.105,0,"15849 NE 90th St",NA,"Otsego","MN","55330","Wright",20
+"1018196","Family of Christ Preschool",57,0.982,0,0.018,0,"2020 Coulter Blvd",NA,"Chanhassen","MN","55317-5300","Carver",62
+"1006318","Heights Head Start Center",57,0.965,0,0.035,0,"4444 Reservoir Blvd NE",NA,"Columbia Heights","MN","55421","Anoka",40
+"1082655","Kids Academy Inc",57,0.895,0.105,0,0,"2511 Taylor St NE",NA,"Minneapolis","MN","55418","Hennepin",154
+"800455","KinderCare Learning Center",57,0.965,0.035,0,0,"8800 Old Cedar Ave So",NA,"Bloomington","MN","55425","Hennepin",118
+"1054869","Mighty Dragons Preschool LLC",57,0.877,0,0.123,0,"30 W 2nd St",NA,"Litchfield","MN","55355","Meeker",40
+"1005378","Millennium Learning Center Inc DBA Small World Learning Center",57,0.982,0,0.018,0,"13961 Maple Knoll Way",NA,"Maple Grove","MN","55369","Hennepin",104
+"801663","New Horizon Academy",57,0.947,0.035,0.018,0,"8000 E Fish Lake Rd",NA,"Maple Grove","MN","55311","Hennepin",101
+"1064066","Prairie Hill Montessori LLC",57,0.965,0,0.035,0,"26070 2nd St E",NA,"Zimmerman","MN","55398","Sherburne",45
+"802166","Roseville Lutheran Preschool",57,0.982,0,0.018,0,"1215 W Roselawn Ave",NA,"Roseville","MN","55113","Ramsey",40
+"802384","St. Paul's Childhood Center",57,0.982,0.018,0,0,"900 Summit Ave",NA,"Saint Paul","MN","55105","Ramsey",131
+"800282","C.H.I.L.D.",58,1,0,0,0,"2511 E Franklin Ave",NA,"Minneapolis","MN","55406-1028","Hennepin",65
+"800522","Community Child Care Center",58,1,0,0,0,"8 W 60th St",NA,"Minneapolis","MN","55419","Hennepin",124
+"800578","Cradle Club (The)",58,1,0,0,0,"100 N 6th St","Suite 152 C","Minneapolis","MN","55403","Hennepin",118
+"1053441","Creative Kids Academy Inc",58,0.931,0.069,0,0,"1135 W Hwy 10",NA,"Anoka","MN","55303","Anoka",105
+"1080543","Eagan Montessori Academy South",58,0.914,0,0.086,0,"1970 Rahncliff Ct Ste 100",NA,"Eagan","MN","55122","Dakota",172
+"1081555","Faithful Beginnings at St Vincent de Paul Catholic School",58,0.948,0,0.052,0,"9050 93rd Ave N",NA,"Brooklyn Park","MN","55445","Hennepin",40
+"810552","Good Shepherd Preschool",58,0.897,0,0.103,0,"2500 7th Ave NE",NA,"Owatonna","MN","55060-1488","Steele",37
+"801085","Hopkins Early Learning Center",58,1,0,0,0,"125 Monroe Ave S",NA,"Hopkins","MN","55343","Hennepin",118
+"801286","KinderCare Learning Center",58,0.966,0.034,0,0,"7691 145th St W",NA,"Apple Valley","MN","55124","Dakota",89
+"810015","New Horizon Academy",58,0.966,0.034,0,0,"999 E Moore Lake Dr",NA,"Fridley","MN","55432","Anoka",138
+"1061387","Our Little World Daycare",58,1,0,0,0,"121 Birkdale Dr",NA,"Mankato","MN","56001","Blue Earth",131
+"1009453","Southside A, B, C",58,0.948,0,0.052,0,"1205 6th Ave S",NA,"Saint Cloud","MN","56304","Stearns",60
+"1000968","St Elizabeth Ann Seton Preschool",58,1,0,0,0,"2035 15th St W",NA,"Hastings","MN","55033","Dakota",79
+"802386","St Pauls Little Saints ECC",58,0.931,0.034,0.034,0,"5634 Luther Rd SE",NA,"Prior Lake","MN","55372","Scott",85
+"802679","Westwood Early Childhood Center",58,0.948,0.034,0.017,0,"9001 Cedar Lake Rd.",NA,"St Louis Park","MN","55426","Hennepin",95
+"802688","Wilder Child Development Center",58,0.966,0,0.034,0,"911 Lafond Ave",NA,"Saint Paul","MN","55104","Ramsey",80
+"800970","Hansel and Gretel Preschool, Inc.",59,0.983,0,0.017,0,"801 4th Ave NE",NA,"Waseca","MN","56093","Waseca",18
+"807399","Kids Kare Center",59,0.932,0.034,0.034,0,"11125 W Pt Douglas Rd",NA,"Hastings","MN","55033","Dakota",157
+"1088564","Kinderberry Hill Child Development Center",59,0.966,0.034,0,0,"1457 Grand Ave",NA,"Saint Paul","MN","55105","Ramsey",144
+"1000508","Lake Area Discovery Center",59,0.949,0,0.051,0,"3770 Bellaire Ave",NA,"White Bear Lake","MN","55110","Ramsey",65
+"1051952","New Horizon Academy",59,0.864,0.136,0,0,"1295 Rice Street",NA,"Saint Paul","MN","55117","Ramsey",86
+"1075545","Olu's Center",59,0.966,0.034,0,0,"1315 12th Ave N",NA,"Minneapolis","MN","55411","Hennepin",110
+"830837","Precious Years Learning Center",59,0.966,0.034,0,0,"24646 Hazelwood Drive",NA,"Nisswa","MN","56468-0900","Crow Wing",66
+"804770","Rocking Horse Ranch",59,1,0,0,0,"14859 Louisiana Ave S",NA,"Savage","MN","55378","Scott",87
+"809414","St. John Neuman Preschool",59,1,0,0,0,"4030 Pilot Knob Rd",NA,"Eagan","MN","55122","Dakota",84
+"810755","Sunny Hollow Montessori",59,0.966,0,0.034,0,"636 S Mississippi River Blvd",NA,"Saint Paul","MN","55116","Ramsey",106
+"830835","WCCA Head Start-Monticello",59,0.983,0,0.017,0,"7375 Fenning Ave NE","Eastview Education Building","Monticello","MN","55362","Wright",60
+"1073055","Butterfly Hill Nature Preschool Inc",60,0.967,0.033,0,0,"2210 6th Ave E",NA,"Alexandria","MN","56308","Douglas",30
+"1015164","KinderCare Learning Center",60,0.883,0.083,0.033,0,"7380 10th St N",NA,"Oakdale","MN","55128","Washington",176
+"1053998","Lake Area Discovery Center at Trinity",60,0.967,0.033,0,0,"115 N 4th St",NA,"Stillwater","MN","55082","Washington",78
+"1064168","Minnesota Best Childcare Center",60,0.85,0.15,0,0,"3018 17th Ave S",NA,"Minneapolis","MN","55407","Hennepin",138
+"809514","Room for Growing Childcare Learning Center",60,1,0,0,0,"11125 Lake Blvd",NA,"Chisago City","MN","55013","Chisago",130
+"830728","Semcac Head Start-Winona",60,0.967,0,0.033,0,"1756 Kraemer Drive","Suite 200","Winona","MN","55987","Winona",62
+"1084101","Thunder Hawk Care",60,0.983,0.017,0,0,"412 S 13th St",NA,"Montevideo","MN","56265","Chippewa",33
+"1064040","Towerlight Child Care",60,0.983,0,0.017,0,"3601 Wooddale Ave S",NA,"St Louis Park","MN","55416","Hennepin",124
+"800056","Children's Center (The)",61,1,0,0,0,"605 James Ave",NA,"Albert Lea","MN","56007","Freeborn",157
+"803874","Children's Center (The)",61,1,0,0,0,"801 Luther Place",NA,"Albert Lea","MN","56007","Freeborn",48
+"807904","Legacy Christian Academy Preschool",61,0.836,0,0.164,0,"3037 Bunker Lk Blvd NW",NA,"Andover","MN","55304","Anoka",50
+"1075008","Lil Newtons Nest",61,1,0,0,0,"6950 W Fish Lake Rd",NA,"Maple Grove","MN","55311","Hennepin",124
+"1084260","Montessori Renaissance Academy",61,0.803,0.016,0.18,0,"1333 5th Ave S",NA,"Anoka","MN","55303","Anoka",104
+"802164","Room For Growing Childcare Learning Center",61,1,0,0,0,"268 SW 12th St",NA,"Forest Lake","MN","55025","Washington",131
+"1000997","Tutor Time of Lakeville",61,1,0,0,0,"9475 176th St W",NA,"Lakeville","MN","55044","Dakota",103
+"800425","Childrens Village Montessori Day Care Center Inc",62,1,0,0,0,"2515 E. 26th St",NA,"Minneapolis","MN","55406","Hennepin",126
+"1074753","Dawn of Discovery",62,1,0,0,0,"19280 Evans St NW",NA,"Elk River","MN","55330","Sherburne",116
+"1001065","Kids Country Child Care & Learning Center",62,0.968,0,0.032,0,"520 1st St NE",NA,"Sartell","MN","56377-0120","Benton",149
+"1053423","KinderCare Learning Center",62,0.935,0.065,0,0,"17420 Dodd Blvd",NA,"Lakeville","MN","55044","Dakota",138
+"1065295","Liban Child Care Center Inc",62,0.887,0.113,0,0,"3504 Snelling Ave",NA,"Minneapolis","MN","55406","Hennepin",62
+"801660","New Horizon Academy",62,1,0,0,0,"6842 Humboldt Ave N",NA,"Brooklyn Center","MN","55430","Hennepin",120
+"808906","New Horizon Academy",62,1,0,0,0,"3510 Federal Dr",NA,"Eagan","MN","55123","Dakota",132
+"1030682","Oak Knoll Christian Preschool",62,0.984,0,0.016,0,"600 Hopkins Crossroad",NA,"Minnetonka","MN","55305","Hennepin",54
+"1080805","Red Balloons Child Care",62,0.984,0.016,0,0,"12601 Birch Ave",NA,"Becker","MN","55308","Sherburne",150
+"802645","St. John's Wee Care Learning Center",62,1,0,0,0,"111 2nd Ave NE",NA,"Stewartville","MN","55976","Olmsted",40
+"1053790","Anna's Bananas Daycare & Preschool Inc",63,0.952,0.048,0,0,"7765 147th St",NA,"Apple Valley","MN","55124","Dakota",118
+"1080972","Lake Area Discovery Center @ Faithful Shepherd Catholic School",63,1,0,0,0,"3355 Columbia Dr",NA,"Eagan","MN","55121","Dakota",60
+"1037234","Mankato Head Start Combination Center",63,0.921,0,0.079,0,"105 N 5th St",NA,"Mankato","MN","56001","Blue Earth",16
+"801508","Meadow Park Day Care Center dba Meadow Park Preschool & Child Care Cen",63,1,0,0,0,"971 16th St SE",NA,"Rochester","MN","55904","Olmsted",42
+"801618","Nativity Early Learning Center",63,0.968,0.016,0.016,0,"1900 Wellesley Ave",NA,"Saint Paul","MN","55105","Ramsey",123
+"807019","New Horizon Academy",63,0.937,0.032,0.032,0,"9085 203rd St W",NA,"Lakeville","MN","55044","Dakota",172
+"806228","Playhouse Child Care Center",63,0.984,0,0.016,0,"1701 9th Ave N",NA,"Saint Cloud","MN","56303","Stearns",98
+"800255","ABC Pre K",64,1,0,0,0,"5600 85th Ave N",NA,"Brooklyn Park","MN","55443","Hennepin",27
+"800274","Busy Bee Preschool",64,0.984,0,0.016,0,"974 6th St","PO Box 325","Windom","MN","56101","Cottonwood",20
+"830686","KinderCare Learning Center",64,0.922,0.063,0.016,0,"15755 Rockford Rd",NA,"Plymouth","MN","55446","Hennepin",166
+"810216","Little Munchkins, Inc.",64,1,0,0,0,"5280 Main St",NA,"Maple Plain","MN","55359","Hennepin",78
+"801692","New Horizon Academy",64,1,0,0,0,"6350 Point Chase Rd",NA,"Eden Prairie","MN","55344","Hennepin",109
+"806785","Open Arms Christian Early Childhood Center",64,0.969,0.031,0,0,"201 E 104th St",NA,"Bloomington","MN","55420-5305","Hennepin",115
+"808805","Summit Childcare/preschool",64,1,0,0,0,"1600 N 8th Ave E",NA,"Duluth","MN","55805","St. Louis",115
+"800194","Bethlehem Child Care Center",65,0.985,0,0,0.015,"3141 43rd Ave S",NA,"Minneapolis","MN","55406-2248","Hennepin",86
+"800233","Bridges, Inc. (The)",65,0.985,0,0.015,0,"14950 Dodd Blvd",NA,"Rosemount","MN","55068","Dakota",50
+"800596","Cross View Early Childhood Center",65,0.954,0,0.046,0,"6645 McCauley Trl",NA,"Edina","MN","55439-1076","Hennepin",92
+"1047403","Endless Journey Child Care",65,1,0,0,0,"7411 Airport View Dr SW",NA,"Rochester","MN","55902","Olmsted",113
+"1053682","Hastings Child Development Center",65,1,0,0,0,"210 17th St W",NA,"Hastings","MN","55033","Dakota",230
+"1019012","KinderCare Learning Center",65,0.985,0,0.015,0,"1308 Greenwood Ct",NA,"Shakopee","MN","55379","Scott",166
+"1050754","Learning Lodge LLC (The)",65,0.969,0.015,0.015,0,"6139 157th Ln NW",NA,"Ramsey","MN","55303","Anoka",122
+"1074777","Nativity of Mary Preschool",65,0.985,0,0.015,0,"9901 Lyndale Ave S",NA,"Bloomington","MN","55420","Hennepin",60
+"1083416","Tierra Encantada Bryant",65,0.954,0.046,0,0,"411 E 38th St",NA,"Minneapolis","MN","55409","Hennepin",112
+"801268","KinderCare Learning Center",66,0.97,0,0.03,0,"4650 Hodgson Rd",NA,"Shoreview","MN","55126","Ramsey",96
+"830403","New Horizon Academy",66,0.985,0,0.015,0,"1506 Northway Dr",NA,"Saint Cloud","MN","56301","Stearns",97
+"802778","YWCA Minneapolis Childrens Center",66,0.955,0.045,0,0,"1130 Nicollet Mall",NA,"Minneapolis","MN","55403","Hennepin",149
+"800103","Apple Tree Learning Center",67,0.985,0.015,0,0,"409 1st St N",NA,"Virginia","MN","55792","St. Louis",127
+"800371","Child Care Resource and Referral Head Start",67,1,0,0,0,"211 W Richway Dr","Brookside Education Center","Albert Lea","MN","56007","Freeborn",40
+"1074419","Faithful Beginnings at Highland Catholic School",67,1,0,0,0,"2017 Bohland Ave",NA,"Saint Paul","MN","55116","Ramsey",40
+"1062849","Four Square Preschool & Daycare",67,0.925,0.075,0,0,"17671 Glacier Way",NA,"Lakeville","MN","55044","Dakota",131
+"801475","Mankato Head Start Center",67,0.985,0,0.015,0,"105 N 5th St",NA,"Mankato","MN","56001","Blue Earth",38
+"801684","New Horizon Academy",67,1,0,0,0,"8050 Afton Rd",NA,"Woodbury","MN","55125","Washington",156
+"802396","St. Philips Early Learning Center",67,0.925,0,0.075,0,"1401 W 15th",NA,"Hastings","MN","55033-2437","Dakota",32
+"1063508","Urban Arts Academy",67,0.955,0,0.045,0,"3901 Chicago Ave S",NA,"Minneapolis","MN","55407","Hennepin",40
+"800542","Clay-Wikin Head Start",68,1,0,0,0,"715 11th St N Ste 402",NA,"Moorhead","MN","56560-2088","Clay",57
+"1062684","KinderCare Learning Center",68,0.985,0.015,0,0,"9700 Schreiber Terrace",NA,"Brooklyn Park","MN","55443","Hennepin",153
+"809720","Pillager Early Childhood Center",68,1,0,0,0,"323 E 2nd St S",NA,"Pillager","MN","56473","Cass",54
+"808478","Under the Rainbow Child Care Center, Inc.",68,0.985,0,0.015,0,"555 Technology Drive",NA,"Red Wing","MN","55066","Goodhue",123
+"1080697","Growing Generations Child Development Center",69,1,0,0,0,"14689 Victor Hugo Blvd",NA,"Hugo","MN","55038","Washington",138
+"1041509","Jardin",69,0.957,0.043,0,0,"3836 Minnehaha Ave",NA,"Minneapolis","MN","55406","Hennepin",126
+"805962","Kinderberry Hill Child Development Center",69,1,0,0,0,"1205 Woodbury Dr",NA,"Woodbury","MN","55129","Washington",174
+"1051451","Kinderberry Hill Child Development Center",69,1,0,0,0,"10160 Hennepin Town Road",NA,"Eden Prairie","MN","55347","Hennepin",160
+"801274","KinderCare Learning Center",69,1,0,0,0,"1925 E County Road D",NA,"Maplewood","MN","55109","Ramsey",106
+"1039761","New Horizon Academy",69,0.971,0.014,0,0.014,"13130 Riverdale Drive",NA,"Coon Rapids","MN","55448","Anoka",168
+"830354","Paidea Child Development Center",69,0.942,0.029,0.029,0,"949 Geneva Ave",NA,"Oakdale","MN","55128","Washington",102
+"802393","St Peter's Early Childhood Education Center",69,1,0,0,0,"5421 France Ave S",NA,"Edina","MN","55410","Hennepin",124
+"1048537","St Therese Early Learning Center",69,0.942,0,0.058,0,"18323 Minnetonka Blvd",NA,"Deephaven","MN","55391","Hennepin",146
+"1086313","Dakota Learning Center Inc",70,0.886,0.114,0,0,"436 Gateway Blvd",NA,"Burnsville","MN","55337","Dakota",112
+"1067022","First Steps Child Care Center",70,1,0,0,0,"3089 25th St NW",NA,"Rochester","MN","55901","Olmsted",93
+"801038","Hibbing Head Start",70,0.986,0,0.014,0,"2528 E Beltline",NA,"Hibbing","MN","55746","St. Louis",80
+"801287","Kinderberry Hill Child Development Center",70,1,0,0,0,"2360 Lexington Ave N",NA,"Roseville","MN","55113","Ramsey",140
+"1028644","KinderCare Learning Center",70,1,0,0,0,"2460 Clare Ln NE",NA,"Rochester","MN","55906","Olmsted",146
+"1080970","Little Discoveries Learning Center",70,1,0,0,0,"1100 32nd Ave S Ste 1",NA,"Moorhead","MN","56560","Clay",110
+"1019635","Loyola Preschool",70,0.986,0,0.014,0,"145 Good Counsel Dr",NA,"Mankato","MN","56001","Blue Earth",40
+"1079571","Motherly Love Daycare Inc",70,0.9,0.1,0,0,"1304 E Lake St Ste 100",NA,"Minneapolis","MN","55407","Hennepin",99
+"809464","Nativity Child & Family Center",70,0.943,0,0.057,0,"3312 Silver Lk Rd NE",NA,"Minneapolis","MN","55418-0000","Hennepin",149
+"1076039","New Horizon Academy",70,0.957,0.014,0,0.029,"16750 91st Ave N",NA,"Maple Grove","MN","55311","Hennepin",148
+"1029997","Our Redeemers Litttle Lambs Preschool",70,0.957,0,0.043,0,"35568 Foxtail Lane",NA,"Cohasset","MN","55721","Itasca",54
+"802549","Trinity Nursery School",70,0.986,0.014,0,0,"609 S Lincoln Ave",NA,"Owatonna","MN","55060","Steele",30
+"1014830","Becks Montessori Accelerated Learning Center",71,1,0,0,0,"4194 Pilot Knob Road",NA,"Eagan","MN","55123","Dakota",121
+"810864","Children's Workshop",71,0.958,0,0.042,0,"3021 Harbor Ln N Ste 110",NA,"Plymouth","MN","55447-5109","Hennepin",121
+"1065074","Diversity Childcare Center LLC",71,1,0,0,0,"3408 E Lake St",NA,"Minneapolis","MN","55406","Hennepin",120
+"1058384","Gethsemane Early Learning Center Gethsmeane Lutheran School",71,1,0,0,0,"2410 Stillwater Road",NA,"Maplewood","MN","55119","Ramsey",60
+"1076388","Jefferson Childrens Center",71,0.972,0,0.028,0,"4096 Stebner Rd",NA,"Hermantown","MN","55811","St. Louis",97
+"801261","KinderCare Learning Center",71,0.944,0.056,0,0,"10851 Jefferson St NE",NA,"Blaine","MN","55434","Anoka",93
+"1062785","Northwest YMCA in New Hope Early Childhood Learning Center",71,0.958,0.042,0,0,"7601 42nd Ave N",NA,"New Hope","MN","55427","Hennepin",159
+"1051073","St Joseph's Preschool",71,0.915,0,0.085,0,"1138 Seminole Ave",NA,"West St Paul","MN","55118","Dakota",49
+"1065655","Jardin Eden Prairie",72,0.944,0.056,0,0,"14200 Martin Dr",NA,"Eden Prairie","MN","55344","Hennepin",130
+"808597","Jesus Loves Me Learning Center",72,1,0,0,0,"304 Monroe Ave",NA,"North Mankato","MN","56003","Nicollet",119
+"1063183","Little Victories",72,0.944,0.014,0.042,0,"5595 Memorial Ave","Attn Julie Bonny","Oak Park Heights","MN","55082","Washington",123
+"801683","New Horizon Academy",72,1,0,0,0,"3050 Centre Pt Dr","Suite 900","Roseville","MN","55113","Ramsey",108
+"1064732","New Horizon Academy",72,1,0,0,0,"13905 County Rd 6",NA,"Plymouth","MN","55441","Hennepin",170
+"1000966","Beautiful Savior Child Development Center",73,0.945,0,0.055,0,"5005 NW Blvd",NA,"Plymouth","MN","55442","Hennepin",102
+"830573","KinderCare Learning Center",73,0.959,0.041,0,0,"1485 Bunker Lake Blvd NW",NA,"Andover","MN","55304","Anoka",144
+"1067318","New Horizon Academy",73,0.986,0.014,0,0,"1975 Ford Pkwy",NA,"Saint Paul","MN","55116","Ramsey",163
+"1079093","Next Steps Learning Center",73,0.986,0.014,0,0,"1430 Park Ct",NA,"Chanhassen","MN","55317","Carver",125
+"802183","Salem Preschool",73,0.932,0,0.068,0,"Salem Covenant Church","2655 5th St NW","New Brighton","MN","55112","Ramsey",40
+"1016824","Seeds to Seedlings Child Development Center",73,1,0,0,0,"6249 Hemlock Lane",NA,"Maple Grove","MN","55369","Hennepin",129
+"831035","Worthington Head Start Center",73,1,0,0,0,"206 11th St",NA,"Worthington","MN","56187-0787","Nobles",37
+"800403","Children's Farm School",74,0.932,0,0.068,0,"13241 30th St N",NA,"Stillwater","MN","55082","Washington",20
+"1037143","Kids of Peace Preschool",74,0.959,0,0.041,0,"21705 129th Ave N",NA,"Rogers","MN","55374","Hennepin",30
+"1011992","Knowledge Beginnings #071702",74,1,0,0,0,"570 Oak Grove Pkwy",NA,"Vadnais Heights","MN","55127","Ramsey",186
+"801395","Little Falls Head Start",74,0.959,0,0.041,0,"501 LeMieur St",NA,"Little Falls","MN","56345","Morrison",84
+"1053430","New Horizon Academy",74,0.973,0.027,0,0,"1310 Hennepin Ave S",NA,"Minneapolis","MN","55403","Hennepin",145
+"810110","Teddy Bear Care On 65 Inc",74,1,0,0,0,"1438 215th Ave NE",NA,"East Bethel","MN","55011","Anoka",99
+"800130","Associated Preschool",75,0.987,0,0.013,0,"800 Havana Rd",NA,"Owatonna","MN","55060","Steele",24
+"1014899","Children's Discovery Academy of Early Learning",75,0.987,0,0.013,0,"433 E Little Canada Rd",NA,"Little Canada","MN","55117","Ramsey",111
+"800540","Community Preschool of First Lutheran Church",75,0.96,0,0.04,0,"822 Douglas",NA,"Alexandria","MN","56308","Douglas",35
+"800657","Discovery Place",75,1,0,0,0,"305 E Nora",NA,"Thief River Falls","MN","56701-0000","Pennington",91
+"801668","New Horizon Academy",75,0.96,0.04,0,0,"1385 Conway Street",NA,"Saint Paul","MN","55106","Ramsey",138
+"1048645","New Horizon Academy",75,0.867,0.133,0,0,"4390 Oakwood Parkway NE",NA,"Saint Michael","MN","55376","Wright",172
+"1050547","Radiant Montessori School LLC",75,0.96,0.04,0,0,"15650 95th Ave N",NA,"Maple Grove","MN","55369","Hennepin",116
+"1083745","Big Woods Child Care Center",76,1,0,0,0,"305 13th St S",NA,"Delano","MN","55328","Wright",151
+"1034376","Kids Count Daycare and Learning Center, Inc",76,1,0,0,0,"6880 Boudin St #200",NA,"Prior Lake","MN","55372","Scott",210
+"831066","Little Beginnings Learning Center",76,0.947,0.013,0.039,0,"12140 120th St S",NA,"Hastings","MN","55033","Washington",137
+"801619","Nehi Christian Preschool and Childcare",76,0.868,0,0.118,0.013,"2651 N Rice St",NA,"Roseville","MN","55113","Ramsey",70
+"802000","Pumpkin Patch Preschool",76,0.921,0,0.079,0,"9225 Jason Ave NE",NA,"Monticello","MN","55362","Wright",30
+"810966","Summit Early Learning Center",76,0.934,0.066,0,0,"1015 Olson Memorial Hwy",NA,"Minneapolis","MN","55405","Hennepin",124
+"1050327","Acorn Academy of Oak Haven Church",77,0.935,0,0.052,0.013,"1555 Constance Blvd NE",NA,"Ham Lake","MN","55304","Anoka",60
+"1078233","Goddard School (The)",77,0.987,0,0.013,0,"16189 Elmhurst Lane",NA,"Lakeville","MN","55044","Dakota",144
+"800905","Golden Heart Child Care Center",77,0.987,0.013,0,0,"1825 Commerce Dr",NA,"North Mankato","MN","56003","Nicollet",147
+"1009807","Hamilton Head Start",77,0.831,0,0.169,0,"4735 W 123rd St",NA,"Savage","MN","55378","Scott",80
+"1010789","Karing Kingdom Preschool",77,0.961,0,0.039,0,"7401 County Rd 101",NA,"Maple Grove","MN","55311","Hennepin",21
+"1018312","Orono Discovery Center-ISD #278",77,0.987,0.013,0,0,"5050 Independence Street",NA,"Maple Plain","MN","55359","Hennepin",78
+"810125","Preschool Place",77,1,0,0,0,"1141 Cardinal St",NA,"Chaska","MN","55318","Carver",74
+"1012326","Preschools of St Andrew's (The)",77,0.961,0,0.039,0,"260 E Ave",NA,"Mahtomedi","MN","55115","Washington",94
+"802823","Ready To Grow Ready To Learn",77,0.987,0,0.013,0,"200 Burnsville Pkwy W",NA,"Burnsville","MN","55337","Dakota",123
+"804605","South Branch Early Childhood Family Development Center",77,0.922,0,0.078,0,"7145 Harriet Ave S",NA,"Richfield","MN","55423","Hennepin",60
+"802373","St Michaels Early Childhood Program",77,0.987,0,0.013,0,"4628 Pitt St",NA,"Duluth","MN","55804","St. Louis",110
+"1041097","Torah Tots",77,0.948,0.026,0.026,0,"2800 Joppa Ave S",NA,"St Louis Park","MN","55416","Hennepin",100
+"1065654","Casa de Corazon Inc",78,0.936,0.038,0.026,0,"8351 Elm Creek Blvd",NA,"Maple Grove","MN","55369","Hennepin",173
+"1014894","Children's Discovery Academy of Early Learning",78,1,0,0,0,"3665 Talmage Circle",NA,"Vadnais Heights","MN","55110","Ramsey",134
+"1018859","Faithful Beginnings at Divine Mercy Catholic School",78,0.987,0.013,0,0,"104 2nd Ave SW",NA,"Faribault","MN","55021","Rice",80
+"1047610","Jack & Jill Preschool",78,0.974,0,0.026,0,"11870 Ulysses St NE, Suite 100",NA,"Blaine","MN","55434","Anoka",139
+"801602","Mount Olivet Preschool",78,0.974,0,0.013,0.013,"5025 Knox Ave S",NA,"Minneapolis","MN","55419","Hennepin",40
+"809482","Playhouse Child Care Center",78,0.987,0,0.013,0,"209 2nd St S",NA,"Sartell","MN","56377","Stearns",129
+"802519","Tiny Tots & Little Tykes",78,1,0,0,0,"60 E Marie Ave Ste 100",NA,"West St Paul","MN","55118","Dakota",150
+"809413","Care Corner",79,0.987,0.013,0,0,"265 St Andrews Dr",NA,"Mankato","MN","56001","Blue Earth",140
+"1063373","El Bosque Encantado",79,0.924,0.076,0,0,"15033 Highway 13 Ste 2000",NA,"Prior Lake","MN","55372","Scott",89
+"800869","Funshine Preschool",79,0.937,0,0.063,0,"9301 Eden Prairie Rd",NA,"Eden Prairie","MN","55347","Hennepin",109
+"810024","Gan Shelanu Preschool",79,1,0,0,0,"10500 Hillside Ln",NA,"Minnetonka","MN","55305","Hennepin",158
+"1079094","Next Steps Learning Center",79,0.975,0.025,0,0,"2440 Chaska Blvd",NA,"Chaska","MN","55318","Carver",177
+"800318","Tri-Valley Crookston Head Start Center",79,0.987,0,0.013,0,"1407 Erskine St",NA,"Crookston","MN","56716","Polk",96
+"810554","YMCA Sunshine Corner Peach Tree",79,0.962,0,0.038,0,"434 Main St",NA,"Red Wing","MN","55066","Goodhue",41
+"1037696","Invest Early Project-King School",80,0.975,0.025,0,0,"504 5th St SE",NA,"Deer River","MN","56636","Itasca",152
+"801667","New Horizon Academy",80,0.925,0.063,0.013,0,"4585 Erin Lane",NA,"Eagan","MN","55122","Dakota",158
+"801690","New Horizon Academy",80,0.988,0.013,0,0,"4201 Minnesota Dr",NA,"Bloomington","MN","55435","Hennepin",160
+"1013264","Seeds of Faith Preschool, a Ministry of St. Luke's",80,1,0,0,0,"7000 Hinton Ave S",NA,"Cottage Grove","MN","55016","Washington",33
+"810732","Kinderberry Hill Child Development Center",81,1,0,0,0,"185 Cheshire Lane",NA,"Plymouth","MN","55441","Hennepin",144
+"1012986","New Horizon Academy",81,1,0,0,0,"4345 Peony Lane",NA,"Plymouth","MN","55446","Hennepin",172
+"804779","Playhouse Child Care Center",81,1,0,0,0,"109 Sandberg Road",NA,"Monticello","MN","55362","Wright",97
+"1066115","St Francis Xavier School",81,0.914,0.012,0.074,0,"308 2nd St N",NA,"Sartell","MN","56377","Stearns",60
+"1045504","Eagan Montessori & Childcare",82,0.927,0.073,0,0,"1250 Lone Oak Rd",NA,"Eagan","MN","55121","Dakota",106
+"801182","Joyce Preschool",82,0.963,0,0.037,0,"3400 Park Ave S",NA,"Minneapolis","MN","55407","Hennepin",40
+"1078900","Jardin Powderhorn",83,0.928,0.072,0,0,"4040 Bloomington Ave S",NA,"Minneapolis","MN","55407","Hennepin",126
+"1042288","Minnesota Montessori Accelerated Learning Center, Inc.",83,0.976,0,0.024,0,"3150 Eagle Creek Blvd",NA,"Shakopee","MN","55379","Scott",113
+"1074559","New Horizon Academy",83,0.988,0.012,0,0,"17995 Linwood Ct",NA,"Eden Prairie","MN","55347","Hennepin",156
+"830337","Town Square Head Start",83,0.988,0.012,0,0,"201 S Lyndale",NA,"Faribault","MN","55021","Rice",80
+"810852","Tri-Valley East Grand Forks Head Start Center",83,0.976,0,0.024,0,"1825 Central Ave NW",NA,"East Grand Forks","MN","56721","Polk",102
+"1018118","Bright Beginnings Christian Preschool",84,0.952,0.012,0.036,0,"9350 Upland Ln N",NA,"Maple Grove","MN","55369","Hennepin",40
+"800290","Calvary Lutheran Preschool",84,0.988,0,0,0.012,"605 Douglas",NA,"Alexandria","MN","56308","Douglas",32
+"830358","Detroit Lakes Head Start Center",84,0.929,0,0.071,0,"1125 W River Rd",NA,"Detroit Lakes","MN","56502","Becker",60
+"1079498","Goddard School (The)",84,1,0,0,0,"345 Clydesdale Trail",NA,"Medina","MN","55340","Hennepin",142
+"1083793","Marshall Area Head Start",84,0.964,0.036,0,0,"601 E College Dr",NA,"Marshall","MN","56258","Lyon",100
+"802263","Son-shine Corner Nursery School",84,0.94,0,0.06,0,"705 Hwy 101 N",NA,"Plymouth","MN","55447","Hennepin",55
+"1078336","Crystals Cuddle Bugs Childcare Center",85,1,0,0,0,"14865 S Robert Trail",NA,"Rosemount","MN","55068","Dakota",116
+"1013352","Lake Area Discovery Center @ First Lutheran Church",85,0.965,0.012,0.024,0,"4000 Linden St",NA,"White Bear Lake","MN","55110","Ramsey",85
+"801356","Lanesboro Child Care Center",85,0.965,0.012,0.024,0,"100 Kirkwood",NA,"Lanesboro","MN","55949","Fillmore",141
+"1014164","Willmar Head Start",85,0.988,0,0.012,0,"3821 Abbot Dr Rooms 112, 122, 126 & 130","Toddler Town","Willmar","MN","56201","Kandiyohi",88
+"800398","Children's Country Preschool",86,0.977,0.012,0.012,0,"11024 Church St","PO Box 8","Hanover","MN","55341","Wright",58
+"810731","New Horizon Academy",86,0.965,0.035,0,0,"19512 Holt St NW",NA,"Elk River","MN","55330","Sherburne",172
+"1081419","Primrose School of St Paul at Merriam Park",86,0.953,0.047,0,0,"1533 Dayton Ave",NA,"Saint Paul","MN","55104","Ramsey",180
+"1081337","Aubrey Della Early Childhood Family Development Center",87,1,0,0,0,"6415 Brooklyn Blvd",NA,"Brooklyn Center","MN","55429","Hennepin",64
+"804287","Children's Ark Hourly Child Care Program (The)",87,0.92,0.011,0.046,0.023,"7520 Golden Vly Rd",NA,"Golden Valley","MN","55427","Hennepin",34
+"1011982","Knowledge Beginnings #071706",87,0.966,0,0.034,0,"2801 Superior Dr NW",NA,"Rochester","MN","55901","Olmsted",204
+"1060112","Lake Area Discovery Center @ St Jude of the Lake",87,0.874,0,0,0.126,"600 Mahtomedi Ave",NA,"Mahtomedi","MN","55115","Washington",93
+"1064067","Primrose School of Chanhassen",88,0.989,0.011,0,0,"8950 Crossroads Blvd",NA,"Chanhassen","MN","55317","Carver",181
+"804940","Woodpark Montessori",88,0.932,0.068,0,0,"1080 146th St. E",NA,"Burnsville","MN","55337","Dakota",132
+"1006255","Helen H. Taylor Early Childhood Education Center",89,0.989,0,0.011,0,"4901 Olsen Memorial Hwy",NA,"Minneapolis","MN","55422","Hennepin",84
+"809292","New Horizon Academy",89,0.865,0.135,0,0,"4400 Fountain Hills",NA,"Prior Lake","MN","55372","Scott",172
+"1050896","New Horizon Academy",89,0.831,0.146,0.022,0,"3785 40th Ave NW",NA,"Rochester","MN","55901","Olmsted",172
+"801496","Mayflower Early Childhood  Center",90,0.944,0.011,0.044,0,"106 E Diamond Lk Rd",NA,"Minneapolis","MN","55419","Hennepin",103
+"801892","Peace Lutheran Church Preschool",90,0.944,0,0.056,0,"20 Northdale Blvd NW",NA,"Coon Rapids","MN","55448","Anoka",60
+"1051312","Primrose School of the Lakes at Blaine",90,1,0,0,0,"2303 124th Court NE",NA,"Blaine","MN","55449","Anoka",181
+"802333","St. John's Child Care Center",90,1,0,0,0,"4842 Nicollet Ave S",NA,"Minneapolis","MN","55419","Hennepin",102
+"802615","WACS Educare and Preschool",90,0.989,0,0,0.011,"1315 W Broadway",NA,"Winona","MN","55987","Winona",150
+"802771","Alexandria Area YMCA Center east",91,0.978,0.022,0,0,"110 Karl Dr",NA,"Alexandria","MN","56308","Douglas",136
+"1080767","Childrens Learning Adventure Childcare Center",91,0.967,0.033,0,0,"13001 62nd Place",NA,"Maple Grove","MN","55369","Hennepin",545
+"1002647","Little Lambs Christian Learning Center",91,0.923,0.044,0.033,0,"1103 School St",NA,"Elk River","MN","55330","Sherburne",164
+"830760","Lord Of Life Preschool",91,0.945,0,0.044,0.011,"14501 Nowthen Blvd NW",NA,"Ramsey","MN","55303","Anoka",60
+"801606","Mount Olive Christian Early Childhood Center",91,0.956,0,0.044,0,"700 Western St",NA,"Anoka","MN","55303","Anoka",68
+"1000693","Sacred Heart Child Care Center",91,0.989,0,0.011,0,"117 4th St NW",NA,"East Grand Forks","MN","56721","Polk",40
+"1056212","Casa de Corazon Inc",92,1,0,0,0,"3928 Nicollet Ave",NA,"Minneapolis","MN","55409","Hennepin",118
+"1073644","Hartley Nature Preschool",92,0.957,0,0.043,0,"3001 Woodland Ave",NA,"Duluth","MN","55803","St. Louis",34
+"1011981","Knowledge Beginnings #071703",92,0.989,0.011,0,0,"8445 Seasons Parkway",NA,"Woodbury","MN","55125","Washington",162
+"801945","Playhouse Nursery School",92,0.989,0,0,0.011,"12951 Weaver Lake Rd",NA,"Maple Grove","MN","55369","Hennepin",20
+"802471","Temple Israel Early Childhood Center",92,0.957,0,0.043,0,"2323 Fremont Ave S",NA,"Minneapolis","MN","55405","Hennepin",105
+"801288","Kinderberry Hill Child Development Center, II",93,0.946,0.054,0,0,"3950 70th St W",NA,"Edina","MN","55435","Hennepin",152
+"1018081","Lexington Kids Christian Child Care",93,0.957,0.032,0.011,0,"701 N Lexington Ave",NA,"Saint Paul","MN","55104-2000","Ramsey",143
+"804787","Miniapple International Montessori",93,1,0,0,0,"780 Helmo Ave",NA,"Oakdale","MN","55128","Washington",120
+"801893","Peace Lutheran Preschool",93,0.968,0,0.032,0,"213 6th Ave SW",NA,"Faribault","MN","55021","Rice",93
+"1056457","Peaceful Valley Montessori Academy",93,0.968,0.032,0,0,"6501 Country Club Dr",NA,"Golden Valley","MN","55427","Hennepin",156
+"800387","Calvary Lutheran Pre-kindergarten",94,0.957,0,0.043,0,"7520 Golden Valley Rd",NA,"Golden Valley","MN","55427-4506","Hennepin",74
+"1060641","Fairy Tale Academy",94,1,0,0,0,"13500 26th Ave N",NA,"Plymouth","MN","55441","Hennepin",124
+"1076579","Highland Village Montessori School",94,0.83,0.17,0,0,"1882 Ford Pkwy",NA,"Saint Paul","MN","55116","Ramsey",41
+"830687","Apple Lane Community Child Care Center",95,0.989,0,0.011,0,"1900 8th Ave NW",NA,"Austin","MN","55912","Mower",198
+"800727","Elim Preschool/Elim Baptist Church",95,0.905,0,0.095,0,"685 13th Ave NE",NA,"Minneapolis","MN","55413","Hennepin",70
+"802380","Jewish Community Center",95,1,0,0,0,"1375 St Paul Ave",NA,"Saint Paul","MN","55116","Ramsey",146
+"804350","New Horizon Academy",95,1,0,0,0,"2381 108th Lane NE",NA,"Blaine","MN","55449","Anoka",172
+"1021418","Children of Tomorrow",96,0.958,0.042,0,0,"1490 Lake Dr  W",NA,"Chanhassen","MN","55317","Carver",146
+"1046049","Children of Tomorrow Learning Center, Waconia Inc.",96,0.948,0.01,0.042,0,"410 E 10th Street",NA,"Waconia","MN","55386","Carver",166
+"1045455","Goddard School (The)",96,1,0,0,0,"16755 County Rd 24",NA,"Plymouth","MN","55447","Hennepin",137
+"801460","Macalester Plymouth Preschool",96,0.979,0,0.021,0,"1658 Lincoln Ave",NA,"Saint Paul","MN","55105","Ramsey",52
+"802048","Ready, Set, Grow",96,0.979,0,0.021,0,"1583 Radio Dr",NA,"Woodbury","MN","55125","Washington",80
+"802157","Rochester Montessori School",96,0.979,0,0.021,0,"5099 7th Street NW",NA,"Rochester","MN","55901","Olmsted",142
+"805826","Kinderplatz",97,0.979,0.021,0,0,"5600 W American Blvd","Suites 180, 160, 150","Bloomington","MN","55437","Hennepin",128
+"1005121","Christ Lutheran Preschool and Childcare Center",98,0.949,0.02,0.031,0,"641 - 89th Ave NE",NA,"Blaine","MN","55434","Anoka",116
+"800141","Semcac Head Start Austin",98,1,0,0,0,"300 16th St NE",NA,"Austin","MN","55912","Mower",89
+"805514","Roosevelt Head Start",99,1,0,0,0,"1575 Ames Ave",NA,"Saint Paul","MN","55106","Ramsey",70
+"800065","All Saints Preschool",100,0.97,0,0.02,0.01,"15915 Excelsior Blvd",NA,"Minnetonka","MN","55345","Hennepin",67
+"1061327","Casa de Corazon Inc",100,0.97,0.02,0.01,0,"5101 France Ave S",NA,"Minneapolis","MN","55410","Hennepin",110
+"1040162","Goddard School (The)",100,0.95,0.01,0.04,0,"9295 Zane Ave N",NA,"Brooklyn Park","MN","55443","Hennepin",134
+"802340","St. John's Steppingstones",100,0.98,0,0.02,0,"12508 Lynn Ave S",NA,"Savage","MN","55378","Scott",100
+"800020","ABC Express",101,1,0,0,0,"6820 St. Patrick Lane",NA,"Edina","MN","55439","Hennepin",79
+"802231","Shirley G Moore laboratory School",101,0.96,0,0.04,0,"51 E River Rd","University of MN ICD","Minneapolis","MN","55455","Hennepin",60
+"1065359","Tayo Daycare Inc",101,0.95,0.05,0,0,"312 W Lake St Ste 2931",NA,"Minneapolis","MN","55408","Hennepin",90
+"830332","University Head Start",101,0.99,0.01,0,0,"450 Syndicate St N",NA,"Saint Paul","MN","55104","Ramsey",80
+"1062782","YMCA in Woodbury Preschool",101,0.98,0.02,0,0,"2175 Radio Dr",NA,"Woodbury","MN","55125","Washington",63
+"830774","Mounds View Head Start",102,0.971,0.01,0.02,0,"2101 NW 14th St",NA,"New Brighton","MN","55112","Ramsey",40
+"802837","St Olaf Wee Learning Center",103,0.99,0.01,0,0,"306 2nd St NW",NA,"Austin","MN","55912","Mower",93
+"1003090","Anna's Bananas Daycare and Preschool Inc",104,0.933,0.058,0.01,0,"21220 Chippendale Ave",NA,"Farmington","MN","55024","Dakota",220
+"804602","Brainerd Head Start",104,0.99,0,0.01,0,"2410 Oak St",NA,"Brainerd","MN","56401","Crow Wing",88
+"800916","Grace Neighborhood Nursery School",104,0.99,0,0.01,0,"1430 W 28th St",NA,"Minneapolis","MN","55408","Hennepin",64
+"1005235","Little Stars Early Learning Center LLC",104,0.288,0.712,0,0,"300 Madison Ave","Attn Collette L Sternitzke","Mankato","MN","56001","Blue Earth",147
+"804191","Berry Patch-Colonial",105,0.962,0,0.038,0,"6200 Colonial Way",NA,"Edina","MN","55436","Hennepin",74
+"1037699","Invest Early Project - Grand Rapids",105,0.943,0,0.057,0,"820 NW 1st Ave",NA,"Grand Rapids","MN","55744","Itasca",45
+"1000965","New Horizon Academy",105,0.99,0,0.01,0,"126 Twin Rivers Court",NA,"Sartell","MN","56377","Stearns",154
+"1088066","Goddard School (The)",106,0.962,0.009,0.028,0,"7805 Great Plains Blvd",NA,"Chanhassen","MN","55317","Carver",143
+"804046","King's Kids Preschool",106,0.953,0,0.047,0,"1040 South Grade Road","PO Box 369","Hutchinson","MN","55350","McLeod",40
+"801670","New Horizon Academy",106,0.972,0.028,0,0,"14088 141st St W",NA,"Apple Valley","MN","55124","Dakota",172
+"1079346","Primrose School of Apple Valley",106,0.991,0.009,0,0,"15455 Embry Path",NA,"Apple Valley","MN","55124","Dakota",181
+"802581","University of Minnesota Child Development Center",106,0.981,0.009,0.009,0,"1600 Rollins Ave SE",NA,"Minneapolis","MN","55455","Hennepin",140
+"1065491","YMCA Preschool",106,0.953,0.009,0.038,0,"1401 South Riverfront Dr",NA,"Mankato","MN","56001","Blue Earth",60
+"811016","Northfield Montessori",107,0.991,0.009,0,0,"340 Montessori Ct",NA,"Northfield","MN","55057-0000","Rice",186
+"1078542","Star Child Development Center LLC",107,0.897,0.103,0,0,"1915 W Broadway Ave",NA,"Minneapolis","MN","55411","Hennepin",90
+"800184","Berean Education Center",108,0.954,0,0,0.046,"309 E County Rd 42",NA,"Burnsville","MN","55306","Dakota",80
+"806196","Easter Preschool",108,0.981,0,0.019,0,"4200 Pilot Knob Rd",NA,"Eagan","MN","55122","Dakota",40
+"801270","KinderCare Learning Center",108,0.944,0.056,0,0,"8425 City Centre Dr",NA,"Woodbury","MN","55125","Washington",170
+"830978","Northside Child Development Center",108,0.981,0.009,0,0.009,"1000 Plymouth Ave N",NA,"Minneapolis","MN","55411","Hennepin",129
+"800577","Cradle Club",109,0.991,0,0.009,0,"4530 W 77th St",NA,"Edina","MN","55435","Hennepin",243
+"1066498","Primrose School of Savage",109,0.927,0.073,0,0,"7459 South Park Dr",NA,"Savage","MN","55378","Scott",181
+"830352","Incarnation Preschool",110,0.982,0,0.018,0,"4880 Hodgson Rd",NA,"Shoreview","MN","55126","Ramsey",32
+"1054015","Primrose School of Lakeville North",110,0.982,0,0.018,0,"9711 163rd Street West",NA,"Lakeville","MN","55044","Dakota",181
+"1035483","Gods Discovery Kids Preschool",111,0.991,0,0.009,0,"14770 Canada Ave W",NA,"Rosemount","MN","55068","Dakota",88
+"806532","Peace of Mind Daycare, Inc.",111,0.973,0,0.027,0,"9025 Tamarack Rd",NA,"Woodbury","MN","55125","Washington",207
+"802215","Shakopee Area Catholic School-Pre-Kindergarten",112,0.955,0.027,0.018,0,"2700 E 17th Ave",NA,"Shakopee","MN","55379","Scott",110
+"801462","MacDonald Montessori School",113,1,0,0,0,"175 S Western Ave",NA,"Saint Paul","MN","55102","Ramsey",188
+"801600","Mount Calvary Preschool",113,0.938,0.035,0.027,0,"301 Cty Rd 19",NA,"Excelsior","MN","55331","Hennepin",96
+"1007914","New Horizon Academy",113,0.973,0.027,0,0,"401 Robert St",NA,"Saint Paul","MN","55101","Ramsey",206
+"808053","Triumph's Little Lights Preschool",113,0.991,0,0.009,0,"2901 20th St S",NA,"Moorhead","MN","56560","Clay",40
+"1058705","Twin Cities Child Care Center Inc",114,0.991,0.009,0,0,"1925 Portland Ave So",NA,"Minneapolis","MN","55404","Hennepin",106
+"1046877","All Stars Montessori, LLC",115,0.87,0.13,0,0,"5920 148th St W",NA,"Apple Valley","MN","55124","Dakota",120
+"1060201","Primrose School of Eagan",116,0.948,0.043,0.009,0,"4249 Jonny Cake Ridge Rd",NA,"Eagan","MN","55122","Dakota",181
+"1044451","Primrose School of Eden Prairie",116,0.983,0.017,0,0,"7800 Eden Prairie Rd",NA,"Eden Prairie","MN","55347","Hennepin",181
+"1074352","First Step Preschool & Childcare LLC",117,0.974,0.026,0,0,"555 Railroad Dr",NA,"Elk River","MN","55330","Sherburne",65
+"1049983","Primrose School of Maple Grove",117,1,0,0,0,"6975 Wedgewood Rd",NA,"Maple Grove","MN","55311","Hennepin",180
+"801227","Kiddy Karousel",118,0.729,0.271,0,0,"3920 13th Ave E",NA,"Hibbing","MN","55746","St. Louis",198
+"1074050","Primrose School of Minnetonka",118,1,0,0,0,"17821 Hwy 7",NA,"Minnetonka","MN","55345","Hennepin",203
+"800376","Child Development and Learning Center",119,0.983,0,0.017,0,"13801 Fairview Dr",NA,"Burnsville","MN","55337","Dakota",100
+"1010844","Unlimited Potential in Education Inc Operating as Jack & Jill",121,1,0,0,0,"2812 Anthony Lane S Suite 400",NA,"Minneapolis","MN","55418","Hennepin",280
+"800379","Child Garden Total Environment Montessori School",122,0.943,0.057,0,0,"1601 Laurel Ave",NA,"Minneapolis","MN","55403","Hennepin",246
+"1021279","New Horizon Academy",122,1,0,0,0,"7601 Penn Ave S #D",NA,"Richfield","MN","55423","Hennepin",264
+"802729","Woodbury Lutheran Preschool",122,0.975,0,0.025,0,"7380 Afton Rd",NA,"Woodbury","MN","55125","Washington",82
+"1048370","Primrose School of Woodbury Tall Giraffe, Inc.",123,0.959,0.016,0.024,0,"10350 City Walk Dr",NA,"Woodbury","MN","55129","Washington",181
+"1053885","Primrose School of Rochester",124,1,0,0,0,"2600 2nd Street SW",NA,"Rochester","MN","55902","Olmsted",185
+"805073","Park Place Early Childhood Family Development Center",125,0.928,0,0.072,0,"2745 Park Ave S",NA,"Minneapolis","MN","55407","Hennepin",96
+"830690","Stay 'N Play Child Care",126,0.984,0.016,0,0,"619 E 4th St",NA,"Litchfield","MN","55355","Meeker",151
+"802785","Zion Lutheran Pre-Kindergarten",126,0.952,0,0.048,0,"1601 4th Ave S",NA,"Anoka","MN","55303","Anoka",99
+"802189","Sandcastle Child Care Center I",128,0.984,0.016,0,0,"486 View St",NA,"Saint Paul","MN","55102","Ramsey",162
+"800397","Children's Country Day School",129,0.969,0,0.031,0,"1588 S Victoria Rd",NA,"Mendota Heights","MN","55118-3658","Dakota",120
+"804368","Noah's Ark Preschool",129,0.977,0,0.023,0,"9185 N Lexington Ave",NA,"Circle Pines","MN","55014","Anoka",76
+"800152","West Side Head Start",129,0.992,0,0.008,0,"271 Belvidere St E",NA,"Saint Paul","MN","55107","Ramsey",60
+"800600","Crossroads Preschool",131,0.916,0.015,0.069,0,"4225 Gettysburg Ave N",NA,"New Hope","MN","55428","Hennepin",60
+"830391","Shepherd's Flock Preschool",133,0.97,0,0.03,0,"3611 N Berens Rd NW",NA,"Prior Lake","MN","55379","Scott",56
+"802633","Wayzata Community Church Nursery School",134,0.978,0,0.022,0,"125 E Wayzata Blvd",NA,"Wayzata","MN","55391","Hennepin",116
+"800574","Crossview Covenant Church",136,0.978,0,0.022,0,"2000 Howard Dr",NA,"North Mankato","MN","56003","Nicollet",114
+"1057890","St Odilia Child Care/St Odilia Catholic School",137,0.956,0,0.044,0,"3495 Victoria St",NA,"Shoreview","MN","55126","Ramsey",183
+"802232","Shirley R Abelson Aleph Preschool",138,0.754,0.246,0,0,"5225 Barry St W",NA,"St Louis Park","MN","55416","Hennepin",186
+"804894","Excelsior Covenant Preschool",139,0.95,0,0.05,0,"19955 Excelsior Blvd",NA,"Excelsior","MN","55331","Hennepin",80
+"801726","Normandale Preschool & Blessing Place",143,0.839,0.161,0,0,"6100 Normandale Rd",NA,"Edina","MN","55436","Hennepin",120
+"809586","Northeast Neighborhood Early Center",143,0.937,0,0.063,0,"342 13th Ave NE",NA,"Minneapolis","MN","55413","Hennepin",92
+"1005525","Saint Ambrose of Woodbury Early Childhood Education Center",144,0.951,0,0.049,0,"4125 Woodbury Drive",NA,"Woodbury","MN","55129","Washington",136
+"1032135","Westwood Preschool",144,0.944,0.007,0.049,0,"3121 Westwood Dr",NA,"Excelsior","MN","55331","Hennepin",120
+"801605","Mt. Airy Head Start",147,0.966,0,0.034,0,"91 E Arch St",NA,"Saint Paul","MN","55101","Ramsey",100
+"1040721","St. Stephen Preschool",152,0.98,0,0.02,0,"8400 France Ave S",NA,"Bloomington","MN","55431","Hennepin",99
+"1059703","New Horizon Academy",153,0.993,0.007,0,0,"625 Kutkzy Court NW",NA,"Rochester","MN","55901","Olmsted",169
+"802286","St Andrew Early Learning Program",158,0.975,0,0.025,0,"13600 Technology Dr",NA,"Eden Prairie","MN","55344","Hennepin",158
+"800179","Bemidji Head Start",161,0.95,0,0.05,0,"P O Box 579",NA,"Bemidji","MN","56619","Beltrami",130
+"809652","Glendale Early Childhood Family Development Center",161,0.82,0,0.174,0.006,"96 St Marys Ave SE",NA,"Minneapolis","MN","55414","Hennepin",108
+"810904","Hosanna! Preschool",162,0.969,0,0.031,0,"9600 163rd St W",NA,"Lakeville","MN","55044","Dakota",64
+"1065479","New Life Academy Early Childhood Program",166,0.964,0,0.036,0,"6758 Bailey Rd",NA,"Woodbury","MN","55129","Washington",141
+"802680","Fraser School",173,0.988,0,0.012,0,"2400 W 64th St",NA,"Richfield","MN","55423","Hennepin",192
+"802734","Wooddale Academy",174,0.931,0.069,0,0,"6630 Shady Oak Rd",NA,"Eden Prairie","MN","55344","Hennepin",263
+"802732","Woodbury Preschool Programs on Steepleview",177,0.983,0,0.017,0,"7465 Steepleview Rd",NA,"Woodbury","MN","55125","Washington",106
+"1030098","Family of Christ Christian Preschool",183,0.918,0,0.082,0,"16345 Polk St NE",NA,"Ham Lake","MN","55304","Anoka",142
+"801505","Mc Donough Head Start",183,0.989,0,0.011,0,"1544 Timberlake Rd",NA,"Saint Paul","MN","55117","Ramsey",80
+"1002183","Dodge Nature Preschool",186,0.925,0,0.075,0,"1715 Charlton Street",NA,"West St Paul","MN","55118","Dakota",60
+"800185","Berry Patch-Calvary",188,0.968,0,0.032,0,"5300 France Ave S",NA,"Edina","MN","55410","Hennepin",130
+"804236","Child Care Resource & Referral Head Start",198,0.99,0,0.01,0,"1026 E Center St",NA,"Rochester","MN","55904","Olmsted",156
+"807100","Town Hall Early Childhood Family Development Center",202,0.995,0,0.005,0,"8500 Zane Ave N",NA,"Brooklyn Park","MN","55443","Hennepin",156
+"802320","St Davids Center for Child and Family Development",209,0.9,0,0.1,0,"3395 Plymouth Rd",NA,"Minnetonka","MN","55305","Hennepin",283
+"810840","Battle Creek Head Start",218,0.982,0,0.014,0.005,"2181 Suburban Ave",NA,"Saint Paul","MN","55119","Ramsey",120
+"804347","Kid's Haven Child Care and Preschool",240,0.979,0,0.021,0,"302 12th Ave S",NA,"Buffalo","MN","55313","Wright",372
+"1055385","Lil Newton's Nest",257,0.984,0.012,0.004,0,"12325 Hwy 55",NA,"Plymouth","MN","55441","Hennepin",453
+"800377","Ruth O. Benner Head Start Center",277,0.978,0.022,0,0,"586 Fuller Ave",NA,"Saint Paul","MN","55103","Ramsey",140
+"1011051","Kingdom Kids",312,0.987,0,0.013,0,"4400 55th St NW",NA,"Rochester","MN","55901","Olmsted",178
+"800058","Aldrich Memorial Nursery School",346,0.988,0,0.012,0,"855 Essex Pkwy NW",NA,"Rochester","MN","55901","Olmsted",168
+"1031674","Peppermint Fence Preschool",355,0.98,0,0.02,0,"1461 County Road 101 N",NA,"Plymouth","MN","55447","Hennepin",215
+"804606","Fraser Early Childhood Family Development Center",358,0.95,0,0.05,0,"700 N Humboldt",NA,"Minneapolis","MN","55411","Hennepin",312
+"801001","Head Start Family Development Center",359,0.978,0,0.017,0.006,"9574 Foley Blvd",NA,"Coon Rapids","MN","55433","Anoka",320
+"804668","McKnight Early Childhood Family Development Center",725,0.945,0,0.052,0.003,"4225 3rd Ave S",NA,"Minneapolis","MN","55409","Hennepin",529
+"1011675","3R's Early Childhood Learning Center Inc",NA,NA,NA,NA,NA,"4900 85th Ave N",NA,"Brooklyn Park","MN","55443-1957","Hennepin",206
+"830242","Agape I Child Development Center",NA,NA,NA,NA,NA,"2304 Emerson Ave N",NA,"Minneapolis","MN","55411","Hennepin",129
+"1082560","All Ages & Faces Academy",NA,NA,NA,NA,NA,"580 Fuller Ave",NA,"Saint Paul","MN","55103","Ramsey",90
+"1079708","All Saints Academy St Cloud Campus",NA,NA,NA,NA,NA,"1215 11th Ave N",NA,"Saint Cloud","MN","56303","Stearns",44
+"1054093","All Season's Preschool",NA,NA,NA,NA,NA,"7260 South Robert Trail",NA,"Inver Grove Heights","MN","55077","Dakota",60
+"1017489","Alphabet Junction Learning Center Too, Inc.",NA,NA,NA,NA,NA,"240 E Frontage Rd",NA,"Waconia","MN","55387","Carver",82
+"1044123","American Montessori",NA,NA,NA,NA,NA,"14401 Pilot knob Rd",NA,"Apple Valley","MN","55124","Dakota",20
+"830418","American Montessori, Inc. (The)",NA,NA,NA,NA,NA,"13973 W Preserve Blvd",NA,"Burnsville","MN","55337","Dakota",61
+"1082864","Angels Fun Area LLC",NA,NA,NA,NA,NA,"2800 1st Ave S",NA,"Minneapolis","MN","55408","Hennepin",84
+"1066707","Angels Learning Center",NA,NA,NA,NA,NA,"7624 Brooklyn Blvd",NA,"Brooklyn Park","MN","55443","Hennepin",90
+"1019432","At the Summit Preschool",NA,NA,NA,NA,NA,"104 Snelling Ave S",NA,"Saint Paul","MN","55105","Ramsey",21
+"1085770","Aurora Child Care Inc",NA,NA,NA,NA,NA,"1048 Aurora Ave",NA,"Saint Paul","MN","55104","Ramsey",108
+"1005570","Backus Central Cass Head Start & Early Head Start",NA,NA,NA,NA,NA,"320 1st Ave E",NA,"Backus","MN","56435","Cass",34
+"800157","Barnesville Child Day Care Center",NA,NA,NA,NA,NA,"405 2nd St SE","PO Box 383","Barnesville","MN","56514","Clay",62
+"1006478","Bassett Creek Montessori and Daycare Center",NA,NA,NA,NA,NA,"9400 Cedar Lake Road",NA,"St Louis Park","MN","55426","Hennepin",42
+"800182","Benedictine Developmental Preschool",NA,NA,NA,NA,NA,"935 Kenwood Ave",NA,"Duluth","MN","55811","St. Louis",51
+"803886","Bernie's Montessori School",NA,NA,NA,NA,NA,"115 2nd Ave S",NA,"Minneapolis","MN","55401","Hennepin",47
+"1066499","Bethel Child Care Center",NA,NA,NA,NA,NA,"5232 Irvine Ave NW",NA,"Bemidji","MN","56601","Beltrami",62
+"800191","Bethel University Child Development Center",NA,NA,NA,NA,NA,"4021 Bethel Dr",NA,"Arden Hills","MN","55112-6999","Ramsey",54
+"830742","Bi CAP Head Start",NA,NA,NA,NA,NA,"372 Summit Ave Nw",NA,"Blackduck","MN","56630","Beltrami",50
+"1080772","Big Adventures Child Care Center Too!",NA,NA,NA,NA,NA,"14889 20th Ave NE",NA,"Little Falls","MN","56345","Morrison",30
+"1050546","Big Adventures Childcare Center",NA,NA,NA,NA,NA,"15079 22nd Ave NE",NA,"Little Falls","MN","56345","Morrison",81
+"1044131","Briar Patch Corner",NA,NA,NA,NA,NA,"501 Henrietta Ave S",NA,"Park Rapids","MN","56470","Hubbard",57
+"1055759","Bright Child Child Development Center Inc",NA,NA,NA,NA,NA,"110 6th Ave N",NA,"Princeton","MN","55371","Mille Lacs",86
+"1037620","Bright Horizons Minnetonka",NA,NA,NA,NA,NA,"111 Cheshire Lane, Suite 900",NA,"Minnetonka","MN","55305","Hennepin",48
+"1027351","Bright Water Montessori School",NA,NA,NA,NA,NA,"5140 Fremont Ave N","Attn Elizabeth Badillo Moorman","Minneapolis","MN","55430","Hennepin",134
+"1080554","Burnsville Learning Center Inc",NA,NA,NA,NA,NA,"12190 County Rd 11",NA,"Burnsville","MN","55337","Dakota",126
+"1047264","Cambridge Christian School",NA,NA,NA,NA,NA,"2211 Old Main St S",NA,"Cambridge","MN","55008","Isanti",36
+"1081857","Casa de la Bella Montessori",NA,NA,NA,NA,NA,"244 10th St E",NA,"Saint Paul","MN","55101","Ramsey",17
+"808005","Celebrating Children Preschool",NA,NA,NA,NA,NA,"12650 Johnny Cake Rdg Rd",NA,"Apple Valley","MN","55124","Dakota",50
+"1012883","Central Lutheran Church Child Care Center",NA,NA,NA,NA,NA,"259 W Wabasha St",NA,"Winona","MN","55987","Winona",84
+"800370","Child Care Center of Mapleton",NA,NA,NA,NA,NA,"604 Main St NE",NA,"Mapleton","MN","56065","Blue Earth",42
+"802483","Children's Center Montessori School (The)",NA,NA,NA,NA,NA,"1536 Minnehaha Ave W",NA,"Saint Paul","MN","55104-1208","Ramsey",30
+"800394","Children's Corner Learning Center",NA,NA,NA,NA,NA,"120 W Everett",NA,"Fergus Falls","MN","56537","Otter Tail",68
+"1084183","Childrens Learning Adventure Childcare Center",NA,NA,NA,NA,NA,"7750 Galpin Blvd",NA,"Chanhassen","MN","55317","Carver",579
+"1058198","Choo Choo Montessori LLC",NA,NA,NA,NA,NA,"2617 Duluth St",NA,"Maplewood","MN","55109","Ramsey",63
+"800494","Civic League Day Nursery",NA,NA,NA,NA,NA,"427 6th Ave SW",NA,"Rochester","MN","55902","Olmsted",93
+"1053470","Close to My Heart",NA,NA,NA,NA,NA,"1740 Van Dyke St","Attn Anne Hennessey","Maplewood","MN","55109","Ramsey",130
+"1058680","Colleenies Beanies  LLC",NA,NA,NA,NA,NA,"18500 Pilot Knob Road",NA,"Farmington","MN","55024","Dakota",83
+"1063678","Community of Saints Regional Catholic Preschool Program",NA,NA,NA,NA,NA,"335 Hurley St E",NA,"West St Paul","MN","55118","Dakota",40
+"1052277","Cornerstone Preschool Childcare Center LLC",NA,NA,NA,NA,NA,"1111 N 11th Ave E",NA,"Duluth","MN","55805","St. Louis",106
+"1007350","Crayon Box Child Care Center (The)",NA,NA,NA,NA,NA,"9554 Foley Blvd",NA,"Coon Rapids","MN","55433","Anoka",62
+"1077315","Creative Kids Academy Inc",NA,NA,NA,NA,NA,"14185 Essex Ave",NA,"Apple Valley","MN","55124","Dakota",80
+"1081752","Creative Minds Early Learning Center LLC",NA,NA,NA,NA,NA,"1641 Commerce Dr",NA,"North Mankato","MN","56003","Nicollet",61
+"1084850","Creative Wonders Childcare",NA,NA,NA,NA,NA,"1960 Cliff Lake Rd Ste 104B",NA,"Eagan","MN","55122","Dakota",46
+"1077423","Creative Wonders Childcare Co",NA,NA,NA,NA,NA,"5985 Carmen Ave",NA,"Inver Grove Heights","MN","55076","Dakota",72
+"1066309","Cross of Christ Lutheran Preschool",NA,NA,NA,NA,NA,"9931 Foley Blvd NW",NA,"Coon Rapids","MN","55433","Anoka",46
+"1011679","David's Christian Learning Center",NA,NA,NA,NA,NA,"4101 Washington St NE",NA,"Columbia Heights","MN","55421","Anoka",72
+"1083343","Destination Academy LLC",NA,NA,NA,NA,NA,"3220 Bridge St NW #105",NA,"Saint Francis","MN","55070","Anoka",49
+"1043439","Discovery Learning Center",NA,NA,NA,NA,NA,"1802 2nd Ave SW",NA,"Austin","MN","55912","Mower",69
+"1065300","Downtown Childcare Center Co",NA,NA,NA,NA,NA,"1010 Park Ave S #1",NA,"Minneapolis","MN","55404","Hennepin",47
+"804086","Eden Prairie Montessori Learning Center",NA,NA,NA,NA,NA,"7455 Market Pl Dr",NA,"Eden Prairie","MN","55344","Hennepin",80
+"1077416","Escuela Mundial Child Care Center Inc",NA,NA,NA,NA,NA,"14180 Commerce Ave NE Ste 500",NA,"Prior Lake","MN","55372","Scott",97
+"800747","Especially For Children",NA,NA,NA,NA,NA,"6223 Dell Rd",NA,"Eden Prairie","MN","55346","Hennepin",120
+"800748","Especially For Children",NA,NA,NA,NA,NA,"3370 Coachman Rd",NA,"Eagan","MN","55121","Dakota",104
+"807783","Especially For Children",NA,NA,NA,NA,NA,"2 H S Pine Dr",NA,"Circle Pines","MN","55014","Anoka",98
+"808858","Especially For Children",NA,NA,NA,NA,NA,"8885 Evergreen Blvd",NA,"Coon Rapids","MN","55433","Anoka",77
+"800753","Especially for Children",NA,NA,NA,NA,NA,"3300 Edinborough Way Ste 120",NA,"Edina","MN","55435","Hennepin",140
+"830311","Especially For Children, Inc.",NA,NA,NA,NA,NA,"6125 Cahill Ave E",NA,"Inver Grove Heights","MN","55076","Dakota",119
+"830650","Especially For Children, Inc.",NA,NA,NA,NA,NA,"5133 W 98th St",NA,"Bloomington","MN","55437","Hennepin",56
+"830752","Especially For Children, Inc.",NA,NA,NA,NA,NA,"5015 W 70th St",NA,"Edina","MN","55439-2101","Hennepin",143
+"1081820","Everbrook Academy",NA,NA,NA,NA,NA,"9620 Tamarack Rd",NA,"Woodbury","MN","55125","Washington",134
+"801731","Evergreen Montessori",NA,NA,NA,NA,NA,"6700 46th Place North",NA,"Crystal","MN","55428-5222","Hennepin",40
+"801057","Faithful Beginnings at Holy Trinity Catholic School",NA,NA,NA,NA,NA,"745 6th Ave S",NA,"South St Paul","MN","55075","Dakota",40
+"802357","Faithful Beginnings at St Marks Catholic School",NA,NA,NA,NA,NA,"1983 Dayton Ave",NA,"Saint Paul","MN","55104","Ramsey",120
+"1062722","Faithful Beginnings at Transfiguration Catholic Preschool",NA,NA,NA,NA,NA,"6135 15th St N",NA,"Oakdale","MN","55128","Washington",40
+"1078520","Family First Choice Child Care Inc",NA,NA,NA,NA,NA,"2617 Bloomington Ave S",NA,"Minneapolis","MN","55407","Hennepin",78
+"1057345","FHMC Plymouth Inc dba: Foundation Hill Montessori & Childcare",NA,NA,NA,NA,NA,"15855 61st Ave N",NA,"Plymouth","MN","55446","Hennepin",148
+"1050894","Foundation Hill Montessori Childcare",NA,NA,NA,NA,NA,"1750 139th Lane NW",NA,"Andover","MN","55304","Anoka",164
+"1081920","Franklin Industries Inc Cougar Cub Child Care Center",NA,NA,NA,NA,NA,"215 2nd Ave East",NA,"Franklin","MN","55333","Renville",46
+"1011845","Good News Preschool",NA,NA,NA,NA,NA,"5459 County Rd 18",NA,"Nisswa","MN","56468","Crow Wing",20
+"1031074","Hallelujah Childcare Center",NA,NA,NA,NA,NA,"4880 Maple Grove Rd",NA,"Hermantown","MN","55811","St. Louis",151
+"1073466","Heritage Christian Academy",NA,NA,NA,NA,NA,"15655 Bass Lake Rd",NA,"Maple Grove","MN","55311","Hennepin",49
+"1009291","Higher Education Childcare",NA,NA,NA,NA,NA,"310 E 38th St # 135",NA,"Minneapolis","MN","55409","Hennepin",18
+"1080852","Hope Academy Child Care Center",NA,NA,NA,NA,NA,"605 Franklin Ave NE",NA,"Saint Cloud","MN","56304","Benton",98
+"801080","Hope Church School",NA,NA,NA,NA,NA,"7132 Portland Ave South",NA,"Richfield","MN","55423","Hennepin",90
+"1058659","Hosanna Preschool",NA,NA,NA,NA,NA,"105 Hosanna Ave",NA,"Mankato","MN","56001","Blue Earth",20
+"1057948","Inspiring Minds Preschool & Childcare LLC",NA,NA,NA,NA,NA,"24139 Greenway Rd Ste A",NA,"Forest Lake","MN","55025","Washington",63
+"1037682","Invest Early Project-Keewatin",NA,NA,NA,NA,NA,"300 W 3rd Ave",NA,"Keewatin","MN","55753","Itasca",34
+"1037690","Invest Early Project-Marble",NA,NA,NA,NA,NA,"201 Kate St",NA,"Marble","MN","55764","Itasca",20
+"1056006","Jen & Crystals Little Rascals",NA,NA,NA,NA,NA,"1924 N Franklin",NA,"New Ulm","MN","56073","Brown",114
+"1012280","Jesus Little Lambs Preschool",NA,NA,NA,NA,NA,"37755 State Hwy 228",NA,"Frazee","MN","56544-0000","Becker",24
+"801184","Judson Preschool",NA,NA,NA,NA,NA,"4101 Harriet Ave South",NA,"Minneapolis","MN","55409","Hennepin",60
+"1066706","Just Like Home School Age Child Care",NA,NA,NA,NA,NA,"304 W Main St",NA,"Kasson","MN","55944","Dodge",120
+"1066211","Kandi Land Learning Center",NA,NA,NA,NA,NA,"928 Washington Ave S",NA,"Bemidji","MN","56601","Beltrami",70
+"804812","Kids and Company Child Care Center",NA,NA,NA,NA,NA,"850 S Street",NA,"Anoka","MN","55303","Anoka",24
+"1083371","Kids Care Zone Limited",NA,NA,NA,NA,NA,"310 E 38th St Ste 226",NA,"Minneapolis","MN","55409","Hennepin",84
+"1081409","Kids Choice LLC",NA,NA,NA,NA,NA,"3240 E River Rd NE",NA,"Rochester","MN","55906","Olmsted",NA
+"1009604","Kids Connection",NA,NA,NA,NA,NA,"3381 Gorham Ave",NA,"St Louis Park","MN","55426","Hennepin",20
+"830261","Kids Core-Westonka School Age Kids Core",NA,NA,NA,NA,NA,"2451 Fairview Ln",NA,"Mound","MN","55364","Hennepin",85
+"801211","Kid's Depot",NA,NA,NA,NA,NA,"400 Lake St",NA,"Hutchinson","MN","55350","McLeod",63
+"1083645","Kids Garden Daycare",NA,NA,NA,NA,NA,"959 Minnehaha Ave",NA,"Saint Paul","MN","55104","Ramsey",103
+"1075412","Kids Grow Hope",NA,NA,NA,NA,NA,"19951 Oswald Farm Rd",NA,"Corcoran","MN","55374","Hennepin",59
+"802850","Kid's Korner Educare",NA,NA,NA,NA,NA,"600 Florence Ave",NA,"Owatonna","MN","55060","Steele",260
+"810433","Kids-n-kare Day Care Center",NA,NA,NA,NA,NA,"725 2nd St NW",NA,"Pipestone","MN","56164","Pipestone",53
+"1062277","KidsPark",NA,NA,NA,NA,NA,"525 Pelham Blvd",NA,"Saint Paul","MN","55104","Ramsey",24
+"1053427","Kidz Junction Inc School Age",NA,NA,NA,NA,NA,"31 4th Ave SW",NA,"Hutchinson","MN","55350","McLeod",53
+"1055523","Kidz Kollege Learning Center",NA,NA,NA,NA,NA,"4770 Hermantown Road",NA,"Hermantown","MN","55811","St. Louis",81
+"1074254","Kinder Village",NA,NA,NA,NA,NA,"504 Lynnhurst Ave E",NA,"Saint Paul","MN","55104","Ramsey",40
+"800434","KinderCare Learning Center",NA,NA,NA,NA,NA,"8825 Aztec Dr",NA,"Eden Prairie","MN","55347","Hennepin",125
+"800435","KinderCare Learning Center",NA,NA,NA,NA,NA,"7660 Kentucky Ave N",NA,"Brooklyn Park","MN","55428","Hennepin",143
+"800450","KinderCare Learning Center",NA,NA,NA,NA,NA,"525 Huron Blvd SE",NA,"Minneapolis","MN","55414","Hennepin",103
+"800466","KinderCare Learning Center",NA,NA,NA,NA,NA,"2070 Burns ave",NA,"Saint Paul","MN","55119","Ramsey",116
+"801252","KinderCare Learning Center",NA,NA,NA,NA,NA,"2791 Hwy 10",NA,"Mounds View","MN","55112","Ramsey",97
+"801255","KinderCare Learning Center",NA,NA,NA,NA,NA,"6270 Sycamore Lane",NA,"Maple Grove","MN","55369","Hennepin",112
+"801271","KinderCare Learning Center",NA,NA,NA,NA,NA,"7924 Brooklyn Blvd",NA,"Brooklyn Park","MN","55445","Hennepin",96
+"801285","KinderCare Learning Center",NA,NA,NA,NA,NA,"4475 Hwy 169 N",NA,"Plymouth","MN","55442","Hennepin",115
+"830178","KinderCare Learning Center",NA,NA,NA,NA,NA,"14100 St Francis Blvd",NA,"Ramsey","MN","55303","Anoka",112
+"1025410","KinderCare Learning Center",NA,NA,NA,NA,NA,"4732 Excelsior Blvd",NA,"St Louis Park","MN","55416","Hennepin",166
+"1049204","KinderCare Learning Center",NA,NA,NA,NA,NA,"14080 Northdale Blvd",NA,"Rogers","MN","55374","Hennepin",122
+"1034870","KinderGardens Child Development Center",NA,NA,NA,NA,NA,"14665 Mercantile Drive N",NA,"Hugo","MN","55038","Washington",155
+"1011983","Knowledge Beginnings #071704",NA,NA,NA,NA,NA,"4155 Lexington Ave",NA,"Eagan","MN","55123","Dakota",173
+"1048346","Krayola Kids Childcare Center",NA,NA,NA,NA,NA,"750 Golden Way NE",NA,"Isanti","MN","55040","Isanti",121
+"801317","La Creche Early Childhood Centers, Inc.",NA,NA,NA,NA,NA,"1800 Olson Memorial Hwy",NA,"Minneapolis","MN","55411","Hennepin",82
+"1078301","La Creche II Early Childhood Centers Inc",NA,NA,NA,NA,NA,"1120 Oliver Ave N",NA,"Minneapolis","MN","55411","Hennepin",32
+"1001324","La Petite Academy",NA,NA,NA,NA,NA,"9440 36th AVE N",NA,"New Hope","MN","55427","Hennepin",125
+"1001331","La Petite Academy",NA,NA,NA,NA,NA,"1770 Grand AVE",NA,"Saint Paul","MN","55105","Ramsey",30
+"1074042","Lake Area Discovery Center at St Josephs School",NA,NA,NA,NA,NA,"41 E First St",NA,"Waconia","MN","55387","Carver",40
+"801332","Lake Harriet Montessori School",NA,NA,NA,NA,NA,"4501 Colfax Ave S",NA,"Minneapolis","MN","55419","Hennepin",40
+"1077022","Language of Love Spanish Immersion LLC",NA,NA,NA,NA,NA,"323 Birch St",NA,"Waconia","MN","55387","Carver",57
+"1077905","Language of Love Spanish Immersion LLC",NA,NA,NA,NA,NA,"14100 Valley View Rd",NA,"Eden Prairie","MN","55344","Hennepin",74
+"801367","Learn And Grow Child Care Center, Inc.",NA,NA,NA,NA,NA,"13142 Central Ave NE",NA,"Blaine","MN","55434","Anoka",74
+"1084304","Learning Ladder Inc (The)",NA,NA,NA,NA,NA,"985 Marlin Place W Suite 1",NA,"Pillager","MN","56473-0000","Cass",36
+"1015142","Learning Tree Development Center",NA,NA,NA,NA,NA,"1701 W Old Shakopee Rd","Suite # 8","Bloomington","MN","55431","Hennepin",31
+"1027576","Learning Tree Inc. (The)",NA,NA,NA,NA,NA,"340 W Commercial Drive",NA,"Annandale","MN","55302","Wright",85
+"1080044","Lil Explorers Childcare Center",NA,NA,NA,NA,NA,"4123 Oakwood Pkwy NE",NA,"Saint Michael","MN","55376","Wright",209
+"1076954","Lil' Explorers Inc",NA,NA,NA,NA,NA,"705 Hwy 55",NA,"Buffalo","MN","55313","Wright",209
+"1060492","Linden Hills Child Care Center LLC",NA,NA,NA,NA,NA,"4201 Sheridan Ave So",NA,"Minneapolis","MN","55410","Hennepin",72
+"1048704","Little B's Child Care Center",NA,NA,NA,NA,NA,"3690 Co Rd 140",NA,"Barnum","MN","55707","Carlton",80
+"1063112","Little Cardinals Academy/Motley Family Center",NA,NA,NA,NA,NA,"132 1st Ave S",NA,"Motley","MN","56466","Morrison",7
+"1064448","Little Inspirations Childcare Center",NA,NA,NA,NA,NA,"7059 10th St N",NA,"Oakdale","MN","55128","Washington",56
+"1077738","Little Learners Academy LLC",NA,NA,NA,NA,NA,"1405 Broadway St Ste B",NA,"Alexandria","MN","56308","Douglas",74
+"1081748","Little Learners Child Care",NA,NA,NA,NA,NA,"50 Chestnut St E",NA,"Annandale","MN","55302","Wright",101
+"1067369","Little Learners LLC",NA,NA,NA,NA,NA,"201 9th St W Ste 3",NA,"Ada","MN","56510","Norman",39
+"800695","Little Learners Montessori & Childcare Inc",NA,NA,NA,NA,NA,"8115  Hwy 7",NA,"St Louis Park","MN","55426","Hennepin",76
+"1029615","Little People Learning Center",NA,NA,NA,NA,NA,"31099 Edgewater Farm Dr",NA,"Breezy Point","MN","56472","Crow Wing",99
+"1039378","Little Red Wagon",NA,NA,NA,NA,NA,"31426 125th St NW",NA,"Princeton","MN","55371","Sherburne",83
+"1083372","Little Red Wagon Child Care Center",NA,NA,NA,NA,NA,"17565 Hwy 65",NA,"Ham Lake","MN","55304","Anoka",81
+"1054866","Little Saints Preschool",NA,NA,NA,NA,NA,"8201 Main St",NA,"Chanhassen","MN","55317","Carver",129
+"1056699","Little Stars",NA,NA,NA,NA,NA,"9400 Golden Valley Rd",NA,"Golden Valley","MN","55427","Hennepin",20
+"1077304","Little Steps Childcare Center",NA,NA,NA,NA,NA,"906 Dale St N",NA,"Saint Paul","MN","55103","Ramsey",31
+"809621","Loving Arms Child Care Center",NA,NA,NA,NA,NA,"1101 SW Willmar Ave",NA,"Willmar","MN","56201","Kandiyohi",78
+"800907","Loving Shepherd Early Learning Center",NA,NA,NA,NA,NA,"5501 Glenwood Ave",NA,"Golden Valley","MN","55422-5070","Hennepin",144
+"830875","Lubavitch Early Childhood Center",NA,NA,NA,NA,NA,"1778 Ford Pkwy",NA,"Saint Paul","MN","55116-0000","Ramsey",41
+"1063119","Maple Tree Day School",NA,NA,NA,NA,NA,"1001 Marie Ave",NA,"South St Paul","MN","55075","Dakota",54
+"1081191","Mary Queen of Peace Catholic School",NA,NA,NA,NA,NA,"21201 Church Ave",NA,"Rogers","MN","55374","Hennepin",40
+"1061724","Mary T Wellcome Child Development Center",NA,NA,NA,NA,NA,"1301 10th Ave N",NA,"Minneapolis","MN","55411","Hennepin",54
+"1082195","Medley Village",NA,NA,NA,NA,NA,"732 Holly Ave",NA,"Saint Paul","MN","55104","Ramsey",20
+"1049280","Memories & Milestones Academy",NA,NA,NA,NA,NA,"1501 1st Street NE",NA,"New Prague","MN","56071","Scott",73
+"1063675","Midwest Child Development LLC dba Hamline Child Development Center",NA,NA,NA,NA,NA,"1514 Englewood Ave",NA,"Saint Paul","MN","55104","Ramsey",42
+"1081768","Mini Mos LLC",NA,NA,NA,NA,NA,"2 Beth Ann Dr",NA,"Esko","MN","55733","Carlton",102
+"803898","Miniapple International Montessori",NA,NA,NA,NA,NA,"1125 5th St SE",NA,"Minneapolis","MN","55414","Hennepin",147
+"807206","Miniapple International Montessori",NA,NA,NA,NA,NA,"1875 W Perimeter Dr",NA,"Roseville","MN","55113","Ramsey",112
+"1018376","MN Chinese Day Care & Learning Center",NA,NA,NA,NA,NA,"2300 N Hamline Ave",NA,"Roseville","MN","55113","Ramsey",48
+"1055925","MN Chinese Day Care and Learning Center",NA,NA,NA,NA,NA,"2520 Kenzie Terrace",NA,"Minneapolis","MN","55418","Hennepin",25
+"801589","Morning Son Christian Preschool",NA,NA,NA,NA,NA,"1319 Cleveland Ave",NA,"Fergus Falls","MN","56537","Otter Tail",20
+"830821","Mother Goose Inn",NA,NA,NA,NA,NA,"5300 Edina Industrial Blvd #200",NA,"Edina","MN","55439","Hennepin",45
+"1060501","New Creations Child Care & Learning Center",NA,NA,NA,NA,NA,"12267 Aberdeen St NE",NA,"Blaine","MN","55449","Anoka",110
+"1063701","New Creations Child Care & Learning Center",NA,NA,NA,NA,NA,"3210 Bunker Lake Blvd",NA,"Andover","MN","55304","Anoka",44
+"1074583","New Creations Child Care & Learning Center",NA,NA,NA,NA,NA,"4300 Edinbrook Pkwy",NA,"Brooklyn Park","MN","55443","Hennepin",94
+"1074585","New Creations Child Care & Learning Center",NA,NA,NA,NA,NA,"620 Town Center Pkwy",NA,"Lino Lakes","MN","55014","Anoka",111
+"1082846","New Creations Child Care & Learning Center",NA,NA,NA,NA,NA,"16547 Marketplace Dr",NA,"Big Lake","MN","55309","Sherburne",105
+"1084852","New Creations Child Care & Learning Center",NA,NA,NA,NA,NA,"877 Jefferson Ave W",NA,"Saint Paul","MN","55102","Ramsey",95
+"1083108","New Creations Child Care & Licensing Center LLC",NA,NA,NA,NA,NA,"5400 140th Ave NW",NA,"Ramsey","MN","55303","Anoka",47
+"801688","New Horizon Academy",NA,NA,NA,NA,NA,"5340 Hyland Greens Dr",NA,"Bloomington","MN","55437","Hennepin",109
+"810886","New Horizon Academy",NA,NA,NA,NA,NA,"19625 State Hwy 7",NA,"Shorewood","MN","55331","Hennepin",124
+"1000964","New Horizon Academy",NA,NA,NA,NA,NA,"2905 Chestnut St N",NA,"Chaska","MN","55318","Carver",172
+"1036265","New Horizon Academy",NA,NA,NA,NA,NA,"14105 James Rd",NA,"Rogers","MN","55374","Hennepin",172
+"1046297","New Horizon Academy",NA,NA,NA,NA,NA,"7802 W 175th St",NA,"Lakeville","MN","55044","Dakota",158
+"1078870","New Horizon Academy",NA,NA,NA,NA,NA,"3354 Penn Ave N",NA,"Minneapolis","MN","55412","Hennepin",176
+"801807","One of a Kind Children's Center, Inc.",NA,NA,NA,NA,NA,"3612 Bloomington Ave S",NA,"Minneapolis","MN","55407","Hennepin",29
+"1056209","Orchard Park Child Care",NA,NA,NA,NA,NA,"11901 Excelsior Blvd",NA,"Minnetonka","MN","55343","Hennepin",109
+"1076119","Orchard Park Crosstown",NA,NA,NA,NA,NA,"6000 Culligan Way",NA,"Minnetonka","MN","55345","Hennepin",45
+"1078386","Our Lady of Peace Early Learning Program",NA,NA,NA,NA,NA,"5435 11th Ave S",NA,"Minneapolis","MN","55417","Hennepin",80
+"801842","Our Savior Early Childhood Center",NA,NA,NA,NA,NA,"23290 Hwy 7",NA,"Excelsior","MN","55331","Hennepin",54
+"830830","Our Savior Preschool",NA,NA,NA,NA,NA,"411 W Main St",NA,"Brownsdale","MN","55918","Mower",10
+"1009812","Our Savior's New Horizons Christian Preschool",NA,NA,NA,NA,NA,"615 12th St",NA,"Cloquet","MN","55720","Carlton",20
+"1048534","Pathways to Play Early Learning Center",NA,NA,NA,NA,NA,"1815 Bromley St",NA,"SOUTH SAINT PAUL","MN","55075","Dakota",180
+"1085974","Peaceful Valley Montessori Academy",NA,NA,NA,NA,NA,"18295 Cascade Dr",NA,"Eden Prairie","MN","55347","Hennepin",144
+"1066574","Pitter Patters Early Learning Center LLC",NA,NA,NA,NA,NA,"608 Walnut St",NA,"Madison Lake","MN","56063","Blue Earth",50
+"1004914","Precious Gifts Preschool",NA,NA,NA,NA,NA,"331 W Harrison St",NA,"Annandale","MN","55302","Wright",20
+"1062456","Primrose School of Champlin Park",NA,NA,NA,NA,NA,"10051 Xenia Ave N",NA,"Brooklyn Park","MN","55443","Hennepin",178
+"1064528","Primrose School of Edina",NA,NA,NA,NA,NA,"7399 Metro Blvd",NA,"Edina","MN","55439","Hennepin",178
+"1048300","Primrose School of West Plymouth",NA,NA,NA,NA,NA,"17805 Old Rockford Rd",NA,"Plymouth","MN","55446","Hennepin",180
+"830434","Prior Lake Montessori School",NA,NA,NA,NA,NA,"5116 Gateway St","Suite 101","Prior Lake","MN","55372","Scott",40
+"1053471","Progressive Early Childhood Education Center",NA,NA,NA,NA,NA,"1505 Burns Ave",NA,"Saint Paul","MN","55106","Ramsey",26
+"802001","Punkins and Monkeys Preschool",NA,NA,NA,NA,NA,"231 Sinclair Lewis Ave",NA,"Sauk Centre","MN","56378","Stearns",20
+"802013","Rainbow Discovery Center",NA,NA,NA,NA,NA,"617 E Main St",NA,"Belle Plaine","MN","56011","Scott",45
+"1064171","Rise N Shine Childcare Center Inc",NA,NA,NA,NA,NA,"4749 Hiawatha Ave S",NA,"Minneapolis","MN","55406","Hennepin",95
+"804104","River Hills Early Childhood Center",NA,NA,NA,NA,NA,"11100 River Hills Dr",NA,"Burnsville","MN","55337","Dakota",118
+"1062779","River Valley YMCA in Prior Lake Early Childhood Learning Center",NA,NA,NA,NA,NA,"3575 North Berens Rd NW",NA,"Prior Lake","MN","55379","Scott",106
+"1081742","Riversong Montessori",NA,NA,NA,NA,NA,"3244 34th Ave S",NA,"Minneapolis","MN","55406","Hennepin",20
+"802156","Robin Child Care",NA,NA,NA,NA,NA,"3620 43rd Ave N",NA,"Robbinsdale","MN","55422","Hennepin",24
+"1064561","Rochester Arts & Sciences Academy",NA,NA,NA,NA,NA,"974 Skyline Dr SW",NA,"Rochester","MN","55902","Olmsted",40
+"806182","Rose of Sharon Sonshine Preschool",NA,NA,NA,NA,NA,"6875 Jamaica Ave",NA,"Cottage Grove","MN","55016","Washington",87
+"801164","Sabes J.C.C. Early Childhood Center",NA,NA,NA,NA,NA,"4330 S Cedar Lake Rd",NA,"St Louis Park","MN","55416-0000","Hennepin",192
+"1050329","School Readiness Learning Academy Inc",NA,NA,NA,NA,NA,"1221 7th Ave N",NA,"Minneapolis","MN","55411","Hennepin",38
+"1001901","SHAPE Center Child Care",NA,NA,NA,NA,NA,"7300 Boone Ave",NA,"Brooklyn Park","MN","55428","Hennepin",22
+"1082568","Sharing & Caring Childcare",NA,NA,NA,NA,NA,"1229 E Lake St Ste 104",NA,"Minneapolis","MN","55407","Hennepin",84
+"830336","Shepherd of the Hills Preschool",NA,NA,NA,NA,NA,"3920 N Victoria St",NA,"Shoreview","MN","55126","Ramsey",40
+"1084848","Shine Bright Early Learning Center",NA,NA,NA,NA,NA,"3457 Fremont Ave N",NA,"Minneapolis","MN","55412","Hennepin",27
+"1062792","Shoreview YMCA Early Childhood Learning Center",NA,NA,NA,NA,NA,"3760 Lexington Ave",NA,"Shoreview","MN","55126","Ramsey",27
+"1066378","SonShine Learning Center Luther",NA,NA,NA,NA,NA,"1568 Eustis",NA,"Lauderdale","MN","55108","Ramsey",94
+"1065869","Southwest Montessori School",NA,NA,NA,NA,NA,"5000 Washburn Ave S",NA,"Minneapolis","MN","55410","Hennepin",28
+"1077959","St Casimirs Early Childhood Program",NA,NA,NA,NA,NA,"330 Second Ave SW",NA,"Wells","MN","56097","Faribault",20
+"1080539","St Charles Borromeo Preschool",NA,NA,NA,NA,NA,"2727 Stinson Blvd",NA,"Saint Anthony","MN","55418","Ramsey",65
+"1076829","St Charles Child Care",NA,NA,NA,NA,NA,"343 DAYCARE DR",NA,"Saint Charles","MN","55972-2131","Winona",101
+"1000467","St Felix School Preschool Pre Kindergarten & St Felix Gods Kids",NA,NA,NA,NA,NA,"130 E 3rd St","Attn Eric Sonnek","Wabasha","MN","55981","Wabasha",35
+"1063308","St Michael Catholic Preschool",NA,NA,NA,NA,NA,"100 Central Ave E",NA,"Saint Michael","MN","55376","Wright",40
+"1062392","St Michael Catholic School",NA,NA,NA,NA,NA,"16280 Duluth Ave SE",NA,"Prior Lake","MN","55372","Scott",80
+"1062807","St Paul Eastside YMCA Early Childhood Learning Center",NA,NA,NA,NA,NA,"875 Arcade St",NA,"Saint Paul","MN","55106","Ramsey",111
+"1062800","St Paul Midway YMCA Early Childhood Learning Center",NA,NA,NA,NA,NA,"547 North Wheeler",NA,"Saint Paul","MN","55104","Ramsey",142
+"1066497","St Paul's Lutheran Learning Center",NA,NA,NA,NA,NA,"30289 59th Ave Way",NA,"Cannon Falls","MN","55009","Goodhue",10
+"809565","St. Croix Montessori",NA,NA,NA,NA,NA,"177 Neal Ave N",NA,"Stillwater","MN","55082","Washington",103
+"810876","St. Johns Grandkids",NA,NA,NA,NA,NA,"201 S County Road 5",NA,"Springfield","MN","56087","Brown",43
+"1018677","St. John's Lutheran Church and School",NA,NA,NA,NA,NA,"300 4th St E",NA,"Chaska","MN","55318","Carver",36
+"802363","St. Mary's Child Care Center",NA,NA,NA,NA,NA,"530 E 2nd St",NA,"Duluth","MN","55805","St. Louis",64
+"830633","St. Peter's Preschool/Discovery",NA,NA,NA,NA,NA,"1250 S Shore Dr",NA,"Forest Lake","MN","55025","Washington",40
+"1060203","Stepping Stones Childcare Learning Center Inc",NA,NA,NA,NA,NA,"810 NW 7th St",NA,"Brainerd","MN","56401","Crow Wing",131
+"1073572","Stepping Stones Childcare Learning Center Inc",NA,NA,NA,NA,NA,"3261 Rosewood St",NA,"Pequot Lakes","MN","56472","Crow Wing",72
+"1081449","Sugar Plum Childcare Center Inc South",NA,NA,NA,NA,NA,"136 19th Ave N",NA,"Saint Cloud","MN","56303","Stearns",33
+"1079865","Sunlight Child Care Center Inc",NA,NA,NA,NA,NA,"1718 N Washington Ave Ste 2",NA,"Minneapolis","MN","55411","Hennepin",81
+"802434","Sunny Days Preschool",NA,NA,NA,NA,NA,"1645 S Shore Dr",NA,"Worthington","MN","56187","Nobles",20
+"802438","Sunrise Christian Academy",NA,NA,NA,NA,NA,"7687 Long Lake Rd",NA,"Mounds View","MN","55112","Ramsey",78
+"1059739","Sunshine Child Care Center Inc",NA,NA,NA,NA,NA,"1822 E Lake St",NA,"Minneapolis","MN","55407","Hennepin",48
+"802445","Sunshine Montessori School",NA,NA,NA,NA,NA,"4557 Colfax Ave S",NA,"Minneapolis","MN","55419","Hennepin",54
+"802446","Sunshine Preschool",NA,NA,NA,NA,NA,"759 E Cty Rd B",NA,"Maplewood","MN","55117","Ramsey",20
+"1024370","Sunshine Station Childcare and Preschool",NA,NA,NA,NA,NA,"8956 Walnut St",NA,"Rockford","MN","55373","Wright",88
+"802451","Sunshine Valley Child Care",NA,NA,NA,NA,NA,"7600 S Harold Ave",NA,"Golden Valley","MN","55427","Hennepin",49
+"1062317","Tender Child Care LLC",NA,NA,NA,NA,NA,"15 Winifred St W",NA,"Saint Paul","MN","55107","Ramsey",79
+"1017591","Tiger Club",NA,NA,NA,NA,NA,"6085 7th St NE",NA,"Fridley","MN","55432","Anoka",122
+"811033","Tinkertown Station",NA,NA,NA,NA,NA,"13160 Fremont",NA,"Zimmerman","MN","55398","Sherburne",74
+"1046976","Treks & Trails Preschool",NA,NA,NA,NA,NA,"1661 Park Ridge Drive",NA,"Chaska","MN","55318","Carver",20
+"802541","Trinity Lone Oak Lutheran School Preschool",NA,NA,NA,NA,NA,"2950 Dodd Rd",NA,"Eagan","MN","55121","Dakota",40
+"1054444","Tri-Valley Elysian Head Start Center",NA,NA,NA,NA,NA,"101 5th St  NW",NA,"Elysian","MN","56028","Waseca",80
+"830241","Tutor Time of Andover",NA,NA,NA,NA,NA,"3390 Bunker Lk Blvd",NA,"Andover","MN","55304","Anoka",134
+"810112","Tutor Time of Apple Valley",NA,NA,NA,NA,NA,"14370 Glenda Dr",NA,"Apple Valley","MN","55124","Dakota",144
+"831083","Tutor Time of Blaine",NA,NA,NA,NA,NA,"1570 109th Ave",NA,"Blaine","MN","55449","Anoka",214
+"830829","Tutor Time of Champlin",NA,NA,NA,NA,NA,"6251 110th Ave N",NA,"Champlin","MN","55316","Hennepin",162
+"1001395","Tutor Time of Cottage Grove",NA,NA,NA,NA,NA,"7071 E Point Douglas Rd S",NA,"Cottage Grove","MN","55016","Washington",148
+"1021215","Tutor Time of Maple Grove",NA,NA,NA,NA,NA,"6340 Wedgwood Rd",NA,"Maple Grove","MN","55311","Hennepin",122
+"830172","Tutor Time of White Bear Lake",NA,NA,NA,NA,NA,"4673 White Bear Pkwy",NA,"White Bear Lake","MN","55110","Ramsey",128
+"1036757","Under the Weather, LLC",NA,NA,NA,NA,NA,"8590 Edinburgh Centre Drive",NA,"Brooklyn Park","MN","55443","Hennepin",56
+"1074551","United Child Daycare LLC",NA,NA,NA,NA,NA,"4145 Hiawatha Ave So",NA,"Minneapolis","MN","55406","Hennepin",89
+"802576","United Preschool",NA,NA,NA,NA,NA,"702 Hwy 69 S",NA,"Albert Lea","MN","56007","Freeborn",44
+"805685","Walker Head Start",NA,NA,NA,NA,NA,"Walker Elementary School",NA,"Walker","MN","56484","Cass",20
+"802754","Woodview Terrace Montessori/ Infant and Toddler Center",NA,NA,NA,NA,NA,"6255 Upper Afton Rd",NA,"Woodbury","MN","55125","Washington",74
+"1019077","World Around Us Child Development Center, Inc.",NA,NA,NA,NA,NA,"2290 11th Ave E",NA,"North St Paul","MN","55109","Ramsey",114
+"1062797","YMCA in Eagan Early Childhood Learning Center",NA,NA,NA,NA,NA,"550 Opperman Dr",NA,"Eagan","MN","55123","Dakota",238
+"807503","Zoe Child Care Center",NA,NA,NA,NA,NA,"6345 Xerxes Ave S",NA,"Richfield","MN","55423","Hennepin",46
+"830800","ALC Child Care Center",NA,NA,NA,NA,NA,"37 Woodlake Dr SE",NA,"Rochester","MN","55904","Olmsted",14
+"1052586","Baby Corner North",NA,NA,NA,NA,NA,"621 N Springen",NA,"Fergus Falls","MN","56537","Otter Tail",16
+"1037618","Bright Horizons Minneapolis Gaviidae",NA,NA,NA,NA,NA,"651 Nicollet Mall Suite 135",NA,"Minneapolis","MN","55402","Hennepin",53
+"800281","C.H.I.L.D.",NA,NA,NA,NA,NA,"2450 Riverside Ave",NA,"Minneapolis","MN","55454-1395","Hennepin",24
+"800278","CAPE Child Care Center",NA,NA,NA,NA,NA,"2727 N Ferry St",NA,"Anoka","MN","55303","Anoka",49
+"1078473","Childrens Corner Pelican Rapids",NA,NA,NA,NA,NA,"119 N Broadway",NA,"Pelican Rapids","MN","56572","Otter Tail",36
+"1055339","Little Blessings Preschool",NA,NA,NA,NA,NA,"421 East Ave",NA,"Red Wing","MN","55066","Goodhue",20
+"1048390","Madina Academy LLC",NA,NA,NA,NA,NA,"4025 University Ave NE",NA,"Columbia Heights","MN","55421","Anoka",56
+"1081914","Midwest Child Development LLC dba Como Lake Child Development Center",NA,NA,NA,NA,NA,"670 W Wheelock Parkway",NA,"Saint Paul","MN","55117","Ramsey",41
+"801864","North Education Center",NA,NA,NA,NA,NA,"5530 Zealand Ave N",NA,"New Hope","MN","55428","Hennepin",52
+"1081809","Recovering Hope Daycare Center",NA,NA,NA,NA,NA,"2031 Rowland Rd",NA,"Mora","MN","55051","Kanabec",30
+"801863","South Education Center",NA,NA,NA,NA,NA,"7450 Penn Ave S",NA,"Richfield","MN","55423","Hennepin",34
+"1067370","Stay Play & Learn Childcare & Activity Center",NA,NA,NA,NA,NA,"714 6th St SE",NA,"East Grand Forks","MN","56721-0000","Polk",24
+"802274","Teen Parent Services Roosevelt",NA,NA,NA,NA,NA,"4029 28th Ave S",NA,"Minneapolis","MN","55406","Hennepin",29
+"1086640","The Gardner School-Minnetonka",NA,NA,NA,NA,NA,"6030 Clearwater Dr",NA,"Minnetonka","MN","55343","Hennepin",206
+"1082378","Tiny Tigers",NA,NA,NA,NA,NA,"2040 Co Rd 52",NA,"Rothsay","MN","56579","Wilkin",47
+"1009454","Treasured Tykes",NA,NA,NA,NA,NA,"2675 E Highway 36",NA,"North St Paul","MN","55109","Ramsey",24
+"802709","Winona Area Learning Center",NA,NA,NA,NA,NA,"1299 W 3rd St",NA,"Winona","MN","55987","Winona",16
+"800005","A Child's View",NA,NA,NA,NA,NA,"1684/1686 Marshall Ave.",NA,"Saint Paul","MN","55104","Ramsey",22
+"809952","A Child's View",NA,NA,NA,NA,NA,"2066 East Palace Ave.",NA,"Saint Paul","MN","55105","Ramsey",8
+"1000652","All God's Children Preschool",NA,NA,NA,NA,NA,"5879 Wyoming Trail",NA,"Wyoming","MN","55092","Chisago",19
+"1075534","Annas Bananas Daycare & Preschool",NA,NA,NA,NA,NA,"12004 County Rd 11",NA,"Burnsville","MN","55337-0000","Dakota",40
+"1036758","Baby Corner (The)",NA,NA,NA,NA,NA,"1122 S Mill St",NA,"Fergus Falls","MN","56537","Otter Tail",12
+"800291","Calvary Lutheran Preschool",NA,NA,NA,NA,NA,"2508 Washington Ave SE",NA,"Bemidji","MN","56601-1893","Beltrami",52
+"1083482","General Mills Infant Care Center",NA,NA,NA,NA,NA,"One General Mills Blvd",NA,"Golden Valley","MN","55426","Hennepin",60
+"800431","KinderCare Learning Center",NA,NA,NA,NA,NA,"13033 Valley View Rd",NA,"Eden Prairie","MN","55344","Hennepin",110
+"1088054","Merry Moose Childcare Center",NA,NA,NA,NA,NA,"164 Broadway St E",NA,"Rockville","MN","56369-0000","Stearns",16
+"1079853","New Horizon Academy",NA,NA,NA,NA,NA,"628 Kutzky Ct NW",NA,"Rochester","MN","55901","Olmsted",122
+"801732","North Teen Parent Services",NA,NA,NA,NA,NA,"1500 James Ave N",NA,"Minneapolis","MN","55411","Hennepin",20
+"1063774","St Peter Community Childcare Center",NA,NA,NA,NA,NA,"1616 W Jefferson Ave",NA,"Saint Peter","MN","56082","Nicollet",30
+"802268","Teen Parent Services South High",NA,NA,NA,NA,NA,"3131 19th Ave S",NA,"Minneapolis","MN","55407","Hennepin",24
+"1064636","Teenage Pregnancy & Parenting Program TAPP",NA,NA,NA,NA,NA,"110 Fulton St",NA,"Mankato","MN","56001","Blue Earth",4
+"1083507","Tiny Sprouts",NA,NA,NA,NA,NA,"1103 Weir Dr #300",NA,"Woodbury","MN","55125","Washington",43
